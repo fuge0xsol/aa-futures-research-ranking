@@ -40,7 +40,7 @@ def sector_hits(text):
    if name.lower() in text.lower(): out.append((slug,name,code))
  return out
 
-def normalize(company,title,publish,source_type,url,detail='',author='',summary=''):
+def normalize(company,title,publish,report_type,source_type,url,detail='',author='',summary=''):
  title=clean(title); text=f'{title} {summary}'
  hits=sector_hits(text)
  if not hits: return []
@@ -52,7 +52,7 @@ def normalize(company,title,publish,source_type,url,detail='',author='',summary=
   seen=[]
   for x in varieties:
    if x not in seen: seen.append(x)
-  rows.append({'company':company,'rating_level':'AA','sector':slug,'sector_name':SECTORS[slug]['name'],'report_type':'日报/周报待核验','title':title,'publish_date':parse_date(publish),'author':clean(author),'source_type':source_type,'source_url':url,'detail_url':detail or url,'pdf_url':'','main_varieties':seen,'matched_keywords':'、'.join(x['name'] for x in seen),'collection_status':'discovered'})
+  rows.append({'company':company,'rating_level':'AA','sector':slug,'sector_name':SECTORS[slug]['name'],'report_type':report_type or '未分类','title':title,'publish_date':parse_date(publish),'author':clean(author),'source_type':source_type,'source_url':url,'detail_url':detail or url,'pdf_url':'','main_varieties':seen,'matched_keywords':'、'.join(x['name'] for x in seen),'collection_status':'discovered'})
  return rows
 
 def collect_citic():
@@ -69,7 +69,7 @@ def collect_citic():
    pub=x.get('rptDate') or x.get('publishDate'); title=x.get('rptAllTitle') or x.get('title'); summary=x.get('rptSummary')
    d=parse_date(pub)
    if d and d < START.isoformat(): continue
-   rows += normalize('中信期货',title,pub,'官方', 'https://inst.citicsf.com/research-report/researchReportQuery', f'https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId={x.get("id","")}', summary=summary)
+   rows += normalize('中信期货',title,pub,x.get('catName') or ({1003:'日报',1009:'周报'}.get(x.get('catId'))), '官方', 'https://inst.citicsf.com/research-report/researchReportQuery', f'https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId={x.get("id","")}', summary=summary)
   time.sleep(.2)
  return rows
 
@@ -90,7 +90,7 @@ def collect_gtja():
     d=parse_date(pub)
     if d and d < START.isoformat(): continue
     # category page is a sector assertion; keyword filter still limits to major varieties
-    rows += normalize('国泰君安期货',title,pub,'官方',url,f'https://www.gtjaqh.com/pc/reportDetail/{rid}',x.get('authors'),x.get('imagetxt',''))
+    rows += normalize('国泰君安期货',title,pub,x.get('imagetxt') or ({'102413':'日报','102414':'周报','104663':'合集'}.get(str(x.get('reporttype')))), '官方',url,f'https://www.gtjaqh.com/pc/reportDetail/{rid}',x.get('authors'),x.get('imagetxt',''))
    if not items: break
    time.sleep(.2)
  return rows
@@ -108,7 +108,7 @@ def collect_huatai():
    title=x.get('title') or x.get('article_title'); pub=x.get('publish_date') or x.get('create_date'); link=x.get('link_url') or url
    d=parse_date(pub)
    if d and d < START.isoformat(): continue
-   rows += normalize('华泰期货',title,pub,'官方','https://www.htfc.com/main/yjzx/zxzx/htqh_yzx/index.shtml?id=10031',link,x.get('author'))
+   rows += normalize('华泰期货',title,pub,x.get('report_type') or x.get('type') or '研究资讯','官方','https://www.htfc.com/main/yjzx/zxzx/htqh_yzx/index.shtml?id=10031',link,x.get('author'))
   time.sleep(.2)
  return rows
 
