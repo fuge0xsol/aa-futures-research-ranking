@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-labelledby="title desc">
+  <title id="title">AA 期货研报回测榜</title>
+  <desc id="desc">深绿色方形标志，包含两条上升曲线与 AA 字母</desc>
+  <defs>
+    <linearGradient id="bg" x1="12" y1="8" x2="84" y2="88" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2d765b"/>
+      <stop offset="1" stop-color="#123e31"/>
+    </linearGradient>
+    <linearGradient id="line" x1="18" y1="69" x2="77" y2="25" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#b9d84a"/>
+      <stop offset="1" stop-color="#eff79c"/>
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="88" height="88" rx="24" fill="url(#bg)"/>
+  <path d="M18 68 33 52l11 9 26-31" fill="none" stroke="url(#line)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 30h8v8" fill="none" stroke="#eff79c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m21 77 9-25 9 25M24 68h12M49 77l9-25 9 25M52 68h12" fill="none" stroke="#fff" stroke-opacity=".96" stroke-width="4.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
