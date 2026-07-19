@@ -44,7 +44,32 @@ data/backtest/normalized_reports.json
 - 能化：`/energy/`
 - 黑色：`/ferrous/`
 
-## 本地运行
+## FTShare 期货合约 K 线（可选数据源）
+
+新增脚本 `scripts/collect_ftshare_kline.py`，仅接入 FTShare 的具体期货合约 K 线接口 `ft_futures_contract_kline`。它不替换现有 AKShare 主力连续回测，而是用于缓存真实合约的 OHLC、成交量、成交额、VWAP 和持仓量，便于后续做行情交叉验证与持仓量增强分析。
+
+示例：
+
+```bash
+python scripts/collect_ftshare_kline.py --symbol M2609.DCE --interval daily --limit 500
+```
+
+多个合约可写入 JSON：
+
+```json
+{"symbols": ["M2609.DCE", "SR609.CZCE"]}
+```
+
+然后执行：
+
+```bash
+python scripts/collect_ftshare_kline.py --symbols-file config/ftshare_contracts.json
+```
+
+缓存写入 `data/market/ftshare_kline/`，默认被 Git 忽略。FTShare MCP 返回 markdown 表格，脚本会解析并保存为 JSON；请求失败或解析失败时不会写入空缓存。
+
+> 当前项目的正式回测基准仍是 AKShare `品种0` 主力连续序列。FTShare 具体合约数据作为补充数据源，避免把不同合约直接拼接成错误的连续价格序列。
+
 
 ```bash
 python -m http.server 8080

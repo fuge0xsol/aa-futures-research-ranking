@@ -1,2 +1,5 @@
 __pycache__/
 *.pyc
+
+# FTShare market cache is generated locally and should not be committed.
+/data/market/ftshare_kline/
