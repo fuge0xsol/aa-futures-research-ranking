@@ -3,9 +3,167 @@
   "sector_name": "农产",
   "generated_at": "2026-07-19",
   "window_start": "2026-04-20",
-  "report_count": 134,
-  "company_count": 2,
+  "report_count": 212,
+  "company_count": 3,
   "reports": [
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "豆粕：震荡，关注美豆天气与需求 豆一：盘面震荡，关注抛储与市场情绪",
+      "publish_date": "2026-07-19",
+      "author": "吴光静",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/13f8630b-bb87-3433-b747-e510a51707ec",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "棕榈油：产地卖压未消，三季度震荡寻底 豆油：天气提供波动，地缘升温小幅共振",
+      "publish_date": "2026-07-19",
+      "author": "李隽钰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/735c0979-dd6f-34ff-b73c-e9c4f3e483bb",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "生猪：需求负反馈显现，近端压力持续",
+      "publish_date": "2026-07-19",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9918dc35-411a-3e0c-ab5d-244ab7c56f3d",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "棉花：关注抛储实际情况20260719",
+      "publish_date": "2026-07-19",
+      "author": "傅博",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/330343eb-559b-3585-8389-518ba573a110",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "玉米：弱势运行",
+      "publish_date": "2026-07-19",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/dd69ddfb-1a53-3dab-99d1-3f5ac135e9d7",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "白糖：印度有望再度进口",
+      "publish_date": "2026-07-19",
+      "author": "周小球",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/832f243f-05cb-370e-85bf-5e8a776d4a97",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报",
+      "title": "花生：等待驱动",
+      "publish_date": "2026-07-19",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/38e721b5-42a8-3731-90f0-887dec4b1139",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
     {
       "company": "国泰君安期货",
       "rating_level": "AA",
@@ -306,7 +464,7 @@
       "publish_date": "2026-07-16",
       "author": "周小球",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9094b79e-240f-3f45-a0f6-5332fdded16a",
       "pdf_url": "",
       "main_varieties": [
@@ -328,7 +486,7 @@
       "publish_date": "2026-07-16",
       "author": "吴光静",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/6097b7ca-4d27-38db-a7ca-4d9a78b1bccc",
       "pdf_url": "",
       "main_varieties": [
@@ -350,7 +508,7 @@
       "publish_date": "2026-07-16",
       "author": "李隽钰",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/c7e025bc-7e0f-3c12-a931-3a393c23ce0d",
       "pdf_url": "",
       "main_varieties": [
@@ -376,7 +534,7 @@
       "publish_date": "2026-07-15",
       "author": "周小球,吴昊",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9575ad66-3c86-3dc2-9fe2-cf1b30d8e835",
       "pdf_url": "",
       "main_varieties": [
@@ -398,7 +556,7 @@
       "publish_date": "2026-07-15",
       "author": "吴昊",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9f93afde-e364-3c69-8da1-3f4172d835a7",
       "pdf_url": "",
       "main_varieties": [
@@ -420,7 +578,7 @@
       "publish_date": "2026-07-15",
       "author": "尹恺宜",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/7ba7045f-1961-3008-87d7-02313e262806",
       "pdf_url": "",
       "main_varieties": [
@@ -780,7 +938,7 @@
       "publish_date": "2026-07-13",
       "author": "李隽钰",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/86c14c37-1b2a-37db-b409-3edd141e0577",
       "pdf_url": "",
       "main_varieties": [
@@ -806,7 +964,7 @@
       "publish_date": "2026-07-13",
       "author": "傅博",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/89dc49b6-925c-3c2b-b6ef-7ee227fdf391",
       "pdf_url": "",
       "main_varieties": [
@@ -828,7 +986,7 @@
       "publish_date": "2026-07-13",
       "author": "吴光静",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/653fc70e-f58d-3f68-b707-aa0e9ed692d7",
       "pdf_url": "",
       "main_varieties": [
@@ -850,7 +1008,7 @@
       "publish_date": "2026-07-13",
       "author": "周小球",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/319a9467-1196-3fd6-af8f-70c60e3df93f",
       "pdf_url": "",
       "main_varieties": [
@@ -872,7 +1030,7 @@
       "publish_date": "2026-07-13",
       "author": "吴昊",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/ee4f9a50-693a-38e0-9e00-b9aaf705df81",
       "pdf_url": "",
       "main_varieties": [
@@ -882,6 +1040,120 @@
         }
       ],
       "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：中秋预期托底远月，淡季现实压制近月，期现分化加剧20260713",
+      "publish_date": "2026-07-13",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63926&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：WASDE报告下调全球玉米库存，国内新季玉米采购为开秤价奠定下行预期20260713",
+      "publish_date": "2026-07-13",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63925&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货花生周报：油厂收购价下调，后市关注天气20260713",
+      "publish_date": "2026-07-13",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63914&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：阶段性反弹与多空博弈加剧，猪价高位震荡20260713",
+      "publish_date": "2026-07-13",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63923&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "专题报告",
+      "title": "白糖专题：印度糖业补贴体系20260713",
+      "publish_date": "2026-07-13",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63927&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
       "collection_status": "discovered"
     },
     {
@@ -1065,6 +1337,50 @@
       "collection_status": "discovered"
     },
     {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：抛储预期再度发酵20260712",
+      "publish_date": "2026-07-12",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63897&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货白糖产业周报：糖价沉浮，静候风气20260712",
+      "publish_date": "2026-07-12",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63895&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
       "company": "国泰君安期货",
       "rating_level": "AA",
       "sector": "agri",
@@ -1153,109 +1469,87 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "agri",
       "sector_name": "农产",
-      "report_type": "日报",
-      "title": "棉花：维持震荡走势20260710",
+      "report_type": "周报",
+      "title": "南华期货苹果产业周报：早熟开秤，弱预期或渐成重心20260710",
       "publish_date": "2026-07-10",
-      "author": "傅博",
+      "author": "",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/346a3b26-3efb-3ed7-8f7d-9849ed5cc74a",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63886&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
-          "name": "棉花",
-          "code": "CF"
+          "name": "苹果",
+          "code": "AP"
         }
       ],
-      "matched_keywords": "棉花",
+      "matched_keywords": "苹果",
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "agri",
       "sector_name": "农产",
-      "report_type": "日报",
-      "title": "白糖：震荡偏弱",
-      "publish_date": "2026-07-10",
-      "author": "周小球",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：巴西玉米大量上市叠加国内粮食拍卖，玉米延续供需双弱格局20260706",
+      "publish_date": "2026-07-06",
+      "author": "靳晚冬",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/3e0c218c-becc-3ef6-b916-384860b8b561",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63853&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
-          "name": "白糖",
-          "code": "SR"
-        }
-      ],
-      "matched_keywords": "白糖",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "国泰君安期货",
-      "rating_level": "AA",
-      "sector": "agri",
-      "sector_name": "农产",
-      "report_type": "日报",
-      "title": "棕榈油：产地驱动不强，关注MPOB报告 豆油：高温天气提供波动因素，地缘降温",
-      "publish_date": "2026-07-10",
-      "author": "李隽钰",
-      "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/fe877a7d-278e-3090-ac69-224a6d39a854",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "豆油",
-          "code": "Y"
+          "name": "玉米",
+          "code": "C"
         },
         {
-          "name": "棕榈油",
-          "code": "P"
+          "name": "淀粉",
+          "code": "CS"
         }
       ],
-      "matched_keywords": "豆油、棕榈油",
+      "matched_keywords": "玉米、淀粉",
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "agri",
       "sector_name": "农产",
-      "report_type": "日报",
-      "title": "豆粕：或跟随美豆调整，等待USDA供需报告 豆一：调整震荡",
-      "publish_date": "2026-07-10",
-      "author": "吴光静",
+      "report_type": "周报",
+      "title": "南华期货花生周报：资金影响，盘面先涨后跌20260706",
+      "publish_date": "2026-07-06",
+      "author": "靳晚冬",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/4e24f417-ac0b-37f0-aafe-ce90e505c25c",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63850&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
-          "name": "豆粕",
-          "code": "M"
+          "name": "花生",
+          "code": "PK"
         }
       ],
-      "matched_keywords": "豆粕",
+      "matched_keywords": "花生",
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "agri",
       "sector_name": "农产",
-      "report_type": "日报",
-      "title": "生猪：关注1-3及1-5反套",
-      "publish_date": "2026-07-09",
-      "author": "周小球,吴昊",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：标肥价差走弱推动生猪价格短期反弹20260706",
+      "publish_date": "2026-07-06",
+      "author": "边舒扬",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/7d3f4bf2-b6a5-3819-b2c9-6d8de5555f6e",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63834&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -1267,17 +1561,131 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "agri",
       "sector_name": "农产",
-      "report_type": "日报",
-      "title": "鸡蛋：震荡调整",
-      "publish_date": "2026-07-09",
-      "author": "吴昊",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：新疆产区面临高温风险20260705",
+      "publish_date": "2026-07-05",
+      "author": "陈嘉宁",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/193c1fb9-cdcd-3f3f-978b-8f7239fead93",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63826&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货苹果产业周报：资金延续流入，但基本面形成压制20260705",
+      "publish_date": "2026-07-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63819&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货白糖产业周报：糖价待潮来20260705",
+      "publish_date": "2026-07-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63822&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：玉米供应宽松，淀粉需求回暖20260629",
+      "publish_date": "2026-06-29",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63765&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：去库存提速与政策加码共振，底部支撑渐强20260629",
+      "publish_date": "2026-06-29",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63764&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：中秋预期托底远月，淡季现实压制近月，期现分化加剧20260629",
+      "publish_date": "2026-06-29",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63763&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -1286,6 +1694,1406 @@
         }
       ],
       "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货花生周报：天气炒作酝酿中20260629",
+      "publish_date": "2026-06-29",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63762&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货白糖产业周报：下方空间打开，难上行20260628",
+      "publish_date": "2026-06-28",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63733&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货苹果产业周报：资金带动，但未破震荡上沿20260628",
+      "publish_date": "2026-06-28",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63724&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：宏观情绪主导，关注产区天气20260626",
+      "publish_date": "2026-06-26",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63713&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：新麦、陈稻同步分流饲用需求，玉米行情上涨受阻20260622",
+      "publish_date": "2026-06-22",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63688&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：端午结束，梅雨来临，高位回落风险加剧20260622",
+      "publish_date": "2026-06-22",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63680&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货苹果产业周报：低库存与增产预期博弈20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63668&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货白糖产业周报：区间震荡，有待突破20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63661&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：政策托底强化，供需拉锯延续20260622",
+      "publish_date": "2026-06-22",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63667&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：印度季风推迟，产区降水减少20260620",
+      "publish_date": "2026-06-20",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63646&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：窄幅震荡，价格上行阻力犹存20260615",
+      "publish_date": "2026-06-15",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63610&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货花生周报：产区播种基本结束，后续关注天气20260615",
+      "publish_date": "2026-06-15",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63594&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：备货退潮叠加梅雨压制，蛋价高位承压20260615",
+      "publish_date": "2026-06-15",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63577&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：弱现实强预期博弈加剧，猪价低位磨底待变20260615",
+      "publish_date": "2026-06-15",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63574&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货苹果产业周报：宽幅震荡延续20260614",
+      "publish_date": "2026-06-14",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63567&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货白糖产业周报：宽幅震荡，中枢变化不大20260614",
+      "publish_date": "2026-06-14",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63566&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：全球库存预期下调20260613",
+      "publish_date": "2026-06-13",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63561&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "热点报告",
+      "title": "南华期货棉花棉纱热点：USDA六月报告已出，全球库存预期继续下调20260612",
+      "publish_date": "2026-06-12",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63554&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "热点报告",
+      "title": "南华期货棉花棉纱热点：厄尔尼诺下全球棉花产量的潜在变数20260611",
+      "publish_date": "2026-06-11",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63549&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：新麦上市叠加进口预期，玉米维持供应宽松格局20260609",
+      "publish_date": "2026-06-09",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63507&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货花生周报：关注河南麦茬花生20260608",
+      "publish_date": "2026-06-08",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63490&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：近端压力犹存，远期预期改善，底部窄幅震荡20260608",
+      "publish_date": "2026-06-08",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63481&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：近强远弱格局延续，高位博弈风险加剧20260608",
+      "publish_date": "2026-06-08",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63480&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货白糖产业周报：多空博弈，形成短期困局20260607",
+      "publish_date": "2026-06-07",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63474&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：外围扰动再起，棉价随之下行20260606",
+      "publish_date": "2026-06-06",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63442&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货苹果产业周报：增产预期难转变，上行存在天花板20260605",
+      "publish_date": "2026-06-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63436&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "热点报告",
+      "title": "棕榈油热点报告：地缘托底，天气与生柴共推远期棕油溢价20260604",
+      "publish_date": "2026-06-04",
+      "author": "陈晨",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63434&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "热点报告",
+      "title": "南华期货棉花棉纱热点：内外价差走扩，抛储悬念待解20260604",
+      "publish_date": "2026-06-04",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63411&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "热点报告",
+      "title": "白糖期货热点：印度季风推迟，厄尔尼诺或助郑糖突破20260602",
+      "publish_date": "2026-06-02",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63313&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货花生周报：油厂收紧指标，盘面窄幅震荡20260601",
+      "publish_date": "2026-06-01",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63297&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：玉米底部调整，种植成本支撑价格20260601",
+      "publish_date": "2026-06-01",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63292&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：供应偏紧支撑价格，梅雨与新开产构筑下行压力20260531",
+      "publish_date": "2026-05-31",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63275&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：弱现实与强预期拉锯，底部窄幅震荡延续20260531",
+      "publish_date": "2026-05-31",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63283&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：目标价格补贴政策落地20260531",
+      "publish_date": "2026-05-31",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63270&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货白糖产业周报：内强外弱，郑糖上涨可持续吗？20260531",
+      "publish_date": "2026-05-31",
+      "author": "杨歆悦",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63244&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货苹果产业周报：去库增速，但总量仍需时间消化20260529",
+      "publish_date": "2026-05-29",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63222&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：政策托底与弱现实博弈，底部拉锯延续20260525",
+      "publish_date": "2026-05-25",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63143&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：供需平衡延续，高位博弈增加20260525",
+      "publish_date": "2026-05-25",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63149&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货白糖产业周报：震荡回落，库存压力延续20260524",
+      "publish_date": "2026-05-24",
+      "author": "杨歆悦",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63130&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：棉价下破万六关口20260523",
+      "publish_date": "2026-05-23",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63123&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货苹果产业周报：弱现实与弱预期双重压力20260523",
+      "publish_date": "2026-05-23",
+      "author": "杨歆悦",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63121&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：新季小麦陆续上市，替代品压制玉米价格20260518",
+      "publish_date": "2026-05-18",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63090&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：政策预期转弱推动期价下跌20260518",
+      "publish_date": "2026-05-18",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63075&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：内外棉价大幅回落20260516",
+      "publish_date": "2026-05-16",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63058&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "热点报告",
+      "title": "白糖期货热点：印度下达“禁令”，对糖市影响几何？20260514",
+      "publish_date": "2026-05-14",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63045&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：短期强势难改中期宽松，警惕下半月回调风险20260512",
+      "publish_date": "2026-05-12",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63030&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货花生周报：现货底部震荡，盘面不断探底20260511",
+      "publish_date": "2026-05-11",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63020&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：糙米拍卖落地，玉米价格承压20260511",
+      "publish_date": "2026-05-11",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63021&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：猪价磨底何时了20260511",
+      "publish_date": "2026-05-11",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63015&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：棉价高位回落，政策风险提升20260508",
+      "publish_date": "2026-05-08",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62989&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：低库存托底蛋价偏强，新开产放量中期承压20260507",
+      "publish_date": "2026-05-07",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62977&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货花生周报：新季花生播种中，盘面窄幅震荡20260507",
+      "publish_date": "2026-05-07",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62978&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：供需保持稳定，玉米高位震荡20260506",
+      "publish_date": "2026-05-06",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62975&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：节后供需重回平淡，产业链利润仍处冰点20260506",
+      "publish_date": "2026-05-06",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62963&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：20260502",
+      "publish_date": "2026-05-02",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62944&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：现货市场情绪好转，盘面偏强震荡20260427",
+      "publish_date": "2026-04-27",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62914&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：备货渐退，高位承压20260427",
+      "publish_date": "2026-04-27",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62915&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：上涨动能逐渐减弱，现货或承压下跌20260427",
+      "publish_date": "2026-04-27",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62908&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货棉花棉纱周报：棉价强势上行，关注政策风险20260425",
+      "publish_date": "2026-04-25",
+      "author": "陈嘉宁",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62880&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华鸡蛋产业周报：五一备货推动现价上涨20260420",
+      "publish_date": "2026-04-20",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62850&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华期货玉米&淀粉周报：种植利润增加，玉米预期丰产20260420",
+      "publish_date": "2026-04-20",
+      "author": "靳晚冬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62846&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周报",
+      "title": "南华生猪产业周报：生猪价格短期超跌阶段性修复，基本面仍未改善20260420",
+      "publish_date": "2026-04-20",
+      "author": "边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62840&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
       "collection_status": "discovered"
     },
     {
@@ -3296,62 +5104,6 @@
         }
       ],
       "matched_keywords": "生猪",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "中信期货",
-      "rating_level": "AA",
-      "sector": "agri",
-      "sector_name": "农产",
-      "report_type": "日报",
-      "title": "【中信期货农业】油脂短期弱势整理——日报20260610",
-      "publish_date": "",
-      "author": "",
-      "source_type": "官方",
-      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
-      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050238",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "豆油",
-          "code": "Y"
-        },
-        {
-          "name": "棕榈油",
-          "code": "P"
-        },
-        {
-          "name": "菜油",
-          "code": "OI"
-        }
-      ],
-      "matched_keywords": "豆油、棕榈油、菜油",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "中信期货",
-      "rating_level": "AA",
-      "sector": "agri",
-      "sector_name": "农产",
-      "report_type": "公开专题",
-      "title": "20260610 Daily Note：Coking Coal, Coke, Poly-Silicon 日报：焦煤、焦炭、多晶硅【中信期货国际化 CITIC Futures】",
-      "publish_date": "",
-      "author": "",
-      "source_type": "官方",
-      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
-      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050234",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "菜粕",
-          "code": "RM"
-        },
-        {
-          "name": "菜油",
-          "code": "OI"
-        }
-      ],
-      "matched_keywords": "菜粕、菜油",
       "collection_status": "discovered"
     }
   ],

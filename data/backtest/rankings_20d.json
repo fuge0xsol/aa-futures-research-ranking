@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "company_name": "南华期货",
+    "sample_count": 61,
+    "hit_count": 32,
+    "accuracy": 52.46,
+    "avg_return_pct": 0.4655,
+    "score": 53.34,
+    "status": "正式排名",
+    "rank": 1
+  }
+]

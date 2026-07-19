@@ -3,6 +3,7 @@
 from __future__ import annotations
 import json, re, time
 from collections import defaultdict
+from urllib.parse import urljoin
 from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import quote
@@ -112,6 +113,40 @@ def collect_huatai():
   time.sleep(.2)
  return rows
 
+def collect_nanhua():
+ """南华期货公开研报接口：日报、周报、专题报告。"""
+ rows=[]
+ base='https://mall.nanhua.net/mall/nh/api'
+ page_url='https://mall.nanhua.net/mall/r/w/reportNew/report-list.html'
+ headers={'Referer':page_url,'Origin':'https://mall.nanhua.net','Content-Type':'application/json'}
+ # 以公开农产品分类为主；其余板块使用同一接口的分类代码。
+ categories={'agri':['DAY_agri','WEEK_agri','PRO_agri','HOT_agri'],
+             'metals':['DAY_nonfe','WEEK_nonfe','PRO_nonfe','HOT_nonfe'],
+             'energy':['DAY_enchem','WEEK_enchem','PRO_enchem','HOT_enchem'],
+             'ferrous':['DAY_black','WEEK_black','PRO_black','HOT_black']}
+ type_names={'DAY':'日报','WEEK':'周报','PRO':'专题报告','HOT':'热点报告'}
+ for slug,codes in categories.items():
+  for code in codes:
+   type1,_,suffix=code.partition('_')
+   for page in range(1,6):
+    try:
+     r=S.post(f'{base}/report/getPage.json',json={'type1Code':type1,'type2Code':code,'pageNo':page,'pageSize':100},headers=headers,timeout=30)
+     obj=r.json(); data=obj.get('data') or {}; items=data.get('result') or []
+    except Exception as e:
+     print('NANHUA error',code,page,e); break
+    if not items: break
+    for x in items:
+     title=x.get('title') or x.get('fileName','')
+     pub=x.get('date') or x.get('createTime') or x.get('updateTime')
+     d=parse_date(pub)
+     if d and d < START.isoformat(): continue
+     detail=x.get('detailUrl') or f"https://mall.nanhua.net/mall/r/w/reportNew/report-list-page.html?id={x.get('id','')}"
+     rows += normalize('南华期货',title,pub,type_names.get(type1,type1),'官方',page_url,detail,x.get('personName') or x.get('person',''))
+    if len(items)<100: break
+    time.sleep(.1)
+ return rows
+
+
 def dedup(rows):
  seen=set(); out=[]
  for r in rows:
@@ -123,7 +158,7 @@ def dedup(rows):
 def main():
  print(f'window={START}..{TODAY}')
  all_rows=[]
- for fn in (collect_citic,collect_gtja,collect_huatai):
+ for fn in (collect_citic,collect_gtja,collect_huatai,collect_nanhua):
   before=len(all_rows); got=fn(); all_rows += got; print(fn.__name__,len(got),'rows')
  all_rows=dedup(all_rows)
  OUT.mkdir(parents=True,exist_ok=True)

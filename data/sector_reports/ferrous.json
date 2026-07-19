@@ -3,9 +3,31 @@
   "sector_name": "黑色",
   "generated_at": "2026-07-19",
   "window_start": "2026-04-20",
-  "report_count": 91,
-  "company_count": 2,
+  "report_count": 114,
+  "company_count": 3,
   "reports": [
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "镍：基本面逻辑企稳，低位警惕消息扰动 不锈钢：原料支撑重心下移，关注配额预期扰动",
+      "publish_date": "2026-07-19",
+      "author": "张再宇",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/274af682-4c41-3dfc-bdf5-f1ccde66884c",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
     {
       "company": "国泰君安期货",
       "rating_level": "AA",
@@ -16,7 +38,7 @@
       "publish_date": "2026-07-17",
       "author": "李亚飞,金园园",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/f141175d9982a4269af494c8a2e837c6",
       "pdf_url": "",
       "main_varieties": [
@@ -42,7 +64,7 @@
       "publish_date": "2026-07-17",
       "author": "张再宇",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/fdab6e46-0018-3e5e-837c-a99b9754ec8d",
       "pdf_url": "",
       "main_varieties": [
@@ -64,7 +86,7 @@
       "publish_date": "2026-07-17",
       "author": "李亚飞",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/08867a59-5d51-3c53-80ef-d2c0c5e0dda5",
       "pdf_url": "",
       "main_varieties": [
@@ -86,7 +108,7 @@
       "publish_date": "2026-07-17",
       "author": "李亚飞",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/c286da4f-b63c-3424-bf57-f3b8873ccf6a",
       "pdf_url": "",
       "main_varieties": [
@@ -108,7 +130,7 @@
       "publish_date": "2026-07-17",
       "author": "刘豫武",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/2a93b744-c4d5-314e-a404-aa94c08ff071",
       "pdf_url": "",
       "main_varieties": [
@@ -125,109 +147,17 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "ferrous",
       "sector_name": "黑色",
-      "report_type": "合集",
-      "title": "所长早读：关注铁矿石、尿素",
-      "publish_date": "2026-07-16",
-      "author": "林小春",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：宏观与印尼政策共振20260712",
+      "publish_date": "2026-07-12",
+      "author": "管城瀚、夏莹莹",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/0ded3c1b-ebc6-315c-bbea-5a285cabf8ad",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "铁矿石",
-          "code": "I"
-        }
-      ],
-      "matched_keywords": "铁矿石",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "国泰君安期货",
-      "rating_level": "AA",
-      "sector": "ferrous",
-      "sector_name": "黑色",
-      "report_type": "日报",
-      "title": "硅铁：多空力量博弈，价格宽幅震荡 锰硅：多空力量博弈，价格宽幅震荡 20260716",
-      "publish_date": "2026-07-16",
-      "author": "李亚飞,金园园",
-      "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/371e0dd81c64682e1577b55342491b6e",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "硅铁",
-          "code": "SF"
-        },
-        {
-          "name": "锰硅",
-          "code": "SM"
-        }
-      ],
-      "matched_keywords": "硅铁、锰硅",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "国泰君安期货",
-      "rating_level": "AA",
-      "sector": "ferrous",
-      "sector_name": "黑色",
-      "report_type": "日报",
-      "title": "螺纹钢：强预期与弱现实博弈，市场偏强震荡 热轧卷板：强预期与弱现实博弈，市场偏强震荡",
-      "publish_date": "2026-07-16",
-      "author": "李亚飞",
-      "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/d66643b9-1d7d-3da6-81ee-314b3310acdb",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "螺纹钢",
-          "code": "RB"
-        }
-      ],
-      "matched_keywords": "螺纹钢",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "国泰君安期货",
-      "rating_level": "AA",
-      "sector": "ferrous",
-      "sector_name": "黑色",
-      "report_type": "日报",
-      "title": "铁矿石：季末冲量结束，澳洲巴西发运下降",
-      "publish_date": "2026-07-16",
-      "author": "李亚飞",
-      "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/30cc13c3-ab59-38d8-a098-226b5eb63e8c",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "铁矿石",
-          "code": "I"
-        }
-      ],
-      "matched_keywords": "铁矿石",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "国泰君安期货",
-      "rating_level": "AA",
-      "sector": "ferrous",
-      "sector_name": "黑色",
-      "report_type": "日报",
-      "title": "镍：高位库存边际去化，盘面压力稍有缓和 不锈钢：警惕印尼镍铁消息影响，现实约束弹性",
-      "publish_date": "2026-07-16",
-      "author": "张再宇",
-      "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/b67e382b-6394-351d-9372-3524413a60d5",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63891&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -239,29 +169,623 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：供需双弱，铁强煤弱20260712",
+      "publish_date": "2026-07-12",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63905&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：钢厂盈利率持续下滑，震荡寻底20260706",
+      "publish_date": "2026-07-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63840&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：关注配额走势动向20260628",
+      "publish_date": "2026-06-28",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63745&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：向下寻底20260628",
+      "publish_date": "2026-06-28",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63746&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内走势有所分化20260622",
+      "publish_date": "2026-06-22",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63657&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：利空共振，向下寻找支撑20260620",
+      "publish_date": "2026-06-20",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63642&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内深度回调，宏观影响较大20260615",
+      "publish_date": "2026-06-15",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63596&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：估值修复可期20260615",
+      "publish_date": "2026-06-15",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63588&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内深度回调，宏观影响较大20260607",
+      "publish_date": "2026-06-07",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63473&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：焦煤价格压制，估值低位20260606",
+      "publish_date": "2026-06-06",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63441&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        },
+        {
+          "name": "焦煤",
+          "code": "JM"
+        }
+      ],
+      "matched_keywords": "铁矿石、焦煤",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "ferrous",
       "sector_name": "黑色",
       "report_type": "日报",
-      "title": "焦炭：宽幅震荡 焦煤：宽幅震荡",
-      "publish_date": "2026-07-16",
-      "author": "刘豫武",
+      "title": "南华镍&不锈钢日报：日内偏强震荡20260603",
+      "publish_date": "2026-06-03",
+      "author": "管城瀚",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/1facce0c-bc88-3938-a317-1f01d8e42e3f",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63330&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "日报",
+      "title": "镍&不锈钢日报20260603",
+      "publish_date": "2026-06-03",
+      "author": "管城瀚",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63324&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "镍&不锈钢周报20260603",
+      "publish_date": "2026-06-03",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63331&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内震荡为主，关注底部支撑20260603",
+      "publish_date": "2026-06-03",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63328&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "日报",
+      "title": "南华镍&不锈钢日报：近期维持宽幅震荡走势20260602",
+      "publish_date": "2026-06-02",
+      "author": "管城瀚",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63319&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内震荡偏弱为主，驱动逻辑尚不明确20260531",
+      "publish_date": "2026-05-31",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63269&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：运费显著抬升20260530",
+      "publish_date": "2026-05-30",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63234&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内震荡偏弱，等待明确驱动20260524",
+      "publish_date": "2026-05-24",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63134&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货钢材产业周报：焦煤供应预期收缩，钢材成本驱动20260524",
+      "publish_date": "2026-05-24",
+      "author": "陈敏涛",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63135&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
           "name": "焦煤",
           "code": "JM"
-        },
-        {
-          "name": "焦炭",
-          "code": "J"
         }
       ],
-      "matched_keywords": "焦煤、焦炭",
+      "matched_keywords": "焦煤",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：乐观溢价消退，下行空间有限20260523",
+      "publish_date": "2026-05-23",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63122&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：前期利多逻辑降温，等待明确信号20260518",
+      "publish_date": "2026-05-18",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63070&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：供求平衡，上行动能减弱20260515",
+      "publish_date": "2026-05-15",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63053&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内回调，底部支撑仍存20260510",
+      "publish_date": "2026-05-10",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63006&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：估值偏高，盘面超前基本面20260510",
+      "publish_date": "2026-05-10",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63001&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：估值偏高20260505",
+      "publish_date": "2026-05-05",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62954&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：底部较为坚挺，逻辑丰富20260430",
+      "publish_date": "2026-04-30",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62939&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华期货铁矿石周报：矛盾有限20260427",
+      "publish_date": "2026-04-27",
+      "author": "周甫翰",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62907&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：停产消息刺激市场，节前注意仓位控制20260426",
+      "publish_date": "2026-04-26",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62897&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "不锈钢",
+          "code": "SS"
+        }
+      ],
+      "matched_keywords": "不锈钢",
       "collection_status": "discovered"
     },
     {
@@ -2604,32 +3128,6 @@
         }
       ],
       "matched_keywords": "铁矿石、焦煤、焦炭、硅铁、锰硅",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "中信期货",
-      "rating_level": "AA",
-      "sector": "ferrous",
-      "sector_name": "黑色",
-      "report_type": "公开专题",
-      "title": "20260610 Daily Note：Coking Coal, Coke, Poly-Silicon 日报：焦煤、焦炭、多晶硅【中信期货国际化 CITIC Futures】",
-      "publish_date": "",
-      "author": "",
-      "source_type": "官方",
-      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
-      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050234",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "焦煤",
-          "code": "JM"
-        },
-        {
-          "name": "焦炭",
-          "code": "J"
-        }
-      ],
-      "matched_keywords": "焦煤、焦炭",
       "collection_status": "discovered"
     }
   ],

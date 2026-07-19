@@ -3,9 +3,215 @@
   "sector_name": "金属",
   "generated_at": "2026-07-19",
   "window_start": "2026-04-20",
-  "report_count": 250,
-  "company_count": 2,
+  "report_count": 381,
+  "company_count": 3,
   "reports": [
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "铜：地缘风险持续释放，但基本面库存快速去化，支撑价格",
+      "publish_date": "2026-07-19",
+      "author": "季先飞",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/65293b23-5990-3916-b051-83d9b57b2fda",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "镍：基本面逻辑企稳，低位警惕消息扰动 不锈钢：原料支撑重心下移，关注配额预期扰动",
+      "publish_date": "2026-07-19",
+      "author": "张再宇",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/274af682-4c41-3dfc-bdf5-f1ccde66884c",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "黄金、白银：受风险偏好走弱压制，黄金韧性优于白银",
+      "publish_date": "2026-07-19",
+      "author": "王蓉",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/a2415f29-f3ce-39bd-b6f1-c55382529675",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "铸造铝合金：期货价差修复接近兑现完成",
+      "publish_date": "2026-07-19",
+      "author": "王蓉",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/a08a14b5-a265-3176-8af0-79a60c8ecf79",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "铝：本周震荡，向上突破压力仍在；氧化铝：现货议价权转向买方，期货价格本周偏弱运行",
+      "publish_date": "2026-07-19",
+      "author": "王蓉",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/6d7393c7-2e99-3b18-98b7-a628fe02bb8e",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        },
+        {
+          "name": "氧化铝",
+          "code": "AO"
+        }
+      ],
+      "matched_keywords": "铝、氧化铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "工业硅：区间波动格局 多晶硅：关注政策端落地情况",
+      "publish_date": "2026-07-19",
+      "author": "张航",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/526c383e-2c5b-3bf5-bc8f-5a38dc7fd973",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "碳酸锂：价格震荡偏弱，库存去库",
+      "publish_date": "2026-07-19",
+      "author": "邵婉嫕,张航",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/6217ffef-be50-3aea-aae2-7dc0f36734fe",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "锌：关注内需修复以及出口窗口持续开启",
+      "publish_date": "2026-07-19",
+      "author": "季先飞,王宗源",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/d92a38b4-54f9-3c85-b7ce-eeb224ac319b",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "锡：区间震荡",
+      "publish_date": "2026-07-19",
+      "author": "季先飞",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/d01e2bc4-3565-3dc0-8415-c21782cf6074",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
     {
       "company": "国泰君安期货",
       "rating_level": "AA",
@@ -16,7 +222,7 @@
       "publish_date": "2026-07-17",
       "author": "季先飞",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/accc0f85c70cd7995b5307f1e1eeb57b",
       "pdf_url": "",
       "main_varieties": [
@@ -38,7 +244,7 @@
       "publish_date": "2026-07-17",
       "author": "林小春",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/8260b688-3c66-3167-885e-7aa1c44d3f2e",
       "pdf_url": "",
       "main_varieties": [
@@ -60,7 +266,7 @@
       "publish_date": "2026-07-17",
       "author": "王蓉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/08636bae-4665-3c57-ad12-c4d516faff6d",
       "pdf_url": "",
       "main_varieties": [
@@ -86,7 +292,7 @@
       "publish_date": "2026-07-17",
       "author": "张再宇",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/fdab6e46-0018-3e5e-837c-a99b9754ec8d",
       "pdf_url": "",
       "main_varieties": [
@@ -108,7 +314,7 @@
       "publish_date": "2026-07-17",
       "author": "王蓉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/37a06bc1-b913-34b3-8082-13492b5fb319",
       "pdf_url": "",
       "main_varieties": [
@@ -134,7 +340,7 @@
       "publish_date": "2026-07-17",
       "author": "张航",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/5499c456-d864-3dac-9ae6-99ea64102f12",
       "pdf_url": "",
       "main_varieties": [
@@ -156,7 +362,7 @@
       "publish_date": "2026-07-17",
       "author": "邵婉嫕,张航",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/dae11ce0-c4a0-3c79-9e88-6bec1231cb21",
       "pdf_url": "",
       "main_varieties": [
@@ -178,7 +384,7 @@
       "publish_date": "2026-07-17",
       "author": "刘雨萱",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/6f12faa7-7f6f-3240-ab23-c262a946fa0f",
       "pdf_url": "",
       "main_varieties": [
@@ -200,7 +406,7 @@
       "publish_date": "2026-07-17",
       "author": "季先飞",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/ba4d1137-50fb-3a92-9a35-390987a6c7d4",
       "pdf_url": "",
       "main_varieties": [
@@ -222,7 +428,7 @@
       "publish_date": "2026-07-17",
       "author": "季先飞",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/6397fac2-519f-3bb6-9b9e-2ed38e9893a3",
       "pdf_url": "",
       "main_varieties": [
@@ -235,17 +441,17 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "metals",
       "sector_name": "金属",
-      "report_type": "日报",
-      "title": "锌：宏观扰动增强",
-      "publish_date": "2026-07-16",
-      "author": "季先飞",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：宏观再出变数，关注实物出口20260713",
+      "publish_date": "2026-07-13",
+      "author": "林嘉玮",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/252d057c431c60c7e6620e6c2bffbdf9",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63919&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -257,17 +463,39 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "metals",
       "sector_name": "金属",
-      "report_type": "日报",
-      "title": "锡：库存减少，支撑价格",
-      "publish_date": "2026-07-16",
-      "author": "刘雨萱",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：上方压力尚存20260713",
+      "publish_date": "2026-07-13",
+      "author": "",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/29ec03d0-829f-3eff-9ab7-d355c50a3a58",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63920&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：宏观变数再起，关注本周科技企业业绩会20260713",
+      "publish_date": "2026-07-13",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63916&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -279,17 +507,153 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "metals",
       "sector_name": "金属",
-      "report_type": "日报",
-      "title": "黄金：窄幅震荡 白银：上涨乏力",
-      "publish_date": "2026-07-16",
-      "author": "王蓉",
+      "report_type": "专题报告",
+      "title": "南华铝产业链专题：铝土矿资源约束、定价权转移与产业链传导20260713",
+      "publish_date": "2026-07-13",
+      "author": "傅小燕",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/8a507bf2-40fe-3928-8d24-70cfcd4d8b56",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63917&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：宽幅震荡，暂无方向20260712",
+      "publish_date": "2026-07-12",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63906&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：沪铝低位反弹重返社库加速去化氧化铝南北齐跌20260712",
+      "publish_date": "2026-07-12",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63904&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        },
+        {
+          "name": "氧化铝",
+          "code": "AO"
+        }
+      ],
+      "matched_keywords": "铝、氧化铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：宽幅震荡区间，警惕技术性反弹20260712",
+      "publish_date": "2026-07-12",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63907&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：估值重修，铜价震荡偏强20260712",
+      "publish_date": "2026-07-12",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63899&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：宏观与印尼政策共振20260712",
+      "publish_date": "2026-07-12",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63891&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：中东局势再反复 焦点转向美CPI20260712",
+      "publish_date": "2026-07-12",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63890&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -305,17 +669,127 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "metals",
       "sector_name": "金属",
-      "report_type": "日报",
-      "title": "铅：LME库存大增，价格承压",
-      "publish_date": "2026-07-16",
-      "author": "季先飞",
+      "report_type": "专题报告",
+      "title": "美联储加息概率研判与铜价影响分析 ——AI时代与互联网时代的结构性比较20260709",
+      "publish_date": "2026-07-09",
+      "author": "傅小燕",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/6e33da9b-d3a6-36dc-bbd9-7bcd70f401ea",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63880&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "专题报告",
+      "title": "南华铝产业链专题：电解铝产能红线下的成本博弈与区域分化格局20260709",
+      "publish_date": "2026-07-09",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63878&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：沪铝续跌伦铝库存跌破三十万关口20260706",
+      "publish_date": "2026-07-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63845&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：风偏回归后或可重新计价供损20260706",
+      "publish_date": "2026-07-06",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63839&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：宏观回暖，科技弹性待考验20260706",
+      "publish_date": "2026-07-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63833&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：弱修复为主20260706",
+      "publish_date": "2026-07-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63835&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -327,17 +801,223 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "metals",
       "sector_name": "金属",
-      "report_type": "日报",
-      "title": "镍：高位库存边际去化，盘面压力稍有缓和 不锈钢：警惕印尼镍铁消息影响，现实约束弹性",
-      "publish_date": "2026-07-16",
-      "author": "张再宇",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：技术面盘整，弱势格局不改20260705",
+      "publish_date": "2026-07-05",
+      "author": "",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/b67e382b-6394-351d-9372-3524413a60d5",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63830&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：非农爆冷加息预期降温 贵金属止跌反弹20260705",
+      "publish_date": "2026-07-05",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63821&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：风险偏好虽有回升，铜价依旧维持区间震荡20260705",
+      "publish_date": "2026-07-05",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63828&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：短期宽幅震荡，关注远月价值20260705",
+      "publish_date": "2026-07-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63824&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "热点报告",
+      "title": "锡热点：风偏上看修复信号或将到来20260703",
+      "publish_date": "2026-07-03",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63813&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：矿端与成本支撑尚存20260629",
+      "publish_date": "2026-06-29",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63761&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：支撑尚存，宏观占压力主导20260629",
+      "publish_date": "2026-06-29",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63759&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：补库意愿与估值修复20260629",
+      "publish_date": "2026-06-29",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63760&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：低位震荡 关注非农20260629",
+      "publish_date": "2026-06-29",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63756&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：关注配额走势动向20260628",
+      "publish_date": "2026-06-28",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63745&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -346,6 +1026,2326 @@
         }
       ],
       "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：市场屏息以待月底关税政策20260628",
+      "publish_date": "2026-06-28",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63741&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：鹰派余波压制沪铝破位下行，伦铝库存续创新低20260628",
+      "publish_date": "2026-06-28",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63747&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：宏观偏弱，锂价短期有压力20260628",
+      "publish_date": "2026-06-28",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63728&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：宏观偏弱，整体下挫20260628",
+      "publish_date": "2026-06-28",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63719&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内走势有所分化20260622",
+      "publish_date": "2026-06-22",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63657&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：夏至敛躁，静待新机20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63671&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：美伊\"停火\"重挫伦铝升水，国内去库延续VS美联储鹰声嘹亮20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63659&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：底部稳固，把握新机20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63666&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：宏观压制，注意风险管理20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63670&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：产业支撑，宏观偏鹰，博弈反复20260622",
+      "publish_date": "2026-06-22",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63672&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：反弹力度待验证，上方压力仍存20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63669&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：LME铜看涨期权押注关税政策预期20260620",
+      "publish_date": "2026-06-20",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63640&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：美联储货币政策和中东局势主导20260620",
+      "publish_date": "2026-06-20",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63648&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "专题报告",
+      "title": "美国对精炼铜加征关税政策影响预判20260618",
+      "publish_date": "2026-06-18",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63627&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内深度回调，宏观影响较大20260615",
+      "publish_date": "2026-06-15",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63596&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：震荡为序，静待新机20260615",
+      "publish_date": "2026-06-15",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63585&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：风险偏好小幅回升，铜价反弹20260615",
+      "publish_date": "2026-06-15",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63590&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：上游企业积极把握套保机会20260615",
+      "publish_date": "2026-06-15",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63584&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：LME升水急速坍塌，国内去库加速迎短暂喘息20260615",
+      "publish_date": "2026-06-15",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63587&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：利空计价后技术反弹20260615",
+      "publish_date": "2026-06-15",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63578&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：利空压制下反弹幅度受限20260615",
+      "publish_date": "2026-06-15",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63576&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：宽幅震荡下低吸为佳20260615",
+      "publish_date": "2026-06-15",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63579&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：中东局势反复 贵金属止跌反弹20260614",
+      "publish_date": "2026-06-14",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63573&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "专题报告",
+      "title": "南华铝产业链专题：铝土矿资源约束、定价权转移与产业链传导20260612",
+      "publish_date": "2026-06-12",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63555&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华期货碳酸锂数据日报20260609",
+      "publish_date": "2026-06-09",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63510&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：外强内弱格局延续，出口对冲内需疲软20260608",
+      "publish_date": "2026-06-08",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63488&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：非农推升加息预期 贵金属重挫下行20260608",
+      "publish_date": "2026-06-08",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63479&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：矿端支撑仍存，关注低吸机会20260608",
+      "publish_date": "2026-06-08",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63482&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内深度回调，宏观影响较大20260607",
+      "publish_date": "2026-06-07",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63473&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：加息“定价”到情绪高点，铜价大跌20260607",
+      "publish_date": "2026-06-07",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63466&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：硅市沉底，周期候春20260606",
+      "publish_date": "2026-06-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63465&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：芒种敛躁，供需寻衡20260606",
+      "publish_date": "2026-06-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63463&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华镍&不锈钢日报：日内偏强震荡20260603",
+      "publish_date": "2026-06-03",
+      "author": "管城瀚",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63330&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "镍&不锈钢日报20260603",
+      "publish_date": "2026-06-03",
+      "author": "管城瀚",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63324&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "镍&不锈钢周报20260603",
+      "publish_date": "2026-06-03",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63331&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内震荡为主，关注底部支撑20260603",
+      "publish_date": "2026-06-03",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63328&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "热点报告",
+      "title": "黄金围绕4500盘整 短期仍缺乏方向驱动20260603",
+      "publish_date": "2026-06-03",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63335&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        }
+      ],
+      "matched_keywords": "黄金",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "热点报告",
+      "title": "央行黄金储备对金价的影响分析20260603",
+      "publish_date": "2026-06-03",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63329&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        }
+      ],
+      "matched_keywords": "黄金",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "热点报告",
+      "title": "南华氧化铝热点：几内亚配额政策落地预期强化 成本支撑与供应过剩博弈加剧20260603",
+      "publish_date": "2026-06-03",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63326&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        },
+        {
+          "name": "氧化铝",
+          "code": "AO"
+        }
+      ],
+      "matched_keywords": "铝、氧化铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华镍&不锈钢日报：近期维持宽幅震荡走势20260602",
+      "publish_date": "2026-06-02",
+      "author": "管城瀚",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63319&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：震荡为主20260601",
+      "publish_date": "2026-06-01",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63290&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：观察下方支撑，反弹力度可能有限20260601",
+      "publish_date": "2026-06-01",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63291&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：高位宽幅震荡，依托强支撑做多20260601",
+      "publish_date": "2026-06-01",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63288&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：贵金属先抑后扬 加息预期略有下修20260531",
+      "publish_date": "2026-05-31",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63279&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：氧化铝预期强，现实弱，3000点位附近压力较大20260531",
+      "publish_date": "2026-05-31",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63281&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        },
+        {
+          "name": "氧化铝",
+          "code": "AO"
+        }
+      ],
+      "matched_keywords": "铝、氧化铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内震荡偏弱为主，驱动逻辑尚不明确20260531",
+      "publish_date": "2026-05-31",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63269&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：关注下半年长单谈判20260531",
+      "publish_date": "2026-05-31",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63271&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：需求端暂无异动，关注供给端情绪20260530",
+      "publish_date": "2026-05-30",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63233&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：情绪逐渐消退，宽幅震荡20260530",
+      "publish_date": "2026-05-30",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63232&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华期货工业硅&多晶硅数据日报20260527",
+      "publish_date": "2026-05-27",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63179&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华期货碳酸锂数据日报20260527",
+      "publish_date": "2026-05-27",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63177&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：震荡区间高抛低吸20260525",
+      "publish_date": "2026-05-25",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63147&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：淡季现实下高位谨慎追高20260525",
+      "publish_date": "2026-05-25",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63150&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：高位宽幅震荡，依托强支撑做多20260525",
+      "publish_date": "2026-05-25",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63148&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内震荡偏弱，等待明确驱动20260524",
+      "publish_date": "2026-05-24",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63134&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：已定价美联储年内加息一次 贵金属维持低位震荡20260524",
+      "publish_date": "2026-05-24",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63136&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：关注成本端变动情况20260524",
+      "publish_date": "2026-05-24",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63133&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：震荡调整20260524",
+      "publish_date": "2026-05-24",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63141&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：上游氧化铝累库，下游电解铝等待去库拐点20260524",
+      "publish_date": "2026-05-24",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63142&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        },
+        {
+          "name": "氧化铝",
+          "code": "AO"
+        }
+      ],
+      "matched_keywords": "铝、氧化铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：电网订单有所恢复，需求端支撑铜价重心小幅上移20260523",
+      "publish_date": "2026-05-23",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63126&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华期货碳酸锂数据日报20260521",
+      "publish_date": "2026-05-21",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63112&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华期货碳酸锂数据日报20260519",
+      "publish_date": "2026-05-19",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63102&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：上游氧化铝累库，下游电解铝等待去库拐点20260518",
+      "publish_date": "2026-05-18",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63087&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        },
+        {
+          "name": "氧化铝",
+          "code": "AO"
+        }
+      ],
+      "matched_keywords": "铝、氧化铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：前期利多逻辑降温，等待明确信号20260518",
+      "publish_date": "2026-05-18",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63070&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：盛极而止，锂价渐归平，套保为安20260518",
+      "publish_date": "2026-05-18",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63077&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：加息预期升温 贵金属重挫下行20260518",
+      "publish_date": "2026-05-18",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63079&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：观望为主，向上盈亏比较差，下方有一定支撑20260518",
+      "publish_date": "2026-05-18",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63074&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：基本面较弱，库存压力下偏弱震荡20260518",
+      "publish_date": "2026-05-18",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63080&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：产业预期割裂，高位震荡20260518",
+      "publish_date": "2026-05-18",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63082&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：铜价回补缺口，关注区间量价走势20260517",
+      "publish_date": "2026-05-17",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63066&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：关注丰水期开工情况20260516",
+      "publish_date": "2026-05-16",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63059&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华期货碳酸锂数据日报20260514",
+      "publish_date": "2026-05-14",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63044&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：周内回调，底部支撑仍存20260510",
+      "publish_date": "2026-05-10",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63006&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：资金情绪乐观叠加原料成本逻辑，震荡偏强20260510",
+      "publish_date": "2026-05-10",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63005&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：供需双弱，震荡为主20260510",
+      "publish_date": "2026-05-10",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63009&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：半导体板块强势下追多仍需谨慎20260510",
+      "publish_date": "2026-05-10",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63010&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：节后累库，铝价回归现实定价20260510",
+      "publish_date": "2026-05-10",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63008&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：盛潮临岸，风起知回落20260510",
+      "publish_date": "2026-05-10",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62994&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：库存高位压制上方空间20260510",
+      "publish_date": "2026-05-10",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62998&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：多重利多因素共振，铜价强势上涨20260510",
+      "publish_date": "2026-05-10",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62995&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：维持震荡 关注美CPI20260510",
+      "publish_date": "2026-05-10",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62993&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "日报",
+      "title": "南华期货碳酸锂数据日报20260508",
+      "publish_date": "2026-05-08",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62984&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：供给冲击利多兑现，铝价走弱20260505",
+      "publish_date": "2026-05-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62957&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：阻力/支撑小幅下移20260505",
+      "publish_date": "2026-05-05",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62958&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：基本面偏弱，技术面上方有压力20260505",
+      "publish_date": "2026-05-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62955&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：情绪旺盛，现实验证20260505",
+      "publish_date": "2026-05-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62949&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：缺乏驱动整体震荡 周内聚焦非农就业报告20260505",
+      "publish_date": "2026-05-05",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62948&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：高位震荡，静待驱动20260505",
+      "publish_date": "2026-05-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62952&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：双重压力下谨慎看空20260505",
+      "publish_date": "2026-05-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62956&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：关注原料成本支撑和宏观风险20260505",
+      "publish_date": "2026-05-05",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62947&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：底部较为坚挺，逻辑丰富20260430",
+      "publish_date": "2026-04-30",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62939&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锌产业周报：下方支撑较足，继续关注内外正套机会20260427",
+      "publish_date": "2026-04-27",
+      "author": "林嘉玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62901&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铅产业周报：上下受限，震荡为主20260427",
+      "publish_date": "2026-04-27",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62899&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华铝产业链周报：供应端扰动，氧化铝期价波动重心上移20260427",
+      "publish_date": "2026-04-27",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62900&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        },
+        {
+          "name": "氧化铝",
+          "code": "AO"
+        }
+      ],
+      "matched_keywords": "铝、氧化铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货锡产业周报：高位震荡，静待驱动20260427",
+      "publish_date": "2026-04-27",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62904&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华镍&不锈钢周报：停产消息刺激市场，节前注意仓位控制20260426",
+      "publish_date": "2026-04-26",
+      "author": "管城瀚、夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62897&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "镍",
+          "code": "NI"
+        }
+      ],
+      "matched_keywords": "镍",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华期货铜产业周报：铜价高位震荡不改中期上涨逻辑20260426",
+      "publish_date": "2026-04-26",
+      "author": "傅小燕",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62891&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华工业硅&多晶硅产业周报：资金博弈，关注节前避险情绪20260426",
+      "publish_date": "2026-04-26",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62886&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华碳酸锂周报：注意节前避险情绪20260426",
+      "publish_date": "2026-04-26",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62887&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "南华贵金属（黄金&白银）周报：贵金属承压调整 焦点转向美FOMC及中东美伊进展20260425",
+      "publish_date": "2026-04-25",
+      "author": "夏莹莹",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62882&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "【中信期货有色与新材料（基本金属）】宏观预期不明朗，基本金属维持震荡格局——周报20260719",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051584",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        },
+        {
+          "name": "铝",
+          "code": "AL"
+        },
+        {
+          "name": "锌",
+          "code": "ZN"
+        },
+        {
+          "name": "镍",
+          "code": "NI"
+        },
+        {
+          "name": "锡",
+          "code": "SN"
+        }
+      ],
+      "matched_keywords": "铜、铝、锌、镍、锡",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周报",
+      "title": "【中信期货有色与新材料（新能源金属）】供应有增加预期，新能源金属延续承压——周报20260719",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051583",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        },
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "工业硅、碳酸锂",
       "collection_status": "discovered"
     },
     {
@@ -6586,32 +9586,6 @@
         }
       ],
       "matched_keywords": "工业硅、碳酸锂",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "中信期货",
-      "rating_level": "AA",
-      "sector": "metals",
-      "sector_name": "金属",
-      "report_type": "公开专题",
-      "title": "20260610 Daily Note：Coking Coal, Coke, Poly-Silicon 日报：焦煤、焦炭、多晶硅【中信期货国际化 CITIC Futures】",
-      "publish_date": "",
-      "author": "",
-      "source_type": "官方",
-      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
-      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050234",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "黄金",
-          "code": "AU"
-        },
-        {
-          "name": "白银",
-          "code": "AG"
-        }
-      ],
-      "matched_keywords": "黄金、白银",
       "collection_status": "discovered"
     }
   ],

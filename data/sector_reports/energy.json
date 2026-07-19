@@ -3,9 +3,105 @@
   "sector_name": "能化",
   "generated_at": "2026-07-19",
   "window_start": "2026-04-20",
-  "report_count": 366,
-  "company_count": 2,
+  "report_count": 444,
+  "company_count": 3,
   "reports": [
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "原油周报：多单止盈 20260718",
+      "publish_date": "2026-07-19",
+      "author": "赵旭意",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/59e902fb-6bb0-3337-970b-a19a8c6ed6db",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "沥青周报：地缘溢价推升成本，近强远弱格局延续 20260719",
+      "publish_date": "2026-07-19",
+      "author": "黄天圆",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/4bca8274-4d29-3c7c-808d-e0f87e723898",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "周报（中文版）燃料油、低硫燃料油：价格重回高位，短期或再获上涨动力20260719",
+      "publish_date": "2026-07-19",
+      "author": "梁可方",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/ad028925-aeb5-3db7-809a-cf7008a36e23",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "燃料油",
+          "code": "FU"
+        },
+        {
+          "name": "低硫燃料油",
+          "code": "LU"
+        }
+      ],
+      "matched_keywords": "燃料油、低硫燃料油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "玻璃、纯碱周报 20260719",
+      "publish_date": "2026-07-19",
+      "author": "张驰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/2b2f2bdc-0964-316f-b614-537059fdc5f4",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
     {
       "company": "国泰君安期货",
       "rating_level": "AA",
@@ -82,7 +178,7 @@
       "publish_date": "2026-07-17",
       "author": "张驰",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/a3bd2fe8f0f746ff0c64b53013bc9b88",
       "pdf_url": "",
       "main_varieties": [
@@ -104,7 +200,7 @@
       "publish_date": "2026-07-17",
       "author": "张驰",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/03344ce255e0d795133b18e5b9ea689a",
       "pdf_url": "",
       "main_varieties": [
@@ -126,7 +222,7 @@
       "publish_date": "2026-07-17",
       "author": "黄天圆",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/c106cdce-70e4-3c04-bdac-8452b76071de",
       "pdf_url": "",
       "main_varieties": [
@@ -148,7 +244,7 @@
       "publish_date": "2026-07-17",
       "author": "黄天圆",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/e62aa927-85cc-34f4-9075-c3c7766a4861",
       "pdf_url": "",
       "main_varieties": [
@@ -170,7 +266,7 @@
       "publish_date": "2026-07-17",
       "author": "黄天圆,杨鈜汉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/2c80f0da-47ec-3e2f-b2b1-5e5017cc0a25",
       "pdf_url": "",
       "main_varieties": [
@@ -192,7 +288,7 @@
       "publish_date": "2026-07-17",
       "author": "梁可方",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/c0b4f104-0d30-3d87-a68a-5e4b98575e7d",
       "pdf_url": "",
       "main_varieties": [
@@ -218,7 +314,7 @@
       "publish_date": "2026-07-17",
       "author": "贺晓勤",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/99f2dea1-54b4-3a2f-a0ac-697e90a966e1",
       "pdf_url": "",
       "main_varieties": [
@@ -244,7 +340,7 @@
       "publish_date": "2026-07-17",
       "author": "陈嘉昕",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/154a581f-6697-3d1e-8660-38a5d3fef31b",
       "pdf_url": "",
       "main_varieties": [
@@ -266,7 +362,7 @@
       "publish_date": "2026-07-17",
       "author": "赵旭意",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/dea9f506-017c-3467-9f40-6c2f452cbb04",
       "pdf_url": "",
       "main_varieties": [
@@ -288,7 +384,7 @@
       "publish_date": "2026-07-17",
       "author": "杨鈜汉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/be30c0dd-67fe-3033-8702-7c94268d7c0c",
       "pdf_url": "",
       "main_varieties": [
@@ -310,7 +406,7 @@
       "publish_date": "2026-07-17",
       "author": "杨鈜汉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/a66ec482-60e0-39e7-ad85-0d9d11605422",
       "pdf_url": "",
       "main_varieties": [
@@ -320,6 +416,28 @@
         }
       ],
       "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "热点报告",
+      "title": "华东地区乙二醇主流仓储库区运行状况调研报告20260717",
+      "publish_date": "2026-07-17",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63962&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "乙二醇",
+          "code": "EG"
+        }
+      ],
+      "matched_keywords": "乙二醇",
       "collection_status": "discovered"
     },
     {
@@ -376,7 +494,7 @@
       "publish_date": "2026-07-16",
       "author": "李隽钰",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/c7e025bc-7e0f-3c12-a931-3a393c23ce0d",
       "pdf_url": "",
       "main_varieties": [
@@ -393,56 +511,12 @@
       "rating_level": "AA",
       "sector": "energy",
       "sector_name": "能化",
-      "report_type": "合集",
-      "title": "所长早读：关注铁矿石、尿素",
-      "publish_date": "2026-07-16",
-      "author": "林小春",
-      "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/0ded3c1b-ebc6-315c-bbea-5a285cabf8ad",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "尿素",
-          "code": "UR"
-        }
-      ],
-      "matched_keywords": "尿素",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "国泰君安期货",
-      "rating_level": "AA",
-      "sector": "energy",
-      "sector_name": "能化",
-      "report_type": "日报",
-      "title": "纯碱短期偏弱 中期震荡市",
-      "publish_date": "2026-07-16",
-      "author": "张驰",
-      "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/d3df7aa9e1b100076cbf41ec56ea448a",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "纯碱",
-          "code": "SA"
-        }
-      ],
-      "matched_keywords": "纯碱",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "国泰君安期货",
-      "rating_level": "AA",
-      "sector": "energy",
-      "sector_name": "能化",
       "report_type": "日报",
       "title": "玻璃短期偏弱 中期震荡市",
       "publish_date": "2026-07-16",
       "author": "张驰",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/53e101d811743eef290afddf1d77f754",
       "pdf_url": "",
       "main_varieties": [
@@ -460,11 +534,33 @@
       "sector": "energy",
       "sector_name": "能化",
       "report_type": "日报",
+      "title": "纯碱短期偏弱 中期震荡市",
+      "publish_date": "2026-07-16",
+      "author": "张驰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/d3df7aa9e1b100076cbf41ec56ea448a",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "日报",
       "title": "苯乙烯：震荡偏强",
       "publish_date": "2026-07-16",
       "author": "黄天圆",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/fcac8d64-5e46-356b-b586-2d4114fcb11a",
       "pdf_url": "",
       "main_varieties": [
@@ -486,7 +582,7 @@
       "publish_date": "2026-07-16",
       "author": "黄天圆,杨鈜汉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/ca1b6580-bdc5-3331-9109-690bb2397ca9",
       "pdf_url": "",
       "main_varieties": [
@@ -508,7 +604,7 @@
       "publish_date": "2026-07-16",
       "author": "黄天圆",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E6%9C%89%E8%89%B2%E9%87%91%E5%B1%9E",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/7ce49b42-78db-3338-94b3-9014b6b04468",
       "pdf_url": "",
       "main_varieties": [
@@ -530,7 +626,7 @@
       "publish_date": "2026-07-16",
       "author": "陈嘉昕",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/39ee8196-c5f4-3484-a6a2-2fa42f114fdc",
       "pdf_url": "",
       "main_varieties": [
@@ -670,7 +766,7 @@
       "publish_date": "2026-07-15",
       "author": "高琳琳",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/e2fbe832-2bdf-3a12-9fe1-0f68a266689f",
       "pdf_url": "",
       "main_varieties": [
@@ -692,7 +788,7 @@
       "publish_date": "2026-07-15",
       "author": "高琳琳",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/057ad600-da57-33db-b54c-aa9d7f3289b4",
       "pdf_url": "",
       "main_varieties": [
@@ -894,7 +990,7 @@
       "publish_date": "2026-07-15",
       "author": "杨鈜汉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/03e02375-4063-3987-9312-6b0ac16bb4aa",
       "pdf_url": "",
       "main_varieties": [
@@ -916,7 +1012,7 @@
       "publish_date": "2026-07-15",
       "author": "杨鈜汉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/01b01812-327d-3f35-a58f-8d2ae587f80b",
       "pdf_url": "",
       "main_varieties": [
@@ -938,7 +1034,7 @@
       "publish_date": "2026-07-15",
       "author": "贺晓勤",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/032cda13-2106-307d-879c-e739ec4dc05a",
       "pdf_url": "",
       "main_varieties": [
@@ -1026,7 +1122,7 @@
       "publish_date": "2026-07-14",
       "author": "贺晓勤",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/33bde78c-2fec-3ea5-8dea-f2b5d6b60b8e",
       "pdf_url": "",
       "main_varieties": [
@@ -1048,7 +1144,7 @@
       "publish_date": "2026-07-14",
       "author": "贺晓勤",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/0871ed8c-4a7b-3b8e-ac02-84c6b2e99752",
       "pdf_url": "",
       "main_varieties": [
@@ -1070,7 +1166,7 @@
       "publish_date": "2026-07-14",
       "author": "黄天圆",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/a1f07cec-0ff8-3b0c-a2a5-9338ade7a3f7",
       "pdf_url": "",
       "main_varieties": [
@@ -1092,7 +1188,7 @@
       "publish_date": "2026-07-14",
       "author": "黄天圆,杨鈜汉",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/df3b7a6d-d757-33df-8072-0e19ff3510eb",
       "pdf_url": "",
       "main_varieties": [
@@ -1241,6 +1337,28 @@
       "collection_status": "discovered"
     },
     {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：供应支撑托底，需求压力难纾20260714",
+      "publish_date": "2026-07-14",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63936&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
       "company": "国泰君安期货",
       "rating_level": "AA",
       "sector": "energy",
@@ -1250,7 +1368,7 @@
       "publish_date": "2026-07-13",
       "author": "高琳琳",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/002370b6-43d1-3416-a9c5-587a350bb9cd",
       "pdf_url": "",
       "main_varieties": [
@@ -1272,7 +1390,7 @@
       "publish_date": "2026-07-13",
       "author": "高琳琳",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
       "detail_url": "https://www.gtjaqh.com/pc/reportDetail/e2e43362-c018-3893-9c0b-47f93719de81",
       "pdf_url": "",
       "main_varieties": [
@@ -1395,87 +1513,61 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "energy",
       "sector_name": "能化",
-      "report_type": "日报",
-      "title": "燃料油：价格暂处高位，价格短期偏强 低硫燃料油：强势仍在，亚太现货高低硫价差再次回到高位",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：强现实，弱预期20260713",
       "publish_date": "2026-07-13",
-      "author": "梁可方",
+      "author": "寿佳露",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/07654567-2947-3177-95f9-4e24308da754",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63913&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
-          "name": "燃料油",
-          "code": "FU"
-        },
-        {
-          "name": "低硫燃料油",
-          "code": "LU"
+          "name": "苯乙烯",
+          "code": "EB"
         }
       ],
-      "matched_keywords": "燃料油、低硫燃料油",
+      "matched_keywords": "苯乙烯",
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "energy",
       "sector_name": "能化",
-      "report_type": "日报",
-      "title": "对二甲苯：月差正套，单边震荡市 PTA：月差正套，单边震荡市 MEG：低库存、月差正套",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：地缘冲突再起，关注供应回归速度20260713",
       "publish_date": "2026-07-13",
-      "author": "贺晓勤",
+      "author": "",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/0e782231-e4ed-3714-aae1-d49a6e42faf0",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63908&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
-          "name": "PTA",
-          "code": "TA"
+          "name": "聚丙烯",
+          "code": "PP"
         }
       ],
-      "matched_keywords": "PTA",
+      "matched_keywords": "聚丙烯",
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "energy",
       "sector_name": "能化",
-      "report_type": "日报",
-      "title": "甲醇：震荡运行",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：地缘扰动仍在20260713",
       "publish_date": "2026-07-13",
-      "author": "黄天圆,杨鈜汉",
+      "author": "",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/0052f8f1-38f3-35b1-960b-2aac33f7755d",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "甲醇",
-          "code": "MA"
-        }
-      ],
-      "matched_keywords": "甲醇",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "国泰君安期货",
-      "rating_level": "AA",
-      "sector": "energy",
-      "sector_name": "能化",
-      "report_type": "日报",
-      "title": "沥青：震荡偏弱，基差收窄",
-      "publish_date": "2026-07-13",
-      "author": "黄天圆",
-      "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E8%83%BD%E6%BA%90%E5%8C%96%E5%B7%A5",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/059f1e9f-9b08-3f0c-816c-7dd8ab039581",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63909&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -1531,6 +1623,76 @@
       "collection_status": "discovered"
     },
     {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：弱势不改20260712",
+      "publish_date": "2026-07-12",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63903&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华纸浆周报：极端天气扰动，市场传闻发酵20260712",
+      "publish_date": "2026-07-12",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63901&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：美伊再起摩擦，油价止跌反弹20260712",
+      "publish_date": "2026-07-12",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63893&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
       "company": "国泰君安期货",
       "rating_level": "AA",
       "sector": "energy",
@@ -1575,17 +1737,105 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "energy",
       "sector_name": "能化",
-      "report_type": "日报",
-      "title": "纸浆：震荡运行",
-      "publish_date": "2026-07-09",
-      "author": "高琳琳",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：宏观情绪回暖，阶段支撑格局显现20260706",
+      "publish_date": "2026-07-06",
+      "author": "黄超贤、边舒扬",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/ecdeca90-3506-3344-b750-bd8408fe3ec1",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63857&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：纯苯近端供应持续偏紧20260706",
+      "publish_date": "2026-07-06",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63838&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：近月拉涨20260706",
+      "publish_date": "2026-07-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63844&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：供需双增，目前方向性驱动不足20260706",
+      "publish_date": "2026-07-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63832&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华纸浆周报：纸企抬价，期价反弹20260705",
+      "publish_date": "2026-07-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63829&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -1597,17 +1847,65 @@
       "collection_status": "discovered"
     },
     {
-      "company": "国泰君安期货",
+      "company": "南华期货",
       "rating_level": "AA",
       "sector": "energy",
       "sector_name": "能化",
-      "report_type": "日报",
-      "title": "橡胶：震荡运行",
-      "publish_date": "2026-07-09",
-      "author": "高琳琳",
+      "report_type": "周报",
+      "title": "南华原油产业周报：关注供需再平衡20260705",
+      "publish_date": "2026-07-05",
+      "author": "沈玮玮",
       "source_type": "官方",
-      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
-      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/95e4b1b8-90f1-3869-8f28-219f8b6be06b",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63825&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：低位反复，驱动有限20260705",
+      "publish_date": "2026-07-05",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63820&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：季节性供增需弱，加息阴云与政策落地触发大跌20260629",
+      "publish_date": "2026-06-29",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63772&openMode=h5&share=1",
       "pdf_url": "",
       "main_varieties": [
         {
@@ -1616,6 +1914,1564 @@
         }
       ],
       "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：偏空情绪浓厚，盘面持续下跌20260628",
+      "publish_date": "2026-06-28",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63727&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：关注主营产量20260628",
+      "publish_date": "2026-06-28",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63734&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：基本面驱动有限20260628",
+      "publish_date": "2026-06-28",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63751&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：供应增量预期加速PP下跌20260628",
+      "publish_date": "2026-06-28",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63731&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：局势反复仍存，关注供需再平衡20260628",
+      "publish_date": "2026-06-28",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63749&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华纸浆周报：宏观驱动偏空行情，短期低位已至20260626",
+      "publish_date": "2026-06-26",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63718&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：绝对价格承压20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63656&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：关注海峡恢复及中东复产情况20260622",
+      "publish_date": "2026-06-22",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63674&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：需求和预期疲弱20260622",
+      "publish_date": "2026-06-22",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63664&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华纸浆周报：事件性因素带来偏空影响20260622",
+      "publish_date": "2026-06-22",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63665&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：成本转弱，地缘溢价挤出20260622",
+      "publish_date": "2026-06-22",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63655&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：局势转向推动分化，关注短期供需格局变化20260620",
+      "publish_date": "2026-06-20",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63644&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：原料成本支撑稳固，随宏观转暖回升20260615",
+      "publish_date": "2026-06-15",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63600&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：谈判进入冲刺阶段，关注利空后的机会20260615",
+      "publish_date": "2026-06-15",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63591&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：低库存与低排产支撑月差结构20260615",
+      "publish_date": "2026-06-15",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63575&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：关注7月供应压力20260615",
+      "publish_date": "2026-06-15",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63582&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "热点报告",
+      "title": "原油：上集完，下集待续20260615",
+      "publish_date": "2026-06-15",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63609&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：低价之下，关注供需边际变化20260614",
+      "publish_date": "2026-06-14",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63571&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：苯乙烯供应扰动增加20260614",
+      "publish_date": "2026-06-14",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63570&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华纸浆周报：期价低位反弹，上方仍存限制20260614",
+      "publish_date": "2026-06-14",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63569&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：加息阴云笼罩下，基本面驱动转弱20260608",
+      "publish_date": "2026-06-08",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63504&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：地缘反复，纯苯、苯乙烯震荡走跌20260608",
+      "publish_date": "2026-06-08",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63487&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：短期维持高位震荡20260608",
+      "publish_date": "2026-06-08",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63485&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：正套格局20260607",
+      "publish_date": "2026-06-07",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63469&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：价格低位，关注供应变化20260607",
+      "publish_date": "2026-06-07",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63478&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：美伊持续僵持，油价高位震荡20260607",
+      "publish_date": "2026-06-07",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63471&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华纸浆周报：期价创近七月新低！低位震荡预计延续20260606",
+      "publish_date": "2026-06-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63444&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：供需现实偏强，但需警惕短期供应弹性20260601",
+      "publish_date": "2026-06-01",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63300&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：现实端强势不减20260601",
+      "publish_date": "2026-06-01",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63294&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华纸浆周报：需求偏弱，期价至近7月低位20260601",
+      "publish_date": "2026-06-01",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63289&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：关注利空释放后的支撑20260531",
+      "publish_date": "2026-05-31",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63272&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：近强远弱20260531",
+      "publish_date": "2026-05-31",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63273&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：成本端转弱，盘面明显回落20260531",
+      "publish_date": "2026-05-31",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63267&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：基本面变化有限20260531",
+      "publish_date": "2026-05-31",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63245&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：天气改善与宏观情绪偏弱，橡胶震荡回调20260525",
+      "publish_date": "2026-05-25",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63164&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：PP-丙烯价差走扩20260525",
+      "publish_date": "2026-05-25",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63145&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：关注利空释放后低多机会20260524",
+      "publish_date": "2026-05-24",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63137&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：供需双弱，关注成本端走向20260524",
+      "publish_date": "2026-05-24",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63139&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：供需双弱20260524",
+      "publish_date": "2026-05-24",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63132&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：排产新低，正套维持20260523",
+      "publish_date": "2026-05-23",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63128&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华造纸板块周报：偏弱现实，纸浆寻底20260523",
+      "publish_date": "2026-05-23",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63125&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：美伊暂无本质变化，油价维持高位震荡20260518",
+      "publish_date": "2026-05-18",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63069&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：供增需减格局下，上方空间有限20260518",
+      "publish_date": "2026-05-18",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63083&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：供需双弱，上涨动力不足20260518",
+      "publish_date": "2026-05-18",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63076&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：天气改善与资金情绪起伏，胶价冲高回落20260518",
+      "publish_date": "2026-05-18",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63081&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：基本面偏弱，核心是需求20260517",
+      "publish_date": "2026-05-17",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63067&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：六月排产继续新低，正套维持20260516",
+      "publish_date": "2026-05-16",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63056&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：原料支撑偏强震荡，关注天气与供应变化20260512",
+      "publish_date": "2026-05-12",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63028&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：现实依然偏强，但预期转弱20260511",
+      "publish_date": "2026-05-11",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63014&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：美伊暂无本质变化，油价维持高位震荡20260510",
+      "publish_date": "2026-05-10",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63011&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：绝对价格高点已现，正套维持20260510",
+      "publish_date": "2026-05-10",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62997&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：地缘降温，盘面大幅回调20260510",
+      "publish_date": "2026-05-10",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63007&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：等待中游进一步去库20260510",
+      "publish_date": "2026-05-10",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=63000&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：成本端有所提升20260506",
+      "publish_date": "2026-05-06",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62968&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华造纸板块周报：欧洲纸浆库存回落，现货企稳，期价震荡20260506",
+      "publish_date": "2026-05-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62966&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：5月苯乙烯供应收缩开始兑现20260506",
+      "publish_date": "2026-05-06",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62967&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：地缘冲突反复，近端持续偏强20260506",
+      "publish_date": "2026-05-06",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62961&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：观点依旧，正套维持20260505",
+      "publish_date": "2026-05-05",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62950&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：成本与需求支撑偏强，关注天气改善带来的压力20260505",
+      "publish_date": "2026-05-05",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62953&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：天气扰动与资金情绪共振下偏强震荡20260427",
+      "publish_date": "2026-04-27",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62913&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：装置检修逐步见顶20260427",
+      "publish_date": "2026-04-27",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62903&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华原油产业周报：美伊持续对峙，油价高位震荡20260426",
+      "publish_date": "2026-04-26",
+      "author": "沈玮玮",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62896&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华玻璃纯碱周报：低位震荡20260426",
+      "publish_date": "2026-04-26",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62889&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华苯乙烯产业链周报：供应收缩不断兑现20260426",
+      "publish_date": "2026-04-26",
+      "author": "寿佳露",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62893&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苯乙烯",
+          "code": "EB"
+        }
+      ],
+      "matched_keywords": "苯乙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货沥青产业周报：观点依旧：正套维持，但绝对价格高点已见20260425",
+      "publish_date": "2026-04-25",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62884&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "沥青",
+          "code": "BU"
+        }
+      ],
+      "matched_keywords": "沥青",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货油脂产业周报：短期原油提振油脂市场，但二季度供应宽松格局压制上方空间20260421",
+      "publish_date": "2026-04-21",
+      "author": "陈晨",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62859&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货天然橡胶产业周报：供增需弱预期，橡胶承压震荡20260420",
+      "publish_date": "2026-04-20",
+      "author": "黄超贤、边舒扬",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62845&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "南华期货丙烯聚丙烯产业周报：PDH利润装置有所修复20260420",
+      "publish_date": "2026-04-20",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://mall.nanhua.net/mall/r/w/reportNew/report-list.html",
+      "detail_url": "https://mall.nanhua.net/mall/nh/p/pages/nanhuaReportDetail.html?id=62841&openMode=h5&share=1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "聚丙烯",
+          "code": "PP"
+        }
+      ],
+      "matched_keywords": "聚丙烯",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "周报",
+      "title": "【中信期货有色与新材料（铂钯）】美伊冲突持续扰动市场，铂钯震荡运行——周报20260719",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051585",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        }
+      ],
+      "matched_keywords": "原油",
       "collection_status": "discovered"
     },
     {
@@ -8792,94 +10648,6 @@
         }
       ],
       "matched_keywords": "苯乙烯",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "中信期货",
-      "rating_level": "AA",
-      "sector": "energy",
-      "sector_name": "能化",
-      "report_type": "日报",
-      "title": "【中信期货农业】油脂短期弱势整理——日报20260610",
-      "publish_date": "",
-      "author": "",
-      "source_type": "官方",
-      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
-      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050238",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "原油",
-          "code": "SC"
-        }
-      ],
-      "matched_keywords": "原油",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "中信期货",
-      "rating_level": "AA",
-      "sector": "energy",
-      "sector_name": "能化",
-      "report_type": "公开专题",
-      "title": "20260610 Daily Note：Coking Coal, Coke, Poly-Silicon 日报：焦煤、焦炭、多晶硅【中信期货国际化 CITIC Futures】",
-      "publish_date": "",
-      "author": "",
-      "source_type": "官方",
-      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
-      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050234",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "原油",
-          "code": "SC"
-        }
-      ],
-      "matched_keywords": "原油",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "中信期货",
-      "rating_level": "AA",
-      "sector": "energy",
-      "sector_name": "能化",
-      "report_type": "日报",
-      "title": "【中信期货航运】MSK开舱26周4900美元/FEU，宣涨7月达6000美元/FEU——日报20260609",
-      "publish_date": "",
-      "author": "",
-      "source_type": "官方",
-      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
-      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050233",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "原油",
-          "code": "SC"
-        }
-      ],
-      "matched_keywords": "原油",
-      "collection_status": "discovered"
-    },
-    {
-      "company": "中信期货",
-      "rating_level": "AA",
-      "sector": "energy",
-      "sector_name": "能化",
-      "report_type": "公开专题",
-      "title": "20260609 Inventory Decline Expectation Strengthens Methanol Price 去库预期支撑甲醇价格【中信期货国际化 CITIC Futures】",
-      "publish_date": "",
-      "author": "",
-      "source_type": "官方",
-      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
-      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050232",
-      "pdf_url": "",
-      "main_varieties": [
-        {
-          "name": "甲醇",
-          "code": "MA"
-        }
-      ],
-      "matched_keywords": "甲醇",
       "collection_status": "discovered"
     }
   ],
