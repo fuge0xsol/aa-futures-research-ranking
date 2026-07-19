@@ -1,7 +1,7 @@
 {
   "generated_at": "2026-07-19",
   "window_start": "2026-04-20",
-  "report_count": 1151,
+  "report_count": 1170,
   "reports": [
     {
       "company": "国泰君安期货",
@@ -28452,6 +28452,444 @@
       ],
       "matched_keywords": "生猪",
       "collection_status": "discovered"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "策略会",
+      "title": "南华期货2026夏季策略会：农产品多品种机遇浮现",
+      "publish_date": "2026-07-10",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "内容明确标注南华期货，主题覆盖油脂油料、白糖、软商品和谷物等农产品品种及下半年策略。",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "策略会",
+      "title": "南华期货2026夏季策略会：农产品多品种机遇浮现",
+      "publish_date": "2026-07-10",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "内容明确标注南华期货，主题覆盖油脂油料、白糖、软商品和谷物等农产品品种及下半年策略。",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        }
+      ],
+      "matched_keywords": "豆油",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "策略会",
+      "title": "南华期货2026夏季策略会：农产品多品种机遇浮现",
+      "publish_date": "2026-07-10",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "内容明确标注南华期货，主题覆盖油脂油料、白糖、软商品和谷物等农产品品种及下半年策略。",
+      "main_varieties": [
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "棕榈油",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "策略会",
+      "title": "南华期货2026夏季策略会：农产品多品种机遇浮现",
+      "publish_date": "2026-07-10",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "内容明确标注南华期货，主题覆盖油脂油料、白糖、软商品和谷物等农产品品种及下半年策略。",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "南华期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "策略会",
+      "title": "南华期货2026夏季策略会：农产品多品种机遇浮现",
+      "publish_date": "2026-07-10",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "内容明确标注南华期货，主题覆盖油脂油料、白糖、软商品和谷物等农产品品种及下半年策略。",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报",
+      "title": "【银河期货期市早餐0708】玉米多重底部支撑逐步显现",
+      "publish_date": "2026-07-08",
+      "author": "高波",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "内容明确标注银河期货及分析师信息，主题为玉米期货供需、库存、资金和气候因素。",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "Wind检索文档",
+      "title": "中信期货2026年中策略会成功举办",
+      "publish_date": "2026-07-03",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "农业分会议：气候再起波澜，农业布局机遇。报告内容聚焦天气、棕榈油、天然橡胶、白糖、棉花、玉米和生猪等农产品市场逻辑。",
+      "main_varieties": [
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "棕榈油",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "Wind检索文档",
+      "title": "中信期货2026年中策略会成功举办",
+      "publish_date": "2026-07-03",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "农业分会议：气候再起波澜，农业布局机遇。报告内容聚焦天气、棕榈油、天然橡胶、白糖、棉花、玉米和生猪等农产品市场逻辑。",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "Wind检索文档",
+      "title": "中信期货2026年中策略会成功举办",
+      "publish_date": "2026-07-03",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "农业分会议：气候再起波澜，农业布局机遇。报告内容聚焦天气、棕榈油、天然橡胶、白糖、棉花、玉米和生猪等农产品市场逻辑。",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "Wind检索文档",
+      "title": "中信期货2026年中策略会成功举办",
+      "publish_date": "2026-07-03",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "农业分会议：气候再起波澜，农业布局机遇。报告内容聚焦天气、棕榈油、天然橡胶、白糖、棉花、玉米和生猪等农产品市场逻辑。",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "Wind检索文档",
+      "title": "中信期货2026年中策略会成功举办",
+      "publish_date": "2026-07-03",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "农业分会议：气候再起波澜，农业布局机遇。报告内容聚焦天气、棕榈油、天然橡胶、白糖、棉花、玉米和生猪等农产品市场逻辑。",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "华泰期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报",
+      "title": "华泰期货：生猪后续看供给，短期延磨底",
+      "publish_date": "2026-06-26",
+      "author": "薛钧元",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "来源：华泰期货；作者薛钧元。内容为生猪期货观点及现货、基差数据。",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报",
+      "title": "玉米每日简报2026年6月18日",
+      "publish_date": "2026-06-18",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "来源内容明确标注中信期货，主题为国内玉米市场供需与期货行情。",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "华泰期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报",
+      "title": "端午备货提振作用有限 短期内生猪易承压运行",
+      "publish_date": "2026-06-16",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "来源：华泰期货。内容包含生猪期货行情、现货和基差数据。",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "中粮期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "专题报告",
+      "title": "玉米：基差修复",
+      "publish_date": "2026-06-10",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "来源：中粮期货研究中心。内容为玉米期货基差、供应冲击和后续基差修复。",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "中粮期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "专题报告",
+      "title": "【市场聚焦】玉米：基差修复",
+      "publish_date": "2026-06-10",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "内容明确标注中粮期货研究中心，主题为玉米期货基差修复。",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "华泰期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报",
+      "title": "定向稻谷拍卖启动 短期预计玉米期货弱势震荡运行",
+      "publish_date": "2026-06-04",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "来源：华泰期货。内容包含玉米及玉米淀粉期货行情、现货和基差数据。",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "华泰期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报",
+      "title": "定向稻谷拍卖启动 短期预计玉米期货弱势震荡运行",
+      "publish_date": "2026-06-04",
+      "author": "",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "来源：华泰期货。内容包含玉米及玉米淀粉期货行情、现货和基差数据。",
+      "main_varieties": [
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "淀粉",
+      "collection_status": "wind_source_confirmed"
+    },
+    {
+      "company": "华泰期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报",
+      "title": "华泰期货：预期变动有限，生猪价格维稳运行",
+      "publish_date": "2026-05-22",
+      "author": "薛钧元",
+      "source_type": "Wind金融数据服务",
+      "source_url": "https://aifinmarket.wind.com.cn/",
+      "detail_url": "",
+      "pdf_url": "",
+      "summary": "来源：华泰期货；作者薛钧元。内容为生猪期货观点及现货、基差数据。",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "wind_source_confirmed"
     }
-  ]
+  ],
+  "wind_merge_note": "仅合并前置质量测试中确认来源的 Wind 文档；Wind 搜索结果不等同于原始研报官方链接。"
 }

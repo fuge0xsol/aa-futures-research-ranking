@@ -18,5 +18,15 @@
     "score": 46.09,
     "status": "正式排名",
     "rank": 2
+  },
+  {
+    "company_name": "华泰期货",
+    "sample_count": 3,
+    "hit_count": 1,
+    "accuracy": 33.33,
+    "avg_return_pct": -1.1884,
+    "score": 35.25,
+    "status": "观察样本",
+    "rank": 3
   }
 ]
