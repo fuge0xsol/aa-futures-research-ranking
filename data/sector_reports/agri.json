@@ -1,0 +1,3359 @@
+{
+  "sector": "agri",
+  "sector_name": "农产",
+  "generated_at": "2026-07-19",
+  "window_start": "2026-04-20",
+  "report_count": 134,
+  "company_count": 2,
+  "reports": [
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "生猪：近端负反馈持续累积",
+      "publish_date": "2026-07-17",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/e641c88e-6d52-3501-980f-0256a15bd28a",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "鸡蛋：震荡调整",
+      "publish_date": "2026-07-17",
+      "author": "吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/e5211459-167c-3cfb-9ffc-cb9f2f96d73f",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "玉米：震荡偏弱",
+      "publish_date": "2026-07-17",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/33c4be60-51ce-3a3a-962d-0e30ce37835a",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "花生：等待新驱动",
+      "publish_date": "2026-07-17",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9c9de517-58a4-38bd-9615-4696f6a67170",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棉花：震荡等驱动20260717",
+      "publish_date": "2026-07-17",
+      "author": "傅博",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/a2411b02-0ca0-3ada-b7bd-f421c12123cc",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "豆粕：隔夜美豆收跌，连粕或跟随调整 豆一：现货稳定，盘面震荡",
+      "publish_date": "2026-07-17",
+      "author": "吴光静",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/c0281fc5-f5fa-3587-b563-faef92449824",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "白糖：偏弱运行",
+      "publish_date": "2026-07-17",
+      "author": "周小球",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/ce1b9cb2-691b-3251-a162-f88b8ef6888d",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棕榈油：产地驱动不强，原油带动为主 豆油：美豆天气转好，短期上涨难继",
+      "publish_date": "2026-07-17",
+      "author": "李隽钰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/3bc1af99-1901-370e-a9aa-8260889b088c",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "生猪：关注产能实质性去化后的估值修复",
+      "publish_date": "2026-07-16",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/1fb98c12-ba67-3fed-a6d9-06454974db82",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "鸡蛋：震荡调整",
+      "publish_date": "2026-07-16",
+      "author": "吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/f367e741-a070-3775-bdea-05913d18d7ed",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "玉米：震荡运行",
+      "publish_date": "2026-07-16",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/b363d727-32a9-312c-95b9-5762722b1f0d",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "花生：等待新驱动",
+      "publish_date": "2026-07-16",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/f93b3c76-49db-3ec1-b4e7-98d7a37354b1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棉花：震荡等驱动20260716",
+      "publish_date": "2026-07-16",
+      "author": "傅博",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/878943fd-dc5b-36a6-b4e2-25dfb7e220d3",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "白糖：偏弱运行",
+      "publish_date": "2026-07-16",
+      "author": "周小球",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9094b79e-240f-3f45-a0f6-5332fdded16a",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "豆粕：隔夜美豆收涨，连粕或跟随偏强震荡 豆一：盘面或跟随豆类反弹震荡",
+      "publish_date": "2026-07-16",
+      "author": "吴光静",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/6097b7ca-4d27-38db-a7ca-4d9a78b1bccc",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棕榈油：产地驱动不强，原油带动为主 豆油：美豆油库存低于预期，豆系尚有支撑",
+      "publish_date": "2026-07-16",
+      "author": "李隽钰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/c7e025bc-7e0f-3c12-a931-3a393c23ce0d",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "生猪：关注产能实质性去化后的估值修复",
+      "publish_date": "2026-07-15",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9575ad66-3c86-3dc2-9fe2-cf1b30d8e835",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "鸡蛋：震荡调整",
+      "publish_date": "2026-07-15",
+      "author": "吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9f93afde-e364-3c69-8da1-3f4172d835a7",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "玉米：震荡运行",
+      "publish_date": "2026-07-15",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=1&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/7ba7045f-1961-3008-87d7-02313e262806",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "花生：等待新驱动",
+      "publish_date": "2026-07-15",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/7b0407b0-b8ce-352c-814f-25d4f1e06d31",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棉花：抛储政策落地，前期市场有所消化20260715",
+      "publish_date": "2026-07-15",
+      "author": "傅博",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/0a2db30f-6b1f-3aef-a565-51e254ad5b9f",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "白糖：关注反套机会",
+      "publish_date": "2026-07-15",
+      "author": "周小球",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/be4bbe9e-65ba-31a7-b23e-3d838e3d243e",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棕榈油：产地驱动不强，原油带动为主 豆油：高温干旱或有缓解，地缘仍有反复",
+      "publish_date": "2026-07-15",
+      "author": "李隽钰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/3be485cb-911d-3133-a9ed-7b6a0f10dffa",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "豆粕：隔夜美豆微跌，连粕或震荡 豆一：黑龙江省储抛储，盘面震荡",
+      "publish_date": "2026-07-15",
+      "author": "吴光静",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/1424d544-730e-3b23-940b-d9d7ccde912a",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "生猪：累库预期形成",
+      "publish_date": "2026-07-14",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/aade5f3c-b08a-379a-9678-419b50536bb4",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "鸡蛋：震荡调整",
+      "publish_date": "2026-07-14",
+      "author": "吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/44739a4c-133a-3332-9210-e55aeff9fbe9",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "玉米：关注反套",
+      "publish_date": "2026-07-14",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/3461d79f-a89a-3d4c-9f73-6dc7eb0726f6",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "花生：关注天气",
+      "publish_date": "2026-07-14",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/4cbafb87-0aac-3643-ae5b-3c477c96780a",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棉花：短期内外强内弱，关注新疆天气20260714",
+      "publish_date": "2026-07-14",
+      "author": "傅博",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/cd4a1947-6198-3a6e-9d78-56c1a5724e63",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "白糖：关注91反套机会",
+      "publish_date": "2026-07-14",
+      "author": "周小球",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/2bc834d2-d02f-3a6a-849b-a594f7999bc3",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棕榈油：产地驱动不强，原油带动为主 豆油：高温干旱或有缓解，地缘仍有反复",
+      "publish_date": "2026-07-14",
+      "author": "李隽钰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/d26bb3e3-191a-32cc-8caa-eeb5fb5911cf",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "豆粕：美豆优良率略高于预期，盘面或震荡 豆一：现货稳定，盘面震荡",
+      "publish_date": "2026-07-14",
+      "author": "吴光静",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/da1b325e-d477-39c2-965c-ea10bd08f983",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "玉米：关注反套",
+      "publish_date": "2026-07-13",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/bada7489-3339-394a-973e-a7888e2ef8de",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "花生：关注天气",
+      "publish_date": "2026-07-13",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/567fec5e-af35-31d2-baa3-55cc541ed31d",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棕榈油：产地驱动不强，区间震荡为主 豆油：高温天气提供波动因素，地缘降温",
+      "publish_date": "2026-07-13",
+      "author": "李隽钰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/86c14c37-1b2a-37db-b409-3edd141e0577",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棉花：短期内外强内弱，关注新疆天气20260713",
+      "publish_date": "2026-07-13",
+      "author": "傅博",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/89dc49b6-925c-3c2b-b6ef-7ee227fdf391",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "豆粕：USDA供需报告偏多，或跟随美豆上涨 豆一：或跟随豆类市场反弹",
+      "publish_date": "2026-07-13",
+      "author": "吴光静",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/653fc70e-f58d-3f68-b707-aa0e9ed692d7",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "白糖：区间震荡",
+      "publish_date": "2026-07-13",
+      "author": "周小球",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/319a9467-1196-3fd6-af8f-70c60e3df93f",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "鸡蛋：震荡调整",
+      "publish_date": "2026-07-13",
+      "author": "吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=2&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/ee4f9a50-693a-38e0-9e00-b9aaf705df81",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "花生：关注产区天气",
+      "publish_date": "2026-07-12",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/d01be3a7-2e75-3588-81ca-1abb5d4391c2",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "生猪：短期调整",
+      "publish_date": "2026-07-12",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/d9448bd3-6f19-37ab-b1f0-844c6e5638a4",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "生猪：现货情绪偏强，短期调整",
+      "publish_date": "2026-07-12",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/6c552c9e-e68c-3c89-b1bc-a93ff0808685",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棕榈油：产地卖压未消，边际驱动有限 豆油：偏干天气提供波动，地缘降温难以共振",
+      "publish_date": "2026-07-12",
+      "author": "李隽钰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/e8823017-3286-3156-869f-1e856f9554f3",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棉花：政策不确定性下外强内弱20260712",
+      "publish_date": "2026-07-12",
+      "author": "傅博",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/cc94e610-9cb8-31d2-8517-18a31e39d985",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "白糖：关注结构性价差机会",
+      "publish_date": "2026-07-12",
+      "author": "周小球",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/1bb93014-7509-331e-8056-0c75a019d5a1",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "玉米：震荡偏弱",
+      "publish_date": "2026-07-12",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/aa3ec726-e387-3f6d-a4f8-e47ad98a0664",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "豆粕：7月USDA报告偏多，或偏强震荡 豆一：关注东北产区天气、市场情绪",
+      "publish_date": "2026-07-12",
+      "author": "吴光静",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/30d948f2-054e-3963-b1ed-ec43b22ff32b",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "生猪：情绪转弱，关注1-3及1-5反套",
+      "publish_date": "2026-07-10",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/e2dbaec7-dacc-32d4-85bf-be9d0f41e727",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "鸡蛋：震荡调整",
+      "publish_date": "2026-07-10",
+      "author": "吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/9b9c5e72-2534-311f-b965-60aaa9845b72",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "花生：震荡运行",
+      "publish_date": "2026-07-10",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/0e53a3d6-e713-352c-bc01-10868e73cc5c",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "玉米：关注反套",
+      "publish_date": "2026-07-10",
+      "author": "尹恺宜",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/2ae07b42-1e2c-322b-8580-7dd669041668",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棉花：维持震荡走势20260710",
+      "publish_date": "2026-07-10",
+      "author": "傅博",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/346a3b26-3efb-3ed7-8f7d-9849ed5cc74a",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "白糖：震荡偏弱",
+      "publish_date": "2026-07-10",
+      "author": "周小球",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/3e0c218c-becc-3ef6-b916-384860b8b561",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "棕榈油：产地驱动不强，关注MPOB报告 豆油：高温天气提供波动因素，地缘降温",
+      "publish_date": "2026-07-10",
+      "author": "李隽钰",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/fe877a7d-278e-3090-ac69-224a6d39a854",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "豆粕：或跟随美豆调整，等待USDA供需报告 豆一：调整震荡",
+      "publish_date": "2026-07-10",
+      "author": "吴光静",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/4e24f417-ac0b-37f0-aafe-ce90e505c25c",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "生猪：关注1-3及1-5反套",
+      "publish_date": "2026-07-09",
+      "author": "周小球,吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/7d3f4bf2-b6a5-3819-b2c9-6d8de5555f6e",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国泰君安期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "鸡蛋：震荡调整",
+      "publish_date": "2026-07-09",
+      "author": "吴昊",
+      "source_type": "官方",
+      "source_url": "https://www.gtjaqh.com/pc/report?page=3&catType=%E5%86%9C%E6%9E%97%E4%BA%A7%E5%93%81",
+      "detail_url": "https://www.gtjaqh.com/pc/reportDetail/193c1fb9-cdcd-3f3f-978b-8f7239fead93",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（油脂油料）】供应宽松油粕震荡，关注天气地缘影响——周报20260719",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051578",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕、豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货权益及期权策略（商品期权）】原油隐波首现回落，农产品行情分化——周报20260718",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051560",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "豆粕、白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】白糖内盘承压运行，关注配额外许可证发放情况——日报20260717",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051541",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（生猪）】产能跟踪系列4：二季度去产加速，仍维持正常保有量以上——点评报告20260716",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051524",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】农产品气候跟踪报告——数据报告20260715",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051493",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棕榈油、玉米、白糖、棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】原油上行，油脂震荡偏强——日报20260715",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051472",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】肥标价差稍有收窄，猪价回落——日报20260714",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051434",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（板块策略）】宏观及气候扰动短期非核心交易，品种回归自身基本面博弈——周度策略报告20260712",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051391",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "棕榈油、棉花、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（棉花、白糖）】棉价走强但需关注抛储预期，库存压力下糖价承压震荡——周报20260712",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051380",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "白糖、棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（饲料养殖）】玉米、生猪维持震荡行情——周报20260712",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051378",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（油脂油料）】近期多空交织，油粕走势偏震荡——周报20260712",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051330",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕、豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货权益及期权策略（商品期权）】能化隐波小幅反弹——周报20260711",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051322",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货宏观】PPI年内高点或已现——6月通胀数据点评——点评报告20260710",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051313",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】储备投放等待落地，棉价承压回调——日报20260710",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051293",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】抛储预期再起，棉花盘面收跌——日报20260709",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051256",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】农产品气候跟踪报告——数据报告20260708",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051255",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棕榈油、玉米、白糖、棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260709 Daily Note：Crude Oil, Fuel Oil, Methanol  日报：原油、燃油、甲醇【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051243",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（白糖）】台风“美莎克”极端降水对广西蔗区影响几何？——点评报告20260708",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051231",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】油脂震荡偏强——日报20260708",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051222",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260708 Daily Note：Gold, Silver, PP  日报：黄金、白银、聚丙烯【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051212",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（生猪）】产能跟踪系列3：压栏启动VS洪水天气博弈，去产趋势何去何从？——点评报告20260707",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051203",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260707 Daily Note：Tin, Soybean Meal, Lithium Carbonate  日报：锡、豆粕、碳酸锂【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051196",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        }
+      ],
+      "matched_keywords": "豆粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】天气引发担忧，豆粕增仓领涨——日报20260707",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051188",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（板块策略）】品种多空驱动陷入纠缠，多以观望为主——周度策略报告20260705",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051151",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "豆粕、玉米、棉花、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（饲料养殖）】 压栏惜售下生猪反弹，玉米维持震荡但需关注产区天气——周报20260705",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051140",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（棉花、白糖）】 关注海内外主产区的天气异动，棉价走强，糖价震荡 ——周报20260705",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051139",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "白糖、棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（油脂油料）】近端供应宽松，油粕承压震荡——周报20260705",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051086",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕、豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】原油拖累油脂走势——日报20260703",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051055",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货能源化工】能源安全角度看我国化工品替代农产品趋势——以合成胶和天然橡胶为例——专题报告20260703",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051051",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260702 China Futures Monthly Review 中国期货运行月报【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051042",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        },
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "鸡蛋、生猪、花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】双粕延续震荡，棉花盘面反弹——日报20260702",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051028",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕、棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】油脂承压走弱，豆粕延续波动——日报20260701",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3051001",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆粕、豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】农产品气候跟踪报告——数据报告20260630",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050998",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棕榈油、玉米、白糖、棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260701 Daily Note：Gold, Silver, Aluminum 日报：黄金、白银、铝【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050986",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】惜售情绪升温，猪价反弹——日报20260630",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050949",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260630 Daily Note：Live Hog, Lithium Carbonate, Crude Oil 日报：生猪、碳酸锂、原油【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050944",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "棉花、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（生猪）】去库驱动反弹，反转言之尚早——异动快评20260629",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050937",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260629 China Futures Weekly Summary 中国期货周度综述 【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050907",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（棉花、白糖）】棉花白糖均震荡，关注厄尔尼诺对天气的影响——周报20260628",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050904",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        },
+        {
+          "name": "花生",
+          "code": "PK"
+        }
+      ],
+      "matched_keywords": "白糖、棉花、花生",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（饲料养殖）】 玉米维持震荡，生猪止跌反弹——周报20260628",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050903",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（板块策略）】宏观利空冲击，软商品品种整体下跌——周度策略报告20260628",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050900",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "豆粕、玉米、白糖、棉花、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货航运（大宗贸易）】霍尔木兹海峡通行量稳步抬升，原油油轮上行后转弱——周报20260628",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050894",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "豆粕、玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货权益及期权策略（商品期权）】金银小幅升波，能化波动率区间震荡——周报20260627",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050860",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "豆粕、白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（油脂油料）】油脂或超跌反弹，蛋白粕料延续震荡——周报20260627",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050856",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕、豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货金融工程(商品指数)】商品指数整体承压震荡走弱 —— 周报20260626",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050855",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260626 Daily Note：Gold, Silver, Natural Rubber  日报：黄金、白银、天然橡胶【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050821",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货国际化】ICE期货规则介绍（棉花、原糖） —— 专题报告20260625",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050734",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】油价持续走弱，糖价承压——日报20260625",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050787",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260625 Daily Note：Gold, Silver, Crude Oil  日报：黄金、白银、原油【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050777",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        }
+      ],
+      "matched_keywords": "豆粕、豆油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260624 Daily Note：Crude Oil, Fuel Oil, Tin  日报：原油、燃油、锡【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050740",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "豆粕、豆油、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】遇阻回调符合预期，双粕料延续震荡——日报20260623",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050721",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260623 Daily Note：Lithium Carbonate, Gold, Silver  日报：碳酸锂、黄金、白银【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050712",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        }
+      ],
+      "matched_keywords": "豆粕、豆油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（鸡蛋）】梅雨季叠加新开产，蛋价大幅下跌——异动快评20260622",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050707",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（饲料养殖）】板块运行偏弱——周报20260621",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050678",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（板块策略）】原油剧烈波动扰动估值，棉花橡胶依旧多配——周度策略报告20260621",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050676",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、棉花、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（油脂油料）】油脂分化延续，蛋白粕区间震荡——周报20260621",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050671",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕、豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（棉花、白糖）】短期区间震荡——周报20260621",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050658",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "白糖、棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货权益及期权策略（商品期权）】能化隐波变动幅度收窄——周报20260620",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050610",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "豆粕、白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（白糖）】厄尔尼诺影响下，弱现实格局能否改变？——2026年半年度策略报告",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050592",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（棉花）】天气窗口托底棉价，多配价值犹存但上方高度宜谨慎——2026年半年度策略报告",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050553",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（玉米）】近月承压看替代，远月支撑看天气——2026年半年度策略报告",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050547",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（生猪）】供应余压仍在，岁末静候转机——2026年半年度策略报告",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050542",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（豆粕、菜粕）】豆粕或区间震荡，底部小幅抬升——2026年半年度策略报告",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050737",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货国际化】CBOT期货规则介绍（大豆、豆油、豆粕） —— 专题报告20260617",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050540",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        }
+      ],
+      "matched_keywords": "豆粕、豆油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（油脂）】分歧与共识，油脂势在何方？——2026年半年度策略报告",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050532",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】棉价反弹，阶段性下方支撑显现——日报20260618",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050529",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】蛋白粕减仓收涨，上行动力不足——日报20260617",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050494",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】麦收即将结束，玉米内盘震荡预期不变——日报20260616",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050468",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（板块策略）】尼诺指数继续走高，油脂棉花橡胶依旧多配——周度策略报告20260614",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050410",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "棕榈油、玉米、棉花、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（油脂油料）】油脂回调，双粕震荡——周报20260614",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050403",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "菜粕",
+          "code": "RM"
+        },
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆粕、菜粕、豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（棉花、白糖）】回调企稳，短期关注反弹机会——周报20260614",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050394",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "白糖、棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业（饲料养殖）】玉米替代压力持续，二育出栏猪价承压——周报20260614",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050377",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货权益及期权策略（商品期权）】板块间隐波持续分化——周报20260613",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050361",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆粕",
+          "code": "M"
+        },
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "豆粕、白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】利空情绪逐步出尽，玉米预计仍震荡——日报20260612",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050318",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        }
+      ],
+      "matched_keywords": "玉米",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】出栏节奏正常，猪价低位震荡——日报20260611",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050280",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "【中信期货农业】油脂短期弱势整理——日报20260610",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050238",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "豆油",
+          "code": "Y"
+        },
+        {
+          "name": "棕榈油",
+          "code": "P"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "豆油、棕榈油、菜油",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中信期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "日报/周报待核验",
+      "title": "20260610 Daily Note：Coking Coal, Coke, Poly-Silicon 日报：焦煤、焦炭、多晶硅【中信期货国际化 CITIC Futures】",
+      "publish_date": "",
+      "author": "",
+      "source_type": "官方",
+      "source_url": "https://inst.citicsf.com/research-report/researchReportQuery",
+      "detail_url": "https://inst.citicsf.com/research-report/researchReportQueryDetail?researchId=3050234",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "菜粕",
+          "code": "RM"
+        },
+        {
+          "name": "菜油",
+          "code": "OI"
+        }
+      ],
+      "matched_keywords": "菜粕、菜油",
+      "collection_status": "discovered"
+    }
+  ],
+  "note": "仅采集标题/摘要中命中的主要期货品种；未命中品种的板块研报不纳入本轮数据。"
+}

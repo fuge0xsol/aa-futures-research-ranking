@@ -1,10 +1,26 @@
 # AA期货研报回测榜
 
-独立发布的 GitHub Pages 静态网站，用于展示 AA 期货公司农产品研报线索、结构化观点和历史回测排名。
+独立发布的 GitHub Pages 静态网站，按农产、金属、能化、黑色四大板块展示 AA 期货公司公开研报线索，并逐步接入观点结构化、历史行情回测和机构排名。
 
-## 当前状态
+## 当前数据采集
 
-当前仓库是网站 MVP：已包含研报数据、总体/周度/月度/品种榜单和筛选页面。现有部分榜单仍属于原型数据，正式排名前需要继续完善观点提取、行情回测和样本量门槛。
+已完成首轮公开研报采集，时间窗口为最近约 90 天。仅保留标题/摘要中命中的**主要期货品种**，不做全品种扩展。
+
+- 农产：134 条，2 家机构
+- 金属：250 条，2 家机构
+- 能化：366 条，2 家机构
+- 黑色：91 条，2 家机构
+- 合计：841 条板块研报记录
+
+本轮来源主要为中信期货、国泰君安期货官方公开页面/API；华泰期货接口本轮未返回可用记录。数据字段已保留来源链接、发布日期、板块和主要品种，当前仍属于发现数据，不等同于正式准确率排名。
+
+## 页面
+
+- 首页：`/`
+- 农产：`/agri/`
+- 金属：`/metals/`
+- 能化：`/energy/`
+- 黑色：`/ferrous/`
 
 ## 本地预览
 
@@ -12,41 +28,18 @@
 python -m http.server 8080
 ```
 
-打开：<http://localhost:8080>
-
-## GitHub Pages 部署
-
-1. 在 GitHub 新建一个空仓库，例如 `aa-futures-research-ranking`。
-2. 绑定远程仓库：
-
-```bash
-git remote add origin git@github.com:fuge0xsol/aa-futures-research-ranking.git
-git push -u origin main
-```
-
-3. 仓库进入 **Settings → Pages → Build and deployment**。
-4. Source 选择 **GitHub Actions**。
-5. 推送后，工作流会自动部署静态网站。
-
-预计地址：
+## GitHub Pages
 
 ```text
 https://fuge0xsol.github.io/aa-futures-research-ranking/
 ```
 
-## 数据目录
+## 后续工作
 
-- `data/raw_reports.json`：研报原始发现数据
-- `data/reports.json`：研报列表数据
-- `data/rankings_overall.json`：总体榜单
-- `data/rankings_weekly.json`：周度榜单
-- `data/rankings_monthly.json`：月度榜单
-- `data/rankings_by_commodity.json`：品种榜单
-- `data/site_meta.json`：站点元数据
+1. 对标题/摘要中的主要品种继续规范化。
+2. 提取看多、看空、震荡观点。
+3. 接入主力连续行情和发布时间对齐规则。
+4. 生成逐条回测明细。
+5. 通过样本量门槛后再发布正式机构排名。
 
-## 注意
-
-- 网站只展示结构化信息和统计结果，不转载研报全文。
-- 第三方检索线索必须在正式排名前完成来源核验。
-- 样本量过少的机构不得宣传为具有统计意义的准确率排名。
-- 内容仅用于投研辅助，不构成投资建议。
+数据仅用于研究，不构成投资建议。
