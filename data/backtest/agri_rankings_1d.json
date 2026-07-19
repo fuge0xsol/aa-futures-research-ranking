@@ -1,0 +1,12 @@
+[
+  {
+    "company_name": "国泰君安期货",
+    "sample_count": 7,
+    "hit_count": 3,
+    "accuracy": 42.86,
+    "avg_return_pct": 0.1645,
+    "score": 46.37,
+    "status": "观察样本",
+    "rank": 1
+  }
+]
