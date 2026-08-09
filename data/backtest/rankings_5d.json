@@ -1,23 +1,63 @@
 [
   {
-    "company_name": "国泰君安期货",
+    "company_name": "五矿期货",
     "sample_count": 2,
-    "hit_count": 1,
-    "accuracy": 50.0,
-    "avg_return_pct": -0.8613,
-    "score": 46.56,
+    "hit_count": 2,
+    "accuracy": 100.0,
+    "avg_return_pct": 1.3066,
+    "score": 85.23,
     "status": "观察样本",
     "rank": 1
   },
   {
-    "company_name": "南华期货",
-    "sample_count": 81,
-    "hit_count": 38,
-    "accuracy": 46.91,
-    "avg_return_pct": -0.5154,
-    "score": 46.09,
+    "company_name": "国泰君安期货",
+    "sample_count": 44,
+    "hit_count": 27,
+    "accuracy": 61.36,
+    "avg_return_pct": 1.3137,
+    "score": 62.07,
     "status": "正式排名",
     "rank": 2
+  },
+  {
+    "company_name": "紫金天风",
+    "sample_count": 7,
+    "hit_count": 4,
+    "accuracy": 57.14,
+    "avg_return_pct": 0.9826,
+    "score": 58.22,
+    "status": "观察样本",
+    "rank": 3
+  },
+  {
+    "company_name": "银河期货",
+    "sample_count": 8,
+    "hit_count": 4,
+    "accuracy": 50.0,
+    "avg_return_pct": 0.1302,
+    "score": 50.52,
+    "status": "观察样本",
+    "rank": 4
+  },
+  {
+    "company_name": "南华期货",
+    "sample_count": 89,
+    "hit_count": 44,
+    "accuracy": 49.44,
+    "avg_return_pct": -0.2437,
+    "score": 48.69,
+    "status": "正式排名",
+    "rank": 5
+  },
+  {
+    "company_name": "中泰期货",
+    "sample_count": 11,
+    "hit_count": 5,
+    "accuracy": 45.45,
+    "avg_return_pct": -0.3888,
+    "score": 45.72,
+    "status": "正式排名",
+    "rank": 6
   },
   {
     "company_name": "华泰期货",
@@ -27,6 +67,26 @@
     "avg_return_pct": -1.1884,
     "score": 35.25,
     "status": "观察样本",
-    "rank": 3
+    "rank": 7
+  },
+  {
+    "company_name": "格林大华",
+    "sample_count": 1,
+    "hit_count": 0,
+    "accuracy": 0.0,
+    "avg_return_pct": -1.493,
+    "score": 14.03,
+    "status": "观察样本",
+    "rank": 8
+  },
+  {
+    "company_name": "长江期货",
+    "sample_count": 1,
+    "hit_count": 0,
+    "accuracy": 0.0,
+    "avg_return_pct": -3.0657,
+    "score": 7.74,
+    "status": "观察样本",
+    "rank": 9
   }
 ]
