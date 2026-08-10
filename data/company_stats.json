@@ -1,7 +1,7 @@
 [
   {
     "company": "东海期货",
-    "total_reports": 13,
+    "total_reports": 14,
     "sectors": [
       "financial"
     ],
@@ -25,7 +25,7 @@
   },
   {
     "company": "中泰期货",
-    "total_reports": 47,
+    "total_reports": 69,
     "sectors": [
       "agri",
       "energy",
@@ -49,7 +49,7 @@
   },
   {
     "company": "五矿期货",
-    "total_reports": 166,
+    "total_reports": 172,
     "sectors": [
       "agri",
       "energy",
@@ -105,7 +105,7 @@
   },
   {
     "company": "国信期货",
-    "total_reports": 63,
+    "total_reports": 75,
     "sectors": [
       "agri",
       "energy",
@@ -220,7 +220,7 @@
   },
   {
     "company": "银河期货",
-    "total_reports": 406,
+    "total_reports": 415,
     "sectors": [
       "agri",
       "energy",
