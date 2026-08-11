@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10",
+  "generated_at": "2026-08-11",
   "window_start": "2026-04-20",
-  "report_count": 2832,
+  "report_count": 2935,
   "reports": [
     {
       "company": "国泰君安期货",
@@ -61722,6 +61722,2037 @@
       "pdf_url": "",
       "main_varieties": [],
       "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "瑞达期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "2026-08-11瑞达期货菜籽系产业日报20260810",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "瑞达期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "2026-08-11瑞达期货红枣产业日报20260810",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "红枣",
+          "code": "CJ"
+        }
+      ],
+      "matched_keywords": "红枣",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "瑞达期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "2026-08-11瑞达期货鸡蛋产业日报20260810",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        }
+      ],
+      "matched_keywords": "鸡蛋",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "全部",
+      "title": "五矿期货有色期权策略日报20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "瑞达期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "2026-08-11瑞达期货苹果产业日报20260810",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "瑞达期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "2026-08-11瑞达期货生猪产业日报20260810",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品期货",
+      "title": "棉花--周报--格林大华期货20260807",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品期货",
+      "title": "苹果--周报--格林大华期货20260807",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品期货",
+      "title": "原木---周报--格林大华期货20260807",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品期货",
+      "title": "格林大华期市早班车-白糖红枣橡胶（20260811）",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "红枣",
+          "code": "CJ"
+        },
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "白糖、红枣、橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品日报",
+      "title": "格林大华期货早班车——棉花苹果 原木20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        },
+        {
+          "name": "苹果",
+          "code": "AP"
+        }
+      ],
+      "matched_keywords": "棉花、苹果",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品日报",
+      "title": "格林大华期市早班车-玉米生猪鸡蛋（20260811）",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、鸡蛋、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "全部",
+      "title": "【碳酸锂专题20260811】：2026Q2澳大利亚锂资源供给更新",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融日报",
+      "title": "格林大华期市早班车-国债（20260811）",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色贵金属期货",
+      "title": "格林大华期市早班车-贵金属（20260811）",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "全部",
+      "title": "五矿期货农产品早报20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "全部",
+      "title": "五矿期货有色金属早报20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "全部",
+      "title": "五矿期货贵金属早报20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "能源化工",
+      "title": "【银河期货】合成橡胶日报-20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "能源化工",
+      "title": "【银河期货】合成橡胶日报-20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "能源化工",
+      "title": "【银河期货】天然橡胶日报-20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "能源化工",
+      "title": "【银河期货】天然橡胶日报-20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "煤焦钢及化工品日报",
+      "title": "格林大华期市早班车-尿素260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "尿素",
+          "code": "UR"
+        }
+      ],
+      "matched_keywords": "尿素",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "煤焦钢及化工品日报",
+      "title": "格林大华期市早班车-甲醇260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "甲醇",
+          "code": "MA"
+        }
+      ],
+      "matched_keywords": "甲醇",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "全部",
+      "title": "五矿期货黑色建材早报20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "全部",
+      "title": "五矿期货能源化工早报20260811",
+      "publish_date": "2026-08-11",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品期货",
+      "title": "格林大华期市早班车-白糖红枣橡胶（20260810）",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        },
+        {
+          "name": "红枣",
+          "code": "CJ"
+        },
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "白糖、红枣、橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品日报",
+      "title": "格林大华期市早班车-玉米生猪鸡蛋（20260810）",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "玉米、鸡蛋、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "煤焦钢及化工品日报",
+      "title": "格林大华期市早班车-尿素260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "尿素",
+          "code": "UR"
+        }
+      ],
+      "matched_keywords": "尿素",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "煤焦钢及化工品日报",
+      "title": "格林大华期市早班车-甲醇260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "甲醇",
+          "code": "MA"
+        }
+      ],
+      "matched_keywords": "甲醇",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融日报",
+      "title": "格林大华期市早班车--股指（20260811）",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融日报",
+      "title": "格林大华期市早班车--全球经济（20260811）",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品类",
+      "title": "【银河期货】农产品策略：外盘利多发酵，关注对内盘棉糖的影响-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "能源化工",
+      "title": "【银河期货】合成橡胶日报-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "能源化工",
+      "title": "【银河期货】合成橡胶日报-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "能源化工",
+      "title": "【银河期货】天然橡胶日报-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "银河期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "能源化工",
+      "title": "【银河期货】天然橡胶日报-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "申银万国",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "今日关注",
+      "title": "申万期货玻璃纯碱策略日报 - 20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        },
+        {
+          "name": "纯碱",
+          "code": "SA"
+        }
+      ],
+      "matched_keywords": "玻璃、纯碱",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "申银万国",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "今日关注",
+      "title": "申万期货国债策略日报-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "申银万国",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "今日关注",
+      "title": "申万期货黄金白银策略日报-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        },
+        {
+          "name": "白银",
+          "code": "AG"
+        }
+      ],
+      "matched_keywords": "黄金、白银",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "申银万国",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "今日关注",
+      "title": "申万期货有色金属产业基差日报-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "申银万国",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "今日关注",
+      "title": "申万期货原油甲醇策略日报-20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "原油",
+          "code": "SC"
+        },
+        {
+          "name": "甲醇",
+          "code": "MA"
+        }
+      ],
+      "matched_keywords": "原油、甲醇",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "全部",
+      "title": "五矿期货橡胶及纸类期权策略日报20260807",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "全部",
+      "title": "五矿期货橡胶及纸类期权策略日报20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "五矿期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "全部",
+      "title": "五矿期货有色期权策略日报20260807",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色贵金属期货",
+      "title": "格林大华期市早班车-贵金属（20260810）",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "格林大华期市早班车-国债（20260810）",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "【长江期货】金融周报0810—股指或受非农提振，国债或震荡运行",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色金属",
+      "title": "光期贵金属：周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色金属",
+      "title": "光期有色：工业硅&amp;多晶硅周度报告20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色金属",
+      "title": "光期有色：基本金属周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色金属",
+      "title": "光期有色：碳酸锂周度报告20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "广发期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "20260810广发期货农产品周报汇总",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "饲料产业",
+      "title": "养殖产业周报：生猪供需压力仍存反弹受限，鸡蛋需求改善盘面近强远弱20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "鸡蛋、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "黑色金属",
+      "title": "光期研究：终端需求观察（第152期）",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "黑色金属",
+      "title": "光期研究：终端需求观察（第152期）",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色金属",
+      "title": "玻璃周报：主力临近交割 价格波动较大20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "有色金属",
+      "title": "玻璃周报：主力临近交割 价格波动较大20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玻璃",
+          "code": "FG"
+        }
+      ],
+      "matched_keywords": "玻璃",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色金属",
+      "title": "贵金属周报：非农不及预期，价格偏强震荡",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色金属",
+      "title": "黑色金属周报：双焦价格上涨 带动黑色反弹20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "有色金属",
+      "title": "黑色金属周报：双焦价格上涨 带动黑色反弹20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色金属",
+      "title": "有色与能源金属周报：宏观环境偏利好，反内卷交易再起",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "长江期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "有色金属",
+      "title": "有色与能源金属周报：宏观环境偏利好，反内卷交易再起",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "广发期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融",
+      "title": "20260810广发期货宏观金融周报汇总",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "光期农产品：生猪、鸡蛋周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "鸡蛋",
+          "code": "JD"
+        },
+        {
+          "name": "生猪",
+          "code": "LH"
+        }
+      ],
+      "matched_keywords": "鸡蛋、生猪",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "光期农产品：油脂油料周度报告20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "光期农产品：玉米、淀粉周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "玉米",
+          "code": "C"
+        },
+        {
+          "name": "淀粉",
+          "code": "CS"
+        }
+      ],
+      "matched_keywords": "玉米、淀粉",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "光期资源品：白糖周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "白糖",
+          "code": "SR"
+        }
+      ],
+      "matched_keywords": "白糖",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "农产品",
+      "title": "光期资源品：棉花周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "棉花",
+          "code": "CF"
+        }
+      ],
+      "matched_keywords": "棉花",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "黑色金属",
+      "title": "光期黑色：废钢周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "黑色金属",
+      "title": "光期黑色：废钢周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "黑色金属",
+      "title": "光期黑色：钢矿周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "黑色金属",
+      "title": "光期黑色：钢矿周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "黑色金属",
+      "title": "光期黑色：双焦周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "黑色金属",
+      "title": "光期黑色：双焦周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "黑色金属",
+      "title": "光期黑色：铁矿石基差及价差监测日报 20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "黑色金属",
+      "title": "光期黑色：铁矿石基差及价差监测日报 20260810",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铁矿石",
+          "code": "I"
+        }
+      ],
+      "matched_keywords": "铁矿石",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "黑色金属",
+      "title": "光期资源品：铁合金周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "ferrous",
+      "sector_name": "黑色",
+      "report_type": "黑色金属",
+      "title": "光期资源品：铁合金周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "能源化工",
+      "title": "光期能化：化工周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "能源化工",
+      "title": "光期能化：能源周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "能源化工",
+      "title": "光期资源品：煤化工周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "光期宏观：大类资产配置周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "光期宏观：股指期货周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "光期宏观：国债周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "光大期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "光期宏观：宏观周报20260809",
+      "publish_date": "2026-08-10",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色贵金属期货",
+      "title": "黄金大幅反弹-金银-周报-格林大华期货-20260809",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "黄金",
+          "code": "AU"
+        }
+      ],
+      "matched_keywords": "黄金",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "7月通胀低于预期-国债-周报-格林大华期货-20260809",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "格林大华期市早班车--股指（20260810）",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "格林大华",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "金融期货",
+      "title": "格林大华期市早班车--全球经济（20260810）",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国联期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周度评论",
+      "title": "国联期货工业硅-多晶硅期货周报2026.08.09.pdf",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "工业硅",
+          "code": "SI"
+        }
+      ],
+      "matched_keywords": "工业硅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国联期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "周度评论",
+      "title": "国联期货股指期权周度观察20260809.pdf",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国联期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "周度评论",
+      "title": "国联期货股指期货周度数据观察：股指风险偏好短暂回升20260809.pdf",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国联期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周度评论",
+      "title": "国联期货贵金属周度观察：关注美国7月通胀数据20260809.pdf",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中泰期货",
+      "rating_level": "AA",
+      "sector": "energy",
+      "sector_name": "能化",
+      "report_type": "能源与化工",
+      "title": "中泰期货纸浆及胶版印刷纸周报20260809-供应端扰动与弱现实博弈下纸浆宽幅震荡",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "纸浆",
+          "code": "SP"
+        }
+      ],
+      "matched_keywords": "纸浆",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中泰期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色与贵金属",
+      "title": "中泰期货碳酸锂周报20260809-去库验证强现实，但仍需等待现货转紧",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中泰期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色与贵金属",
+      "title": "中泰期货沪铅周报20260809弱消费充分反应，铅价探底回升",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铅",
+          "code": "PB"
+        }
+      ],
+      "matched_keywords": "铅",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中泰期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "有色与贵金属",
+      "title": "中泰期货沪锌周报20260809宏观向暖加工费止跌，锌价冲高回落",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "锌",
+          "code": "ZN"
+        }
+      ],
+      "matched_keywords": "锌",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "中泰期货",
+      "rating_level": "AA",
+      "sector": "financial",
+      "sector_name": "金融",
+      "report_type": "有色与贵金属",
+      "title": "中泰期货沪锌周报20260809宏观向暖加工费止跌，锌价冲高回落",
+      "publish_date": "2026-08-09",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [],
+      "matched_keywords": "",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国联期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周度评论",
+      "title": "碳酸锂周报20260808.pdf",
+      "publish_date": "2026-08-08",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "碳酸锂",
+          "code": "LC"
+        }
+      ],
+      "matched_keywords": "碳酸锂",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国联期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周度评论",
+      "title": "国联期货铜周报20260808：美非农就业走弱，铜供给端存支撑.pdf",
+      "publish_date": "2026-08-08",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铜",
+          "code": "CU"
+        }
+      ],
+      "matched_keywords": "铜",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国联期货",
+      "rating_level": "AA",
+      "sector": "metals",
+      "sector_name": "金属",
+      "report_type": "周度评论",
+      "title": "国联期货铝周报20260808：海外铝产量同比减，日均产量环比回升.pdf",
+      "publish_date": "2026-08-08",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "铝",
+          "code": "AL"
+        }
+      ],
+      "matched_keywords": "铝",
+      "collection_status": "discovered"
+    },
+    {
+      "company": "国联期货",
+      "rating_level": "AA",
+      "sector": "agri",
+      "sector_name": "农产",
+      "report_type": "周度评论",
+      "title": "橡胶周报20260808.pdf",
+      "publish_date": "2026-08-08",
+      "author": "",
+      "source_type": "jykc",
+      "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+      "detail_url": "",
+      "pdf_url": "",
+      "main_varieties": [
+        {
+          "name": "橡胶",
+          "code": "RU"
+        }
+      ],
+      "matched_keywords": "橡胶",
       "collection_status": "discovered"
     }
   ],
