@@ -62,7 +62,8 @@ def main():
  for file in sorted(SRC.glob('*.json')):
   if file.name=='all.json': continue
   payload=json.loads(file.read_text())
-  for idx,r in enumerate(payload.get('reports',[])):
+  report_list=payload.get('reports',payload) if isinstance(payload,dict) else payload
+  for idx,r in enumerate(report_list):
    vars=r.get('main_varieties') or []
    if not vars: continue
    v=vars[0]; d,dc,conf,source=direction(r.get('title'))
