@@ -1,9 +1,11 @@
 [
   {
     "company": "东海期货",
-    "total_reports": 16,
+    "total_reports": 18,
     "sectors": [
-      "financial"
+      "ferrous",
+      "financial",
+      "metals"
     ],
     "sources": [
       "jykc"
@@ -49,7 +51,7 @@
   },
   {
     "company": "五矿期货",
-    "total_reports": 200,
+    "total_reports": 204,
     "sectors": [
       "agri",
       "energy",
@@ -63,7 +65,7 @@
   },
   {
     "company": "光大期货",
-    "total_reports": 260,
+    "total_reports": 273,
     "sectors": [
       "agri",
       "energy",
@@ -157,7 +159,7 @@
   },
   {
     "company": "方正中期",
-    "total_reports": 14,
+    "total_reports": 16,
     "sectors": [
       "financial"
     ],
@@ -167,7 +169,7 @@
   },
   {
     "company": "格林大华",
-    "total_reports": 160,
+    "total_reports": 167,
     "sectors": [
       "agri",
       "energy",
@@ -180,7 +182,7 @@
   },
   {
     "company": "瑞达期货",
-    "total_reports": 445,
+    "total_reports": 464,
     "sectors": [
       "agri",
       "energy",
@@ -194,7 +196,7 @@
   },
   {
     "company": "申银万国",
-    "total_reports": 84,
+    "total_reports": 90,
     "sectors": [
       "agri",
       "energy",
@@ -207,7 +209,7 @@
   },
   {
     "company": "紫金天风",
-    "total_reports": 87,
+    "total_reports": 96,
     "sectors": [
       "agri",
       "energy",
@@ -220,7 +222,7 @@
   },
   {
     "company": "银河期货",
-    "total_reports": 469,
+    "total_reports": 499,
     "sectors": [
       "agri",
       "energy",

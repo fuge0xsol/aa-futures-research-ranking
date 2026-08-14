@@ -1,11 +1,11 @@
 [
   {
     "company_name": "国泰君安期货",
-    "sample_count": 17,
-    "hit_count": 10,
-    "accuracy": 58.82,
-    "avg_return_pct": 1.29,
-    "score": 60.45,
+    "sample_count": 27,
+    "hit_count": 18,
+    "accuracy": 66.67,
+    "avg_return_pct": 1.7238,
+    "score": 66.9,
     "status": "正式排名",
     "rank": 1
   },
