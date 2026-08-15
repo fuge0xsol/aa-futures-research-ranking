@@ -20,6 +20,26 @@
     "rank": 2
   },
   {
+    "company_name": "五矿期货",
+    "sample_count": 13,
+    "hit_count": 7,
+    "accuracy": 53.85,
+    "avg_return_pct": 0.3455,
+    "score": 53.69,
+    "status": "正式排名",
+    "rank": 3
+  },
+  {
+    "company_name": "银河期货",
+    "sample_count": 10,
+    "hit_count": 5,
+    "accuracy": 50.0,
+    "avg_return_pct": 0.1378,
+    "score": 50.55,
+    "status": "正式排名",
+    "rank": 4
+  },
+  {
     "company_name": "南华期货",
     "sample_count": 89,
     "hit_count": 44,
@@ -27,26 +47,6 @@
     "avg_return_pct": -0.2437,
     "score": 48.69,
     "status": "正式排名",
-    "rank": 3
-  },
-  {
-    "company_name": "银河期货",
-    "sample_count": 9,
-    "hit_count": 4,
-    "accuracy": 44.44,
-    "avg_return_pct": 0.06,
-    "score": 46.91,
-    "status": "观察样本",
-    "rank": 4
-  },
-  {
-    "company_name": "五矿期货",
-    "sample_count": 7,
-    "hit_count": 3,
-    "accuracy": 42.86,
-    "avg_return_pct": 0.0026,
-    "score": 45.72,
-    "status": "观察样本",
     "rank": 5
   },
   {

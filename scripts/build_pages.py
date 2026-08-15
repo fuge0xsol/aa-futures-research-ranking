@@ -53,6 +53,91 @@ def compute_rankings(bt_records, min_samples_formal=10):
         r['rank'] = i + 1
     return rankings
 
+def compute_commodity_ranking(bt_records):
+    """品种页排名：按准确率降序，样本数次之；附多空观点数"""
+    from collections import defaultdict
+    by_company = defaultdict(list)
+    for r in bt_records:
+        by_company[r['company']].append(r)
+    rankings = []
+    for company, recs in by_company.items():
+        hits = sum(1 for r in recs if r.get('hit'))
+        samples = len(recs)
+        bull = sum(1 for r in recs if r.get('direction') == 'bullish')
+        bear = sum(1 for r in recs if r.get('direction') == 'bearish')
+        avg_return = sum(float(r.get('strategy_return_pct', 0)) for r in recs) / samples if samples else 0
+        accuracy = hits / samples * 100 if samples else 0
+        rankings.append({
+            'company_name': company,
+            'sample_count': samples,
+            'hit_count': hits,
+            'accuracy': round(accuracy, 2),
+            'avg_return_pct': round(avg_return, 4),
+            'bull_count': bull,
+            'bear_count': bear,
+        })
+    rankings.sort(key=lambda x: (x['accuracy'], x['sample_count']), reverse=True)
+    for i, r in enumerate(rankings):
+        r['rank'] = i + 1
+    return rankings
+
+def build_commodity_pages(sector, sector_config):
+    """为板块内每个品种生成独立详情页 {sector}/{CODE}.html"""
+    from collections import defaultdict
+    sector_dir = BASE / sector
+    template_path = BASE / 'commodity-template.html'
+    if not template_path.exists():
+        print(f'  [WARN] commodity-template.html not found')
+        return 0
+    
+    all_bt = load_json(BT_DIR / 'backtest_records.json') or []
+    sector_bt = [r for r in all_bt if r.get('sector') == sector and r.get('status') == 'valid' and r.get('horizon_days') == 1]
+    reports = load_json(DATA / 'sector_reports' / f'{sector}.json') or []
+    template = template_path.read_text(encoding='utf-8')
+    
+    # 按品种代码分组
+    by_commodity = defaultdict(list)
+    for r in sector_bt:
+        code = r.get('commodity')
+        if code:
+            by_commodity[code].append(r)
+    
+    generated = 0
+    existing_pages = set(p.name for p in sector_dir.glob('*.html')) - {'index.html'}
+    for code, recs in sorted(by_commodity.items()):
+        name = recs[0].get('commodity_name') or code
+        # 匹配研报：品种名出现在 matched_keywords 或 commodity_name
+        com_reports = [r for r in reports if name in str(r.get('matched_keywords', '')) or r.get('commodity_name') == name]
+        ranking = compute_commodity_ranking(recs)
+        com_data = {
+            'commodity': code,
+            'commodity_name': name,
+            'sector': sector,
+            'sector_name': sector_config['cn'],
+            'backtests': sorted(recs, key=lambda x: x.get('exit_date', '')),
+            'ranking': ranking,
+            'reports': com_reports,
+            'generatedAt': datetime.now().strftime('%Y-%m-%d %H:%M'),
+        }
+        page = (template
+                .replace('__COMMODITY_NAME__', name)
+                .replace('__COMMODITY__', code)
+                .replace('__SECTOR_NAME__', sector_config['cn'])
+                .replace('__SECTOR__', sector)
+                .replace('__COMMODITY_DATA__', json.dumps(com_data, ensure_ascii=False)))
+        out = sector_dir / f'{code}.html'
+        out.write_text(page, encoding='utf-8')
+        existing_pages.discard(f'{code}.html')
+        generated += 1
+        print(f'  [OK] {sector}/{code}.html — {name}: {len(recs)} 回测, {len(ranking)} 机构, {len(com_reports)} 研报')
+    
+    # 清理已无数据的品种页
+    for stale in existing_pages:
+        (sector_dir / stale).unlink()
+        print(f'  [CLEAN] removed stale {sector}/{stale}')
+    return generated
+
+
 def build_sector_page(sector, config):
     """为一个板块构建 window.SECTION JSON 并注入 HTML"""
     sector_dir = BASE / sector
@@ -107,6 +192,7 @@ def main():
     for sector, config in SECTORS.items():
         if build_sector_page(sector, config):
             updated += 1
+        build_commodity_pages(sector, config)
     print(f'=== Done: {updated}/{len(SECTORS)} pages updated ===')
 
 if __name__ == '__main__':
