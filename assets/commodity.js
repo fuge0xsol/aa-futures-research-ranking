@@ -2,7 +2,7 @@ const esc=v=>String(v??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&
 const data=window.COMMODITY||{};
 const bt=(data.backtests||[]).filter(x=>x.horizon_days===1&&x.status==='valid').slice().sort((a,b)=>a.exit_date.localeCompare(b.exit_date));
 const ranking=data.ranking||[];
-const reports=data.reports||[];
+const reports=(data.reports||[]).slice().sort((a,b)=>String(b.publish_date||'').localeCompare(String(a.publish_date||'')));
 
 // Stats
 const totalHits=bt.filter(x=>x.hit===true).length;
