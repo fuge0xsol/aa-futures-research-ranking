@@ -1,7 +1,7 @@
 [
   {
     "company": "东海期货",
-    "total_reports": 19,
+    "total_reports": 20,
     "sectors": [
       "ferrous",
       "financial",
@@ -27,7 +27,7 @@
   },
   {
     "company": "中泰期货",
-    "total_reports": 99,
+    "total_reports": 100,
     "sectors": [
       "agri",
       "energy",
@@ -51,7 +51,7 @@
   },
   {
     "company": "五矿期货",
-    "total_reports": 225,
+    "total_reports": 235,
     "sectors": [
       "agri",
       "energy",
@@ -65,7 +65,7 @@
   },
   {
     "company": "光大期货",
-    "total_reports": 286,
+    "total_reports": 298,
     "sectors": [
       "agri",
       "energy",
@@ -79,7 +79,7 @@
   },
   {
     "company": "华泰期货",
-    "total_reports": 17,
+    "total_reports": 18,
     "sectors": [
       "agri",
       "energy",
@@ -107,7 +107,7 @@
   },
   {
     "company": "国信期货",
-    "total_reports": 98,
+    "total_reports": 101,
     "sectors": [
       "agri",
       "energy",
@@ -134,7 +134,7 @@
   },
   {
     "company": "国联期货",
-    "total_reports": 22,
+    "total_reports": 24,
     "sectors": [
       "agri",
       "energy",
@@ -147,7 +147,7 @@
   },
   {
     "company": "广发期货",
-    "total_reports": 15,
+    "total_reports": 17,
     "sectors": [
       "agri",
       "financial",
@@ -159,7 +159,7 @@
   },
   {
     "company": "方正中期",
-    "total_reports": 16,
+    "total_reports": 17,
     "sectors": [
       "financial"
     ],
@@ -169,7 +169,7 @@
   },
   {
     "company": "格林大华",
-    "total_reports": 179,
+    "total_reports": 188,
     "sectors": [
       "agri",
       "energy",
@@ -182,7 +182,7 @@
   },
   {
     "company": "瑞达期货",
-    "total_reports": 464,
+    "total_reports": 499,
     "sectors": [
       "agri",
       "energy",
@@ -196,7 +196,7 @@
   },
   {
     "company": "申银万国",
-    "total_reports": 95,
+    "total_reports": 99,
     "sectors": [
       "agri",
       "energy",
@@ -209,7 +209,7 @@
   },
   {
     "company": "紫金天风",
-    "total_reports": 96,
+    "total_reports": 106,
     "sectors": [
       "agri",
       "energy",
@@ -222,7 +222,7 @@
   },
   {
     "company": "银河期货",
-    "total_reports": 531,
+    "total_reports": 563,
     "sectors": [
       "agri",
       "energy",
@@ -237,7 +237,7 @@
   },
   {
     "company": "长江期货",
-    "total_reports": 40,
+    "total_reports": 50,
     "sectors": [
       "agri",
       "energy",

@@ -1,11 +1,11 @@
 [
   {
     "company_name": "银河期货",
-    "sample_count": 10,
-    "hit_count": 7,
-    "accuracy": 70.0,
-    "avg_return_pct": 0.4938,
-    "score": 63.98,
+    "sample_count": 12,
+    "hit_count": 8,
+    "accuracy": 66.67,
+    "avg_return_pct": 0.365,
+    "score": 61.46,
     "status": "正式排名",
     "rank": 1
   },
