@@ -50,6 +50,16 @@
     "rank": 5
   },
   {
+    "company_name": "南华期货",
+    "sample_count": 89,
+    "hit_count": 44,
+    "accuracy": 49.44,
+    "avg_return_pct": -0.2437,
+    "score": 48.69,
+    "status": "正式排名",
+    "rank": 6
+  },
+  {
     "company_name": "格林大华",
     "sample_count": 2,
     "hit_count": 1,
@@ -57,16 +67,6 @@
     "avg_return_pct": -0.35,
     "score": 48.6,
     "status": "观察样本",
-    "rank": 6
-  },
-  {
-    "company_name": "南华期货",
-    "sample_count": 88,
-    "hit_count": 43,
-    "accuracy": 48.86,
-    "avg_return_pct": -0.3313,
-    "score": 47.99,
-    "status": "正式排名",
     "rank": 7
   },
   {

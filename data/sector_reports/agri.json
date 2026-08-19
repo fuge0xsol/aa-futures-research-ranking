@@ -5837,28 +5837,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "国信期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "策略专题",
-    "title": "国信期货橡胶专题报告20260721",
-    "publish_date": "2026-07-21",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "光大期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -5890,50 +5868,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260721",
-    "publish_date": "2026-07-21",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260721",
-    "publish_date": "2026-07-21",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -6113,50 +6047,6 @@
     "rating_level": "AA",
     "sector": "agri",
     "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260720",
-    "publish_date": "2026-07-20",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260720",
-    "publish_date": "2026-07-20",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
     "report_type": "农产品类",
     "title": "【银河期货】玉米和淀粉日报（26-7-20）",
     "publish_date": "2026-07-20",
@@ -6320,50 +6210,6 @@
       }
     ],
     "matched_keywords": "生猪",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-20瑞达期货合成橡胶产业日报20260720",
-    "publish_date": "2026-07-20",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-20瑞达期货天然橡胶产业日报20260720",
-    "publish_date": "2026-07-20",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -6535,28 +6381,6 @@
       }
     ],
     "matched_keywords": "棉花",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260720",
-    "publish_date": "2026-07-20",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -6764,28 +6588,6 @@
     "sector": "agri",
     "sector_name": "农产",
     "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260722",
-    "publish_date": "2026-07-22",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
     "title": "【玉米专题20260722】：补库动能不足，价格重心缓慢下移",
     "publish_date": "2026-07-22",
     "author": "",
@@ -6800,28 +6602,6 @@
       }
     ],
     "matched_keywords": "玉米",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "期权",
-    "title": "五矿期货橡胶及纸类期权策略日报20260721",
-    "publish_date": "2026-07-22",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -6856,28 +6636,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260723",
-    "publish_date": "2026-07-23",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -6938,50 +6696,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260723",
-    "publish_date": "2026-07-23",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260723",
-    "publish_date": "2026-07-23",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -7143,50 +6857,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-22瑞达期货合成橡胶产业日报20260722",
-    "publish_date": "2026-07-22",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-22瑞达期货天然橡胶产业日报20260722",
-    "publish_date": "2026-07-22",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -7358,72 +7028,6 @@
       }
     ],
     "matched_keywords": "苹果",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260722",
-    "publish_date": "2026-07-22",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260722",
-    "publish_date": "2026-07-22",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "紫金天风",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "农产品",
-    "title": "【顺丁橡胶】下游接货乏力",
-    "publish_date": "2026-07-22",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -7730,50 +7334,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-23瑞达期货合成橡胶产业日报20260723",
-    "publish_date": "2026-07-23",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-23瑞达期货天然橡胶产业日报20260723",
-    "publish_date": "2026-07-23",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "光大期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -7835,50 +7395,6 @@
       }
     ],
     "matched_keywords": "白糖、红枣、橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260724",
-    "publish_date": "2026-07-24",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260724",
-    "publish_date": "2026-07-24",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -8206,28 +7722,6 @@
     "sector": "agri",
     "sector_name": "农产",
     "report_type": "全部",
-    "title": "【橡胶周报20260725】：耐心等待机会",
-    "publish_date": "2026-07-25",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
     "title": "【玉米周报20260725】：需求承接偏弱，玉米维持弱势震荡",
     "publish_date": "2026-07-25",
     "author": "",
@@ -8259,50 +7753,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "国信期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工月报",
-    "title": "国信期货橡胶月报202608",
-    "publish_date": "2026-07-27",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "【橡胶专题20260727】：等待机会",
-    "publish_date": "2026-07-27",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -8380,50 +7830,6 @@
       }
     ],
     "matched_keywords": "玉米、鸡蛋、生猪",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "中泰期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源与化工",
-    "title": "中泰期货橡胶周报20260726-短期依然承压，或再次下探，关注逢低买入机会。",
-    "publish_date": "2026-07-26",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "中泰期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源与化工",
-    "title": "中泰期货合成橡胶周报20260726-受能源带动价格上涨，短期累库存且有新产能投放预期谨慎追高。",
-    "publish_date": "2026-07-26",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -8832,50 +8238,6 @@
     "rating_level": "AA",
     "sector": "agri",
     "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-27瑞达期货合成橡胶产业日报20260727",
-    "publish_date": "2026-07-27",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-27瑞达期货天然橡胶产业日报20260727",
-    "publish_date": "2026-07-27",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
     "report_type": "农产品",
     "title": "2026-07-27瑞达期货生猪产业日报20260727",
     "publish_date": "2026-07-27",
@@ -8925,28 +8287,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "国联期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "周度评论",
-    "title": "国联期货2026年8月策略报告-橡胶.pdf",
-    "publish_date": "2026-07-27",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -9039,28 +8379,6 @@
       }
     ],
     "matched_keywords": "豆粕",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260729",
-    "publish_date": "2026-07-29",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -9265,72 +8583,6 @@
       }
     ],
     "matched_keywords": "白糖",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260728",
-    "publish_date": "2026-07-28",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-28瑞达期货合成橡胶产业日报20260728",
-    "publish_date": "2026-07-28",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-28瑞达期货天然橡胶产业日报20260728",
-    "publish_date": "2026-07-28",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -9905,50 +9157,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260729",
-    "publish_date": "2026-07-29",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260729",
-    "publish_date": "2026-07-29",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "瑞达期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -10471,50 +9679,6 @@
     "rating_level": "AA",
     "sector": "agri",
     "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-30瑞达期货合成橡胶产业日报20260730",
-    "publish_date": "2026-07-30",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-07-30瑞达期货天然橡胶产业日报20260730",
-    "publish_date": "2026-07-30",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
     "report_type": "农产品",
     "title": "2026-07-30瑞达期货菜籽系产业日报20260730",
     "publish_date": "2026-07-30",
@@ -10657,94 +9821,6 @@
       }
     ],
     "matched_keywords": "苹果",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】橡胶：气候地缘驱动仍在 消费抑制作用渐显（2026年8月报）",
-    "publish_date": "2026-07-30",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260730",
-    "publish_date": "2026-07-30",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260730",
-    "publish_date": "2026-07-30",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260730",
-    "publish_date": "2026-07-30",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -11035,50 +10111,6 @@
     "sector": "agri",
     "sector_name": "农产",
     "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260731",
-    "publish_date": "2026-07-31",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "【橡胶周报20260801】：市场风险偏边际转好",
-    "publish_date": "2026-08-01",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
     "title": "【玉米周报20260801】：新粮压力渐近，需求承接偏弱",
     "publish_date": "2026-08-01",
     "author": "",
@@ -11304,50 +10336,6 @@
     "rating_level": "AA",
     "sector": "agri",
     "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-03瑞达期货天然橡胶产业日报20260803",
-    "publish_date": "2026-08-03",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-03瑞达期货合成橡胶产业日报20260803",
-    "publish_date": "2026-08-03",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
     "report_type": "农产品",
     "title": "2026-08-03瑞达期货白糖产业日报20260803",
     "publish_date": "2026-08-03",
@@ -11541,50 +10529,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260803",
-    "publish_date": "2026-08-03",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260803",
-    "publish_date": "2026-08-03",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "长江期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -11738,50 +10682,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "格林大华",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "农产品日报",
-    "title": "橡胶系--月报--格林大华期货20260801",
-    "publish_date": "2026-08-03",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "光大期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "光期能化：橡胶月报202608",
-    "publish_date": "2026-08-03",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "光大期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -11932,72 +10832,6 @@
       }
     ],
     "matched_keywords": "豆粕",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "国信期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工周报",
-    "title": "国信期货橡胶周报20260802",
-    "publish_date": "2026-08-03",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "长江期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "BR橡胶8月报：成本逻辑仍是主线  供应回升限制反弹高度",
-    "publish_date": "2026-08-05",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "期权",
-    "title": "五矿期货橡胶及纸类期权策略日报20260805",
-    "publish_date": "2026-08-05",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -12293,50 +11127,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-04瑞达期货合成橡胶产业日报20260804",
-    "publish_date": "2026-08-04",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-04瑞达期货天然橡胶产业日报20260804",
-    "publish_date": "2026-08-04",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "光大期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -12390,28 +11180,6 @@
       }
     ],
     "matched_keywords": "生猪",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "期权",
-    "title": "五矿期货橡胶及纸类期权策略日报20260804",
-    "publish_date": "2026-08-04",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -12514,28 +11282,6 @@
     "rating_level": "AA",
     "sector": "agri",
     "sector_name": "农产",
-    "report_type": "期权",
-    "title": "五矿期货橡胶及纸类期权策略日报20260806",
-    "publish_date": "2026-08-06",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
     "report_type": "农产品",
     "title": "五矿期货农产品早报20260806",
     "publish_date": "2026-08-06",
@@ -12546,50 +11292,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260805",
-    "publish_date": "2026-08-05",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260805",
-    "publish_date": "2026-08-05",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -12855,50 +11557,6 @@
     "rating_level": "AA",
     "sector": "agri",
     "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-05瑞达期货合成橡胶产业日报20260805",
-    "publish_date": "2026-08-05",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-05瑞达期货天然橡胶产业日报20260805",
-    "publish_date": "2026-08-05",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
     "report_type": "农产品",
     "title": "2026-08-05瑞达期货白糖产业日报20260805",
     "publish_date": "2026-08-05",
@@ -13039,50 +11697,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260804",
-    "publish_date": "2026-08-04",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260804",
-    "publish_date": "2026-08-04",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "格林大华",
     "rating_level": "AA",
     "sector": "agri",
@@ -13127,50 +11741,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260807",
-    "publish_date": "2026-08-07",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260807",
-    "publish_date": "2026-08-07",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -13404,28 +11974,6 @@
     "rating_level": "AA",
     "sector": "agri",
     "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-06瑞达期货合成橡胶产业日报20260806",
-    "publish_date": "2026-08-06",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
     "report_type": "农产品",
     "title": "2026-08-06瑞达期货鸡蛋产业日报20260806",
     "publish_date": "2026-08-06",
@@ -13441,28 +11989,6 @@
       }
     ],
     "matched_keywords": "鸡蛋",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-06瑞达期货天然橡胶产业日报20260806",
-    "publish_date": "2026-08-06",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -13615,50 +12141,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260806",
-    "publish_date": "2026-08-06",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260806",
-    "publish_date": "2026-08-06",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "光大期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -13712,28 +12194,6 @@
       }
     ],
     "matched_keywords": "生猪",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "【橡胶月报20260807】：择机做多季节",
-    "publish_date": "2026-08-07",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -14068,28 +12528,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "国信期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工周报",
-    "title": "国信期货橡胶周报20260809",
-    "publish_date": "2026-08-09",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "中泰期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -14109,50 +12547,6 @@
       }
     ],
     "matched_keywords": "玉米",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "中泰期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源与化工",
-    "title": "中泰期货橡胶周报20260809-短期震荡偏强，关注逢低买入机会。",
-    "publish_date": "2026-08-09",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "中泰期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源与化工",
-    "title": "中泰期货合成橡胶周报20260809-供应偏紧支撑价格，未来有增加预期，谨慎追涨。",
-    "publish_date": "2026-08-09",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -14557,50 +12951,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260811",
-    "publish_date": "2026-08-11",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260811",
-    "publish_date": "2026-08-11",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "格林大华",
     "rating_level": "AA",
     "sector": "agri",
@@ -14675,94 +13025,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260810",
-    "publish_date": "2026-08-10",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260810",
-    "publish_date": "2026-08-10",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260807",
-    "publish_date": "2026-08-10",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260810",
-    "publish_date": "2026-08-10",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -14922,28 +13184,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "国联期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "周度评论",
-    "title": "橡胶周报20260808.pdf",
-    "publish_date": "2026-08-08",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "格林大华",
     "rating_level": "AA",
     "sector": "agri",
@@ -15057,50 +13297,6 @@
       }
     ],
     "matched_keywords": "玉米、鸡蛋、生猪",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-11瑞达期货合成橡胶产业日报20260811",
-    "publish_date": "2026-08-11",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-11瑞达期货天然橡胶产业日报20260811",
-    "publish_date": "2026-08-11",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -15353,28 +13549,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "紫金天风",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "农产品",
-    "title": "【天然橡胶】观望为上",
-    "publish_date": "2026-08-11",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "瑞达期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -15394,72 +13568,6 @@
       }
     ],
     "matched_keywords": "白糖",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-11瑞达期货合成橡胶产业日报20260810",
-    "publish_date": "2026-08-11",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-11瑞达期货天然橡胶产业日报20260810",
-    "publish_date": "2026-08-11",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260811",
-    "publish_date": "2026-08-11",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -15637,50 +13745,6 @@
       }
     ],
     "matched_keywords": "生猪",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-12瑞达期货合成橡胶产业日报20260812",
-    "publish_date": "2026-08-12",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-12瑞达期货天然橡胶产业日报20260812",
-    "publish_date": "2026-08-12",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -15867,72 +13931,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260812",
-    "publish_date": "2026-08-12",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260812",
-    "publish_date": "2026-08-12",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260812",
-    "publish_date": "2026-08-12",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "申银万国",
     "rating_level": "AA",
     "sector": "agri",
@@ -15982,50 +13980,6 @@
       }
     ],
     "matched_keywords": "白糖、红枣、橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260814",
-    "publish_date": "2026-08-14",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260814",
-    "publish_date": "2026-08-14",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -16121,50 +14075,6 @@
       }
     ],
     "matched_keywords": "生猪",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-13瑞达期货合成橡胶产业日报20260813",
-    "publish_date": "2026-08-13",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-13瑞达期货天然橡胶产业日报20260813",
-    "publish_date": "2026-08-13",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -16378,50 +14288,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260813",
-    "publish_date": "2026-08-13",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260813",
-    "publish_date": "2026-08-13",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "光大期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -16578,28 +14444,6 @@
     "sector": "agri",
     "sector_name": "农产",
     "report_type": "全部",
-    "title": "【橡胶周报20260815】：择低做多注意节奏",
-    "publish_date": "2026-08-15",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
     "title": "【玉米周报20260815】：玉米偏弱震荡，新粮压力渐近",
     "publish_date": "2026-08-15",
     "author": "",
@@ -16721,28 +14565,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "国信期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工周报",
-    "title": "国信期货橡胶周报20260816",
-    "publish_date": "2026-08-17",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "格林大华",
     "rating_level": "AA",
     "sector": "agri",
@@ -16856,50 +14678,6 @@
       }
     ],
     "matched_keywords": "玉米、鸡蛋、生猪",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "中泰期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源与化工",
-    "title": "中泰期货橡胶周报20260816-盘面承压维持区间震荡，关注逢低买入机会。",
-    "publish_date": "2026-08-16",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "中泰期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源与化工",
-    "title": "中泰期货合成橡胶周报20260816-短期原料供应偏紧或仍有反弹空间，未来产能投放谨慎追涨。",
-    "publish_date": "2026-08-16",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -17534,50 +15312,6 @@
     "rating_level": "AA",
     "sector": "agri",
     "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-17瑞达期货合成橡胶产业日报20260817",
-    "publish_date": "2026-08-17",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-17瑞达期货天然橡胶产业日报20260817",
-    "publish_date": "2026-08-17",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
     "report_type": "农产品",
     "title": "2026-08-17瑞达期货苹果产业日报20260817",
     "publish_date": "2026-08-17",
@@ -17727,50 +15461,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】合成橡胶日报-20260817",
-    "publish_date": "2026-08-17",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "银河期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "能源化工",
-    "title": "【银河期货】天然橡胶日报-20260817",
-    "publish_date": "2026-08-17",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "广发期货",
     "rating_level": "AA",
     "sector": "agri",
@@ -17861,28 +15551,6 @@
     "collection_status": "discovered"
   },
   {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "五矿期货橡胶及纸类期权策略日报20260819",
-    "publish_date": "2026-08-19",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
     "company": "申银万国",
     "rating_level": "AA",
     "sector": "agri",
@@ -17945,28 +15613,6 @@
     "pdf_url": "",
     "main_varieties": [],
     "matched_keywords": "",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "五矿期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "全部",
-    "title": "【橡胶专题20260819】：厄尔尼诺预期和现实",
-    "publish_date": "2026-08-19",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
@@ -18123,50 +15769,6 @@
       }
     ],
     "matched_keywords": "玉米",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-18瑞达期货天然橡胶产业日报20260818",
-    "publish_date": "2026-08-18",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
-    "collection_status": "discovered"
-  },
-  {
-    "company": "瑞达期货",
-    "rating_level": "AA",
-    "sector": "agri",
-    "sector_name": "农产",
-    "report_type": "化工品",
-    "title": "2026-08-18瑞达期货合成橡胶产业日报20260818",
-    "publish_date": "2026-08-18",
-    "author": "",
-    "source_type": "jykc",
-    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
-    "detail_url": "",
-    "pdf_url": "",
-    "main_varieties": [
-      {
-        "name": "橡胶",
-        "code": "RU"
-      }
-    ],
-    "matched_keywords": "橡胶",
     "collection_status": "discovered"
   },
   {
