@@ -1,5 +1,15 @@
 [
   {
+    "company_name": "格林大华",
+    "sample_count": 1,
+    "hit_count": 1,
+    "accuracy": 100.0,
+    "avg_return_pct": 2.9543,
+    "score": 91.82,
+    "status": "观察样本",
+    "rank": 1
+  },
+  {
     "company_name": "国泰君安期货",
     "sample_count": 44,
     "hit_count": 25,
@@ -7,17 +17,17 @@
     "avg_return_pct": 0.6794,
     "score": 56.81,
     "status": "正式排名",
-    "rank": 1
+    "rank": 2
   },
   {
     "company_name": "南华期货",
-    "sample_count": 89,
-    "hit_count": 45,
-    "accuracy": 50.56,
-    "avg_return_pct": 0.3123,
-    "score": 51.59,
+    "sample_count": 88,
+    "hit_count": 44,
+    "accuracy": 50.0,
+    "avg_return_pct": 0.1591,
+    "score": 50.64,
     "status": "正式排名",
-    "rank": 2
+    "rank": 3
   },
   {
     "company_name": "华泰期货",
@@ -27,6 +37,6 @@
     "avg_return_pct": -0.4071,
     "score": 38.37,
     "status": "观察样本",
-    "rank": 3
+    "rank": 4
   }
 ]
