@@ -1,10 +1,9 @@
 [
   {
     "company": "东海期货",
-    "total_reports": 21,
+    "total_reports": 2,
     "sectors": [
       "ferrous",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -27,12 +26,11 @@
   },
   {
     "company": "中泰期货",
-    "total_reports": 100,
+    "total_reports": 95,
     "sectors": [
       "agri",
       "energy",
       "ferrous",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -51,12 +49,11 @@
   },
   {
     "company": "五矿期货",
-    "total_reports": 244,
+    "total_reports": 225,
     "sectors": [
       "agri",
       "energy",
       "ferrous",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -65,12 +62,11 @@
   },
   {
     "company": "光大期货",
-    "total_reports": 308,
+    "total_reports": 282,
     "sectors": [
       "agri",
       "energy",
       "ferrous",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -79,11 +75,10 @@
   },
   {
     "company": "华泰期货",
-    "total_reports": 19,
+    "total_reports": 18,
     "sectors": [
       "agri",
       "energy",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -107,12 +102,11 @@
   },
   {
     "company": "国信期货",
-    "total_reports": 102,
+    "total_reports": 93,
     "sectors": [
       "agri",
       "energy",
       "ferrous",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -134,11 +128,9 @@
   },
   {
     "company": "国联期货",
-    "total_reports": 24,
+    "total_reports": 18,
     "sectors": [
-      "agri",
       "energy",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -147,10 +139,9 @@
   },
   {
     "company": "广发期货",
-    "total_reports": 17,
+    "total_reports": 9,
     "sectors": [
       "agri",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -158,22 +149,11 @@
     ]
   },
   {
-    "company": "方正中期",
-    "total_reports": 18,
-    "sectors": [
-      "financial"
-    ],
-    "sources": [
-      "jykc"
-    ]
-  },
-  {
     "company": "格林大华",
-    "total_reports": 195,
+    "total_reports": 126,
     "sectors": [
       "agri",
       "energy",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -182,12 +162,11 @@
   },
   {
     "company": "瑞达期货",
-    "total_reports": 534,
+    "total_reports": 510,
     "sectors": [
       "agri",
       "energy",
       "ferrous",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -196,11 +175,10 @@
   },
   {
     "company": "申银万国",
-    "total_reports": 105,
+    "total_reports": 80,
     "sectors": [
       "agri",
       "energy",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -209,7 +187,7 @@
   },
   {
     "company": "紫金天风",
-    "total_reports": 106,
+    "total_reports": 120,
     "sectors": [
       "agri",
       "energy",
@@ -222,12 +200,11 @@
   },
   {
     "company": "银河期货",
-    "total_reports": 571,
+    "total_reports": 548,
     "sectors": [
       "agri",
       "energy",
       "ferrous",
-      "financial",
       "metals"
     ],
     "sources": [
@@ -237,12 +214,11 @@
   },
   {
     "company": "长江期货",
-    "total_reports": 51,
+    "total_reports": 47,
     "sectors": [
       "agri",
       "energy",
       "ferrous",
-      "financial",
       "metals"
     ],
     "sources": [
