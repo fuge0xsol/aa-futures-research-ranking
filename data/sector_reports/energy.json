@@ -22890,5 +22890,747 @@
     ],
     "matched_keywords": "PVC",
     "collection_status": "discovered"
+  },
+  {
+    "company": "华泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "华泰期货能源专题报告20260821：土耳其天然气市场展望",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "华泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "华泰期货能源专题报告20260824：东地中海天然气市场展望",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "长江期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "能源化工周报：局势未定 板块联动2026.8.24",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "长江期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "有色金属",
+    "title": "玻璃周报：交割影响价格 月底观望为宜20260824",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玻璃",
+        "code": "FG"
+      }
+    ],
+    "matched_keywords": "玻璃",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "光期能化：化工周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "光期能化：能源周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "光期资源品：煤化工周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国信期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工周报",
+    "title": "国信期货PTA&MEG周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "PTA",
+        "code": "TA"
+      }
+    ],
+    "matched_keywords": "PTA",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国信期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工周报",
+    "title": "国信期货聚烯烃周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国信期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工周报",
+    "title": "国信期货玻璃、纯碱周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玻璃",
+        "code": "FG"
+      },
+      {
+        "name": "纯碱",
+        "code": "SA"
+      }
+    ],
+    "matched_keywords": "玻璃、纯碱",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国信期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工周报",
+    "title": "国信期货橡胶周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国信期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工周报",
+    "title": "国信期货原油周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "原油",
+        "code": "SC"
+      }
+    ],
+    "matched_keywords": "原油",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国信期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工周报",
+    "title": "国信期货尿素周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "尿素",
+        "code": "UR"
+      }
+    ],
+    "matched_keywords": "尿素",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国信期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工周报",
+    "title": "国信期货沥青周报20260823",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "沥青",
+        "code": "BU"
+      }
+    ],
+    "matched_keywords": "沥青",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "农产品期货",
+    "title": "格林大华期货早班车——白糖红枣橡胶系20260824",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "全部",
+    "title": "五矿期货橡胶及纸类期权策略日报20260824",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "全部",
+    "title": "五矿期货能源化工早报20260824",
+    "publish_date": "2026-08-24",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货原油周报20260823-霍尔木兹海峡封锁难解，持续去库带动油价继续上行",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "原油",
+        "code": "SC"
+      }
+    ],
+    "matched_keywords": "原油",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货纸浆及胶版印刷纸周报20260823-旺季临近叠加国外供应端扰动，浆纸板块情绪回暖",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "纸浆",
+        "code": "SP"
+      }
+    ],
+    "matched_keywords": "纸浆",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货橡胶周报20260823-盘面增仓上行，继续关注逢低买入机会",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货沥青周报20260823地缘博弈持续僵持，沥青需求向传统需求旺季转折。",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "沥青",
+        "code": "BU"
+      }
+    ],
+    "matched_keywords": "沥青",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货燃料油周报20260822",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "燃料油",
+        "code": "FU"
+      }
+    ],
+    "matched_keywords": "燃料油",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货尿素周报20260823现货价格上行之后短期受阻，供需、成本端短期数据均有环比利多情况出现",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "尿素",
+        "code": "UR"
+      }
+    ],
+    "matched_keywords": "尿素",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货合成橡胶周报20260823-短期原料供应偏紧或仍有反弹空间，未来产能投放谨慎追涨。",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货PVC产业链周报20260823",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "PVC",
+        "code": "V"
+      }
+    ],
+    "matched_keywords": "PVC",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货聚乙烯产业链周报20260823-供应紧张导致近月偏强，远月需谨防回调风险",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "聚乙烯",
+        "code": "L"
+      }
+    ],
+    "matched_keywords": "聚乙烯",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货聚丙烯产业链周报20260823-供应紧张导致近月偏强，远月需谨防回调风险",
+    "publish_date": "2026-08-23",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "聚丙烯",
+        "code": "PP"
+      }
+    ],
+    "matched_keywords": "聚丙烯",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "周度评论",
+    "title": "国联期货甲醇周报2026.8.22.pdf",
+    "publish_date": "2026-08-22",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "甲醇",
+        "code": "MA"
+      }
+    ],
+    "matched_keywords": "甲醇",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "周度评论",
+    "title": "橡胶周报20260822.pdf",
+    "publish_date": "2026-08-22",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "周度评论",
+    "title": "国联期货尿素周报2026.8.22.pdf",
+    "publish_date": "2026-08-22",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "尿素",
+        "code": "UR"
+      }
+    ],
+    "matched_keywords": "尿素",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货甲醇周报20260822-美、以、伊继续僵持对峙，暂无明显缓和迹象，且美伊计划升级非军事博弈，甲醇短时继续维持强势",
+    "publish_date": "2026-08-22",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "甲醇",
+        "code": "MA"
+      }
+    ],
+    "matched_keywords": "甲醇",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "中泰期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源与化工",
+    "title": "中泰期货纯碱玻璃周报20260822：产业驱动力度有限，价格维持低位徘徊",
+    "publish_date": "2026-08-22",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玻璃",
+        "code": "FG"
+      },
+      {
+        "name": "纯碱",
+        "code": "SA"
+      }
+    ],
+    "matched_keywords": "玻璃、纯碱",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "全部",
+    "title": "【橡胶周报20260822】：厄尔尼诺带来的资金配置",
+    "publish_date": "2026-08-22",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "全部",
+    "title": "【原油周报20260822】：等待地缘发酵后择机加空",
+    "publish_date": "2026-08-22",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "原油",
+        "code": "SC"
+      }
+    ],
+    "matched_keywords": "原油",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "周度评论",
+    "title": "国联期货玻璃纯碱周报260821.pdf",
+    "publish_date": "2026-08-21",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玻璃",
+        "code": "FG"
+      },
+      {
+        "name": "纯碱",
+        "code": "SA"
+      }
+    ],
+    "matched_keywords": "玻璃、纯碱",
+    "collection_status": "discovered"
   }
 ]
