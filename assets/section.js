@@ -1,23 +1,172 @@
-const esc=v=>String(v??'').replace(/[&<>\"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','\"':'&quot;',"'":'&#39;'}[c]));
-const data=window.SECTION||{};
-const allReports=data.reports||[];
-const backtests=(data.backtests||[]).filter(x=>x.horizon_days===1&&x.status==='valid');
-let selectedCommodity='';
-let selectedReportCommodity='';
-document.getElementById('company-count').textContent=data.companyCount??'—';
-document.getElementById('report-count').textContent=data.reportCount??'—';
-document.getElementById('latest-date').textContent=data.latestDate||'—';
-document.getElementById('backtest-state').textContent=data.rankings?.length?'原型榜单':'待接入';
-function renderRankings(){const rows=data.rankings||[];document.querySelector('#ranking-table tbody').innerHTML=rows.length?rows.map((r,i)=>`<tr><td class="rank">${r.rank||i+1}</td><td><b>${esc(r.company_name||r.company)}</b></td><td class="score">${r.score==null?'—':r.score}</td><td>${r.accuracy==null?'—':r.accuracy+'%'}</td><td class="${Number(r.avg_return_pct)>=0?'positive':'negative'}">${r.avg_return_pct==null?'—':(Number(r.avg_return_pct)>0?'+':'')+r.avg_return_pct+'%'}</td><td>${r.sample_count??'—'}</td><td><span class="tag">${(r.sample_count||0)<10?'观察样本':'正式排名'}</span></td></tr>`).join(''):'<tr><td colspan="7" class="muted">对应板块暂无回测排名数据，等待研报与行情数据接入。</td></tr>'}
-function renderReports(rows){const sorted=rows.slice().sort((a,b)=>String(b.publish_date||'').localeCompare(String(a.publish_date||'')));document.querySelector('#report-table tbody').innerHTML=sorted.slice(0,300).map(r=>`<tr><td>${esc(r.publish_date)}</td><td>${esc(r.company)}</td><td>${esc(r.report_type)}</td><td>${r.detail_url?`<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`:esc(r.title)}</td><td>${esc(r.source_type)}</td></tr>`).join('')||'<tr><td colspan="5" class="muted">暂无研报数据</td></tr>'}
-function reportCommodityName(r){return r.commodity_name||r.commodity||''}
-function reportCommodityNames(){return [...new Set(allReports.flatMap(r=>String(r.matched_keywords||'').split(/[、,， ]/).map(x=>x.trim()).filter(Boolean).concat(reportCommodityName(r)).filter(Boolean)))].sort((a,b)=>a.localeCompare(b,'zh-CN'))}
-function renderReportTabs(){const tabs=document.getElementById('report-commodity-tabs');if(!tabs)return;const names=reportCommodityNames();const active=selectedReportCommodity&&names.includes(selectedReportCommodity)?selectedReportCommodity:'';tabs.innerHTML=`<button class="commodity-tab ${!active?'active':''}" data-report-commodity="">全部品种</button>`+names.map(n=>`<button class="commodity-tab ${n===active?'active':''}" data-report-commodity="${esc(n)}">${esc(n)}</button>`).join('');tabs.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{selectedReportCommodity=b.dataset.reportCommodity||'';renderReportTabs();renderReports(selectedReportCommodity?allReports.filter(r=>String(r.matched_keywords||'').split(/[、,， ]/).map(x=>x.trim()).includes(selectedReportCommodity)||reportCommodityName(r)===selectedReportCommodity):allReports)}))}
-function productName(x){return x.commodity_name||x.commodity||'未知品种'}
-function productRecords(name){return backtests.filter(x=>productName(x)===name)}
-function productReports(name){return allReports.filter(r=>(r.commodity_name||r.commodity||r.matched_keywords||'')===name||String(r.matched_keywords||'').split(/[、,， ]/).includes(name))}
-function renderProductTabs(){const groups={};backtests.forEach(x=>{const n=productName(x),c=x.commodity||n;groups[c]=groups[c]||{name:n,code:c,rows:[]};groups[c].rows.push(x)});const cards=Object.values(groups).map(g=>{const hits=g.rows.filter(x=>x.hit===true).length,acc=g.rows.length?(hits/g.rows.length*100):0;const comps={};g.rows.forEach(x=>{const h=(comps[x.company]=comps[x.company]||{h:0,n:0});h.n++;if(x.hit===true)h.h++});let best='',bestA=-1;Object.entries(comps).forEach(([c,v])=>{const a=v.n>=2?v.h/v.n*100:-1;if(a>bestA){bestA=a;best=c}});return{...g,hits,acc,best}}).sort((a,b)=>b.rows.length-a.rows.length);const grid=document.getElementById('commodity-tabs');if(!grid)return;if(!cards.length){grid.innerHTML='<span class="muted">暂无可用品种</span>';return}grid.innerHTML=cards.map(c=>`<a class="commodity-card" href="./${encodeURIComponent(c.code)}.html"><div class="cc-head"><b>${esc(c.name)}</b><span class="cc-code">${esc(c.code)}</span></div><div class="cc-stats"><span>回测<b>${c.rows.length}</b></span><span>命中率<b>${c.acc.toFixed(0)}%</b></span><span>机构<b>${new Set(c.rows.map(x=>x.company)).size}</b></span></div><div class="cc-best">${c.best?`最准：<b>${esc(c.best)}</b>`:'样本积累中'}</div></a>`).join('')}
-function renderProductView(){const name=selectedCommodity, rows=productRecords(name), reports=productReports(name), byCompany=[...new Set(rows.map(x=>x.company))].map(company=>{const r=rows.filter(x=>x.company===company),hits=r.filter(x=>x.hit===true).length,avg=r.length?r.reduce((s,x)=>s+Number(x.strategy_return_pct||0),0)/r.length:0;return {company,sample:r.length,hits,accuracy:r.length?hits/r.length*100:0,avg}}).sort((a,b)=>b.accuracy-a.accuracy||b.sample-a.sample);const totalHits=rows.filter(x=>x.hit===true).length;document.getElementById('commodity-summary').innerHTML=`<span>品种<b>${esc(name)}</b></span><span>有效回测<b>${rows.length}</b></span><span>总体命中率<b>${rows.length?(totalHits/rows.length*100).toFixed(2):'—'}${rows.length?'%':''}</b></span><span>研报观点<b>${reports.length}</b></span>`;document.querySelector('#commodity-ranking-table tbody').innerHTML=byCompany.length?byCompany.map((x,i)=>`<tr><td class="rank">${i+1}</td><td><b>${esc(x.company)}</b></td><td>${x.sample}</td><td>${x.hits}</td><td>${x.accuracy.toFixed(2)}%</td><td class="${x.avg>=0?'positive':'negative'}">${x.avg>=0?'+':''}${x.avg.toFixed(4)}%</td><td><span class="tag">${x.sample<10?'观察样本':'正式排名'}</span></td></tr>`).join(''):'<tr><td colspan="7" class="muted">该品种暂无有效方向回测数据。</td></tr>';const resultById=new Map(rows.map(x=>[x.report_id,x]));document.querySelector('#commodity-report-table tbody').innerHTML=reports.slice(0,200).map(r=>{const bt=[...resultById.values()].find(x=>x.report_id.includes(r.title)&&x.company===r.company);const dir=r.direction||bt?.direction||'unknown',dc=r.direction_cn||bt?.direction_cn||'暂无',result=bt?(bt.hit===true?'命中':bt.hit===false?'未命中':'不评估'):'未回测';return `<tr><td>${esc(r.publish_date)}</td><td>${esc(r.company)}</td><td class="opinion-${esc(dir)}">${esc(dc)}</td><td>${r.detail_url?`<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>`:esc(r.title)}</td><td>${esc(r.direction_source||'标题/摘要')}</td><td class="${result==='命中'?'result-hit':result==='未命中'?'result-miss':''}">${result}</td></tr>`}).join('')||'<tr><td colspan="6" class="muted">该品种暂无研报观点。</td></tr>'}
-function emptyChart(id,title){const el=document.getElementById(id);if(el)el.innerHTML=`<div class="chart-empty"><b>${title}</b><span>当前板块有效回测样本不足，暂不绘制统计图</span></div>`}
-function drawCharts(){if(typeof echarts==='undefined'){['return-chart','scatter-chart','heatmap-chart'].forEach(id=>emptyChart(id,'统计图表'));return}const base={animation:false,textStyle:{fontFamily:'Inter,-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif'},color:['#1e5a46','#ef8d52','#66a6c9','#9e8dc3']};const returns={};backtests.slice().sort((a,b)=>a.exit_date.localeCompare(b.exit_date)).forEach(x=>{returns[x.exit_date]=(returns[x.exit_date]||0)+Number(x.strategy_return_pct||0)});let total=0;const dates=Object.keys(returns).sort(),curve=dates.map(d=>{total+=returns[d];return Number(total.toFixed(4))});const rc=echarts.init(document.getElementById('return-chart'));rc.setOption({...base,title:{text:'累计策略收益',textStyle:{fontSize:15,color:'#17221f'}},tooltip:{trigger:'axis',valueFormatter:v=>`${v}%`},grid:{left:45,right:18,top:45,bottom:35},xAxis:{type:'category',data:dates},yAxis:{type:'value',axisLabel:{formatter:'{value}%'}},series:[{type:'line',smooth:true,showSymbol:false,data:curve,areaStyle:{opacity:.12}}]});const companies=[...new Set(backtests.map(x=>x.company))];const sc=echarts.init(document.getElementById('scatter-chart'));sc.setOption({...base,title:{text:'命中率 × 样本数',textStyle:{fontSize:15,color:'#17221f'}},tooltip:{formatter:p=>`${p.data[3]}<br>样本数：${p.data[0]}<br>命中率：${p.data[1]}%`},grid:{left:48,right:18,top:45,bottom:40},xAxis:{name:'样本数',type:'value'},yAxis:{name:'命中率 %',type:'value',max:100},series:[{type:'scatter',symbolSize:v=>Math.max(10,Math.min(28,Math.sqrt(v[0])*4)),data:companies.map(c=>{const rows=backtests.filter(x=>x.company===c),hits=rows.filter(x=>x.hit).length;return [rows.length,Number((hits/rows.length*100).toFixed(2)),rows.reduce((s,x)=>s+Number(x.strategy_return_pct||0),0),c]})}]});const commodities=[...new Set(backtests.map(productName))],hm=companies.flatMap((c,yi)=>commodities.map((v,xi)=>{const r=backtests.filter(x=>x.company===c&&productName(x)===v);return [xi,yi,r.length?Number((r.reduce((s,x)=>s+Number(x.strategy_return_pct||0),0)/r.length).toFixed(2)):'-']}));const hc=echarts.init(document.getElementById('heatmap-chart'));hc.setOption({...base,title:{text:'机构 × 品种平均策略收益',textStyle:{fontSize:15,color:'#17221f'}},tooltip:{formatter:p=>`${companies[p.data[1]]} / ${commodities[p.data[0]]}<br>平均收益：${p.data[2]}%`},grid:{left:90,right:25,top:45,bottom:70},xAxis:{type:'category',data:commodities,axisLabel:{rotate:35}},yAxis:{type:'category',data:companies},visualMap:{min:-1,max:1,calculable:true,orient:'horizontal',left:'center',bottom:5,inRange:{color:['#b85f4b','#f7f9f6','#39815d']}},series:[{type:'heatmap',data:hm,label:{show:true,formatter:p=>p.data[2]==='-'?'—':p.data[2]+'%'}}]});window.addEventListener('resize',()=>[rc,sc,hc].forEach(x=>x.resize()))}
-renderRankings();renderReports(allReports);renderReportTabs();renderProductTabs();drawCharts();document.getElementById('search').addEventListener('input',e=>{const q=e.target.value.toLowerCase().trim();const active=selectedReportCommodity;renderReports(allReports.filter(r=>(!active||String(r.matched_keywords||'').split(/[、,， ]/).map(x=>x.trim()).includes(active)||reportCommodityName(r)===active)&&`${r.title||''} ${r.company||''} ${r.matched_keywords||''}`.toLowerCase().includes(q)))});
+/* section.js — 板块页逻辑。数据改为异步加载 {sector}/data.json（精简字段） */
+const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const el = id => document.getElementById(id);
+
+let data = null;
+let selectedCommodity = '';
+let selectedReportCommodity = '';
+
+/* ---------- 状态 ---------- */
+function setStat(id, val, opts) { UI.countUp(el(id), val, opts); }
+
+/* ---------- 机构回测排名 ---------- */
+function renderRankings() {
+  const rows = data.rankings || [];
+  el('ranking-table').querySelector('tbody').innerHTML = rows.length ? rows.map((r, i) => {
+    const badge = i < 3 ? `<span class="rank-badge rb-${i + 1}">${r.rank || i + 1}</span>` : `<span class="rank-num">${r.rank || i + 1}</span>`;
+    const acc = r.accuracy == null ? null : Number(r.accuracy);
+    const accCell = acc == null ? '—'
+      : `<span class="acc-wrap"><span class="acc-val">${acc}%</span><span class="acc-bar"><i style="width:${Math.min(100, acc)}%"></i></span></span>`;
+    const ret = r.avg_return_pct == null ? '—' : (Number(r.avg_return_pct) > 0 ? '+' : '') + r.avg_return_pct + '%';
+    return `<tr><td class="rank">${badge}</td><td><b>${esc(r.company_name)}</b></td><td class="score">${r.score == null ? '—' : r.score}</td><td>${accCell}</td><td class="${Number(r.avg_return_pct) >= 0 ? 'positive' : 'negative'}">${ret}</td><td>${r.sample_count ?? '—'}</td><td><span class="tag">${(r.sample_count || 0) < 10 ? '观察样本' : '正式排名'}</span></td></tr>`;
+  }).join('') : '<tr><td colspan="7" class="muted">对应板块暂无回测排名数据，等待研报与行情数据接入。</td></tr>';
+}
+
+/* ---------- 研报库 ---------- */
+function reportMatches(report, name) {
+  if (!name) return true;
+  return report.cn === name || (report.kw || []).includes(name);
+}
+function renderReports(rows) {
+  const sorted = rows.slice().sort((a, b) => String(b.publish_date || '').localeCompare(String(a.publish_date || '')));
+  el('report-table').querySelector('tbody').innerHTML = sorted.slice(0, 300).map(r =>
+    `<tr><td>${esc(r.publish_date)}</td><td>${esc(r.company)}</td><td>${esc(r.report_type)}</td><td>${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}</td><td>${esc(r.source_type)}</td></tr>`
+  ).join('') || '<tr><td colspan="5" class="muted">暂无研报数据</td></tr>';
+}
+function renderReportTabs() {
+  const names = [...new Set((data.reports || []).flatMap(r => [r.cn, ...(r.kw || [])]).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
+  const active = selectedReportCommodity && names.includes(selectedReportCommodity) ? selectedReportCommodity : '';
+  const tabs = el('report-commodity-tabs');
+  if (!tabs) return;
+  tabs.innerHTML = `<button class="commodity-tab ${!active ? 'active' : ''}" data-report-commodity="">全部品种</button>` +
+    names.map(n => `<button class="commodity-tab ${n === active ? 'active' : ''}" data-report-commodity="${esc(n)}">${esc(n)}</button>`).join('');
+  tabs.querySelectorAll('button').forEach(b => b.addEventListener('click', () => {
+    selectedReportCommodity = b.dataset.reportCommodity || '';
+    renderReportTabs();
+    renderReports((data.reports || []).filter(r => reportMatches(r, selectedReportCommodity)));
+  }));
+}
+
+/* ---------- 品种卡片 ---------- */
+function productName(x) { return x.cn || '未知品种'; }
+function renderProductTabs() {
+  const groups = {};
+  (data.backtests || []).forEach(x => {
+    const code = x.code || x.cn;
+    groups[code] = groups[code] || { name: productName(x), code, rows: [] };
+    groups[code].rows.push(x);
+  });
+  const cards = Object.values(groups).map(g => {
+    const hits = g.rows.filter(x => x.hit === true).length;
+    const acc = g.rows.length ? (hits / g.rows.length * 100) : 0;
+    const comps = {};
+    g.rows.forEach(x => { const h = (comps[x.co] = comps[x.co] || { h: 0, n: 0 }); h.n++; if (x.hit === true) h.h++; });
+    let best = '', bestA = -1;
+    Object.entries(comps).forEach(([c, v]) => { const a = v.n >= 2 ? v.h / v.n * 100 : -1; if (a > bestA) { bestA = a; best = c; } });
+    return { ...g, hits, acc, best };
+  }).sort((a, b) => b.rows.length - a.rows.length);
+  const grid = el('commodity-tabs');
+  if (!grid) return;
+  if (!cards.length) { grid.innerHTML = '<span class="muted">暂无可用品种</span>'; return; }
+  grid.innerHTML = cards.map(c =>
+    `<a class="commodity-card" href="./${encodeURIComponent(c.code)}.html"><div class="cc-head"><b>${esc(c.name)}</b><span class="cc-code">${esc(c.code)}</span></div><div class="cc-stats"><span>回测<b>${c.rows.length}</b></span><span>命中率<b>${c.acc.toFixed(0)}%</b></span><span>机构<b>${new Set(c.rows.map(x => x.co)).size}</b></span></div><div class="cc-best">${c.best ? `最准：<b>${esc(c.best)}</b>` : '样本积累中'}</div></a>`
+  ).join('');
+}
+
+/* ---------- 品种分析视图 ---------- */
+function productRecords(name) { return (data.backtests || []).filter(x => productName(x) === name); }
+function productReports(name) { return (data.reports || []).filter(r => reportMatches(r, name)); }
+function renderProductView() {
+  const name = selectedCommodity;
+  if (!name) return;
+  const rows = productRecords(name), reports = productReports(name);
+  const byCompany = [...new Set(rows.map(x => x.co))].map(company => {
+    const r = rows.filter(x => x.co === company);
+    const hits = r.filter(x => x.hit === true).length;
+    const avg = r.length ? r.reduce((s, x) => s + Number(x.ret || 0), 0) / r.length : 0;
+    return { company, sample: r.length, hits, accuracy: r.length ? hits / r.length * 100 : 0, avg };
+  }).sort((a, b) => b.accuracy - a.accuracy || b.sample - a.sample);
+  const totalHits = rows.filter(x => x.hit === true).length;
+  el('commodity-summary').innerHTML =
+    `<span>品种<b>${esc(name)}</b></span><span>有效回测<b>${rows.length}</b></span><span>总体命中率<b>${rows.length ? (totalHits / rows.length * 100).toFixed(2) : '—'}${rows.length ? '%' : ''}</b></span><span>研报观点<b>${reports.length}</b></span>`;
+  el('commodity-ranking-table').querySelector('tbody').innerHTML = byCompany.length ? byCompany.map((x, i) => {
+    const badge = i < 3 ? `<span class="rank-badge rb-${i + 1}">${i + 1}</span>` : `<span class="rank-num">${i + 1}</span>`;
+    return `<tr><td class="rank">${badge}</td><td><b>${esc(x.company)}</b></td><td>${x.sample}</td><td>${x.hits}</td><td>${x.accuracy.toFixed(2)}%</td><td class="${x.avg >= 0 ? 'positive' : 'negative'}">${x.avg >= 0 ? '+' : ''}${x.avg.toFixed(4)}%</td><td><span class="tag">${x.sample < 10 ? '观察样本' : '正式排名'}</span></td></tr>`;
+  }).join('') : '<tr><td colspan="7" class="muted">该品种暂无有效方向回测数据。</td></tr>';
+  el('commodity-report-table').querySelector('tbody').innerHTML = reports.slice(0, 200).map(r => {
+    const dir = r.dir || 'unknown', dc = r.dcn || '暂无';
+    const result = r.bh === undefined ? '未回测' : (r.bh === true ? '命中' : r.bh === false ? '未命中' : '不评估');
+    return `<tr><td>${esc(r.publish_date)}</td><td>${esc(r.company)}</td><td class="opinion-${esc(dir)}">${esc(dc)}</td><td>${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}</td><td>${esc(r.dsrc || '标题/摘要')}</td><td class="${result === '命中' ? 'result-hit' : result === '未命中' ? 'result-miss' : 'muted'}">${result}</td></tr>`;
+  }).join('') || '<tr><td colspan="6" class="muted">该品种暂无研报观点。</td></tr>';
+}
+
+/* ---------- 统计图 ---------- */
+function emptyChart(id, title) {
+  const node = el(id);
+  if (node) node.innerHTML = `<div class="chart-empty"><b>${title}</b><span>当前板块有效回测样本不足，暂不绘制统计图</span></div>`;
+}
+function drawCharts() {
+  if (typeof echarts === 'undefined') { ['return-chart', 'scatter-chart', 'heatmap-chart'].forEach(id => emptyChart(id, '统计图表')); return; }
+  const backtests = data.backtests || [];
+  const base = { animation: false, textStyle: { fontFamily: 'Inter,-apple-system,BlinkMacSystemFont,"Segoe UI","Microsoft YaHei",sans-serif' }, color: ['#1e5a46', '#ef8d52', '#66a6c9', '#9e8dc3'] };
+  /* 累计收益曲线 */
+  const returns = {};
+  backtests.slice().sort((a, b) => String(a.exd).localeCompare(String(b.exd))).forEach(x => { returns[x.exd] = (returns[x.exd] || 0) + Number(x.ret || 0); });
+  let total = 0;
+  const dates = Object.keys(returns).sort(), curve = dates.map(d => { total += returns[d]; return Number(total.toFixed(4)); });
+  const rc = UI.reg(echarts.init(el('return-chart')));
+  rc.setOption({ ...base, title: { text: '累计策略收益', textStyle: { fontSize: 15, color: '#17221f' } }, tooltip: { trigger: 'axis', valueFormatter: v => `${v}%` }, grid: { left: 45, right: 18, top: 45, bottom: 35 }, xAxis: { type: 'category', data: dates }, yAxis: { type: 'value', axisLabel: { formatter: '{value}%' } }, series: [{ type: 'line', smooth: true, showSymbol: false, data: curve, areaStyle: { opacity: .12 } }] });
+  /* 命中率 × 样本数 */
+  const companies = [...new Set(backtests.map(x => x.co))];
+  const sc = UI.reg(echarts.init(el('scatter-chart')));
+  sc.setOption({ ...base, title: { text: '命中率 × 样本数', textStyle: { fontSize: 15, color: '#17221f' } }, tooltip: { formatter: p => `${p.data[3]}<br>样本数：${p.data[0]}<br>命中率：${p.data[1]}%` }, grid: { left: 48, right: 18, top: 45, bottom: 40 }, xAxis: { name: '样本数', type: 'value' }, yAxis: { name: '命中率 %', type: 'value', max: 100 }, series: [{ type: 'scatter', symbolSize: v => Math.max(10, Math.min(28, Math.sqrt(v[0]) * 4)), data: companies.map(c => { const rows = backtests.filter(x => x.co === c), hits = rows.filter(x => x.hit).length; return [rows.length, Number((hits / rows.length * 100).toFixed(2)), rows.reduce((s, x) => s + Number(x.ret || 0), 0), c]; }) }] });
+  /* 机构 × 品种热力图 */
+  const commodities = [...new Set(backtests.map(productName))];
+  const hm = UI.reg(echarts.init(el('heatmap-chart')));
+  const hmData = companies.flatMap((c, yi) => commodities.map((v, xi) => {
+    const r = backtests.filter(x => x.co === c && productName(x) === v);
+    return [xi, yi, r.length ? Number((r.reduce((s, x) => s + Number(x.ret || 0), 0) / r.length).toFixed(2)) : null];
+  }));
+  hm.setOption({ ...base, title: { text: '机构 × 品种 平均策略收益', textStyle: { fontSize: 15, color: '#17221f' } }, tooltip: { formatter: p => `${companies[p.data[1]]} × ${commodities[p.data[0]]}<br>平均收益：${p.data[2] == null ? '无样本' : p.data[2] + '%'}` }, grid: { left: 110, right: 18, top: 45, bottom: 60 }, xAxis: { type: 'category', data: commodities, axisLabel: { rotate: 45, fontSize: 10 } }, yAxis: { type: 'category', data: companies, axisLabel: { fontSize: 10 } }, visualMap: { min: -3, max: 3, calculable: true, orient: 'horizontal', left: 'center', bottom: 0, inRange: { color: ['#1a3a5c', '#f5f6f8', '#c00'] } }, series: [{ type: 'heatmap', data: hmData, label: { show: true, fontSize: 9, formatter: p => p.data[2] == null ? '' : p.data[2] } }] });
+}
+
+/* ---------- 搜索（防抖） ---------- */
+function bindSearch() {
+  const input = el('search');
+  input.addEventListener('input', UI.debounce(e => {
+    const q = e.target.value.toLowerCase().trim();
+    const active = selectedReportCommodity;
+    renderReports((data.reports || []).filter(r =>
+      (!active || reportMatches(r, active)) &&
+      `${r.title || ''} ${r.company || ''} ${(r.kw || []).join(' ')}`.toLowerCase().includes(q)
+    ));
+  }, 180));
+}
+
+/* ---------- 初始化 ---------- */
+UI.reveal();
+(async function init() {
+  try {
+    const res = await fetch(window.PAGE.dataUrl);
+    if (!res.ok) throw new Error(res.status);
+    data = await res.json();
+  } catch (err) {
+    ['company-count', 'report-count', 'latest-date'].forEach(id => { const n = el(id); if (n) n.textContent = '加载失败'; });
+    document.querySelectorAll('.table-wrap tbody').forEach(tb => { tb.innerHTML = '<tr><td colspan="8" class="muted">数据加载失败，请刷新重试。</td></tr>'; });
+    console.error('data.json load failed', err);
+    return;
+  }
+  setStat('company-count', data.companyCount);
+  setStat('report-count', data.reportCount);
+  el('latest-date').textContent = data.latestDate || '—';
+  el('backtest-state').textContent = data.rankings && data.rankings.length ? '原型榜单' : '待接入';
+  renderRankings();
+  renderReports(data.reports || []);
+  renderReportTabs();
+  renderProductTabs();
+  bindSearch();
+  /* 默认选中样本量最大的品种 */
+  const firstCard = document.querySelector('#commodity-tabs .commodity-card .cc-code');
+  if (firstCard) { selectedCommodity = firstCard.textContent.trim(); renderProductView(); }
+  drawCharts();
+})();

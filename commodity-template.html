@@ -4,10 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>__COMMODITY_NAME__（__COMMODITY__）｜期货研报回测榜</title>
-<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-7M4E8EMFEN');</script>
+<meta name="description" content="__COMMODITY_NAME__（__COMMODITY__）研报观点 1 日方向回测：__SECTOR_NAME__板块机构排行、逐笔收益与累计曲线。">
+<link rel="canonical" href="https://yanbao.de/__SECTOR__/__COMMODITY__.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="__COMMODITY_NAME__（__COMMODITY__）研报回测｜期货研报回测榜">
+<meta property="og:description" content="__COMMODITY_NAME__ 品种机构排行、逐笔收益与累计策略曲线。">
+<link rel="icon" type="image/svg+xml" href="../assets/logo.svg">
 <link rel="stylesheet" href="../assets/site.css">
 <link rel="stylesheet" href="../assets/section.css">
-<link rel="icon" href="data:,">
 <style>
 .com-hero{padding:36px 0 28px;border-bottom:2px solid var(--ink)}
 .com-hero .crumb{color:var(--muted);font-size:12px;font-weight:600;text-decoration:none}
@@ -29,13 +33,13 @@
   <h1>__COMMODITY_NAME__<span>__COMMODITY__</span></h1>
   <p>该品种全部研报观点的 1 日方向回测：按机构排行、逐笔收益与累计曲线。整体板块排行仅用于评估机构在板块层面的准确率。</p>
 </section>
-<section class="container stat-grid">
+<section class="container stat-grid" data-reveal>
   <div><span>有效回测</span><strong id="stat-samples">—</strong></div>
   <div><span>总体命中率</span><strong id="stat-accuracy">—</strong></div>
   <div><span>覆盖机构</span><strong id="stat-companies">—</strong></div>
   <div><span>研报观点</span><strong id="stat-reports">—</strong></div>
 </section>
-<section class="container panel">
+<section class="container panel" data-reveal>
   <div class="panel-title"><div><span class="kicker">RANKING</span><h2>该品种机构排行</h2></div><span class="muted">样本 &lt;5 仅观察，不参与强度结论</span></div>
   <div class="table-wrap"><table id="company-table">
     <thead><tr><th>排名</th><th>期货公司</th><th>有效样本</th><th>命中数</th><th>准确率</th><th>平均策略收益</th><th>多/空观点数</th><th>状态</th></tr></thead>
@@ -43,12 +47,12 @@
   </table></div>
   <div class="commodity-summary" style="margin-top:14px"><span>最准机构<b id="stat-best">—</b></span></div>
 </section>
-<section class="container panel analytics">
+<section class="container panel analytics" data-reveal>
   <div class="panel-title"><div><span class="kicker">BACKTEST</span><h2>回测图</h2></div><span class="muted">1D 方向回测；样本不足仅供观察</span></div>
   <div class="chart-grid"><div id="equity-chart" class="chart"></div><div id="scatter-chart" class="chart"></div></div>
   <div id="trade-chart" class="chart chart-wide" style="margin-top:1px"></div>
 </section>
-<section class="container panel">
+<section class="container panel" data-reveal>
   <div class="panel-title"><div><span class="kicker">REPORTS</span><h2>该品种研报观点</h2></div><span class="muted">__COMMODITY_NAME__ 相关研报与回测结果</span></div>
   <div class="table-wrap"><table id="report-table">
     <thead><tr><th>日期</th><th>机构</th><th>观点</th><th>标题</th><th>结果</th></tr></thead>
@@ -57,8 +61,9 @@
 </section>
 </main>
 <footer class="footer container"><span>AA Research Ranking</span><span>数据仅用于研究，不构成投资建议</span></footer>
-<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script>
-<script>window.COMMODITY=__COMMODITY_DATA__;</script>
+<script src="../assets/ui.js"></script>
+<script src="../assets/echarts.min.js"></script>
+<script>window.PAGE={dataUrl:'./__COMMODITY__.json'};</script>
 <script src="../assets/commodity.js"></script>
 </body>
 </html>
