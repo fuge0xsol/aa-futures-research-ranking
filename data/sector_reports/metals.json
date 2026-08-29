@@ -26217,5 +26217,589 @@
     ],
     "matched_keywords": "碳酸锂",
     "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【工业硅、多晶硅】上下犹豫",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "工业硅",
+        "code": "SI"
+      }
+    ],
+    "matched_keywords": "工业硅",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【黄金】为什么“4700”站得住脚？",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "黄金",
+        "code": "AU"
+      }
+    ],
+    "matched_keywords": "黄金",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【镍&不锈钢】阶段性休整",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "镍",
+        "code": "NI"
+      }
+    ],
+    "matched_keywords": "镍",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【铂钯】应势而动",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【铝周报】这就结束了？",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铝",
+        "code": "AL"
+      }
+    ],
+    "matched_keywords": "铝",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "全部",
+    "title": "五矿期货有色期权策略日报20260828",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "长江期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "螺纹九月报：震荡偏强运行 关注钢材需求",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "长江期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "铁矿九月报：自身驱动不足 维持震荡思路",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "长江期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "焦炭九月报：供需格局好转 价格震荡偏强",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "长江期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "焦煤九月报：供需依旧偏紧 价格震荡偏强",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "深度投资策略报告",
+    "title": "《专题报告-232精炼铜关税决策关口临近，后市如何演化？》",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铜",
+        "code": "CU"
+      }
+    ],
+    "matched_keywords": "铜",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "光大期货工业硅&amp;多晶硅日报（2026年8月28日）",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "工业硅",
+        "code": "SI"
+      }
+    ],
+    "matched_keywords": "工业硅",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "光大期货碳酸锂日报（2026年8月28日）",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "碳酸锂",
+        "code": "LC"
+      }
+    ],
+    "matched_keywords": "碳酸锂",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "光大期货有色商品日报（2026年8月28日）",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "黑色金属",
+    "title": "光大期货黑色商品日报（2026年8月28日)",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "黑色金属",
+    "title": "光期黑色：铁矿石基差及价差监测日报 20260828",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "全部",
+    "title": "五矿期货贵金属早报20260828",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "全部",
+    "title": "五矿期货有色金属早报20260828",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "全部",
+    "title": "【氧化铝专题20260828】：产量攀升，期现价格同步走弱",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铝",
+        "code": "AL"
+      },
+      {
+        "name": "氧化铝",
+        "code": "AO"
+      }
+    ],
+    "matched_keywords": "铝、氧化铝",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色贵金属期货",
+    "title": "格林大华期市早班车-贵金属（20260828）",
+    "publish_date": "2026-08-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "黑色金属",
+    "title": "【银河期货】钢材日报-20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "黑色金属",
+    "title": "【银河期货】铁矿石日报-20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "黑色金属",
+    "title": "【银河期货】双焦日报-20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "金属",
+    "title": "2026-08-27瑞达期货沪铜产业日报20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铜",
+        "code": "CU"
+      }
+    ],
+    "matched_keywords": "铜",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "金属",
+    "title": "2026-08-27瑞达期货铝类产业日报20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铝",
+        "code": "AL"
+      }
+    ],
+    "matched_keywords": "铝",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "金属",
+    "title": "2026-08-27瑞达期货不锈钢产业日报20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "金属",
+    "title": "2026-08-27瑞达期货沪镍产业日报20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "镍",
+        "code": "NI"
+      }
+    ],
+    "matched_keywords": "镍",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "金属",
+    "title": "2026-08-27瑞达期货沪锡产业日报20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "锡",
+        "code": "SN"
+      }
+    ],
+    "matched_keywords": "锡",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "金属",
+    "title": "2026-08-27瑞达期货沪锌产业日报20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "锌",
+        "code": "ZN"
+      }
+    ],
+    "matched_keywords": "锌",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "金属",
+    "title": "2026-08-27瑞达期货碳酸锂产业日报20260827",
+    "publish_date": "2026-08-27",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "碳酸锂",
+        "code": "LC"
+      }
+    ],
+    "matched_keywords": "碳酸锂",
+    "collection_status": "discovered"
   }
 ]
