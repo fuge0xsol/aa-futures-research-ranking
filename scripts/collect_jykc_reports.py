@@ -60,32 +60,48 @@ def extract_varieties(title, sector):
     return varieties
 
 def collect_jykc():
-    """从交易可查拉取研报列表"""
+    """从交易可查拉取研报列表。
+    实测结论：page 翻页参数无效（同批数据乱序重复），limit 参数有效——
+    limit=20000 可一次拉取约 7 个月全量窗口。合并层按 company+title+sector 去重，安全。"""
     print("[JYKC] 开始采集交易可查研报...")
     
     all_reports = []
-    # 交易可查每次最多200条，覆盖最近3天
+    today = date.today()
+    MAX_LIMIT = 20000  # 实测 17393 条去重 / 213 天 / 17 家
+    
     try:
-        resp = requests.post(JYKC_URL, headers=HEADERS, data="page=1&limit=200", timeout=15)
+        resp = requests.post(JYKC_URL, headers=HEADERS, data=f"page=1&limit={MAX_LIMIT}", timeout=90)
         data = resp.json()
         raw_reports = data.get('data', [])
-        print(f"[JYKC] 拉取到 {len(raw_reports)} 条原始研报")
+        print(f"[JYKC] 拉取到 {len(raw_reports)} 条原始记录")
     except Exception as e:
         print(f"[JYKC] 拉取失败: {e}")
         return []
     
+    seen_api_keys = set()
     for r in raw_reports:
         title = r.get('title', '').strip()
         broker = r.get('broker_name', '').strip()
         report_type = r.get('type', '').strip()
         report_date = r.get('report_date', '').strip()
-        
         if not title or not broker:
             continue
+        # API 内去重（响应含乱序重复）
+        api_key = (broker, title, report_date)
+        if api_key in seen_api_keys:
+            continue
+        seen_api_keys.add(api_key)
         
-        # 日期补全年份
-        year = str(date.today().year)
-        full_date = f"{year}-{report_date}" if report_date else ""
+        # 日期补全年份：report_date 形如 MM-DD；月份大于当前月视为去年
+        full_date = ""
+        if report_date:
+            try:
+                y = today.year
+                if len(report_date) >= 5 and int(report_date.split('-')[0]) > today.month:
+                    y -= 1
+                full_date = f"{y}-{report_date}"
+            except (ValueError, IndexError):
+                full_date = f"{today.year}-{report_date}"
         
         sectors = classify_sectors(title, report_type)
         
@@ -113,7 +129,7 @@ def collect_jykc():
                 'collection_status': 'discovered',
             })
     
-    print(f"[JYKC] 标准化后 {len(all_reports)} 条（含多板块拆分）")
+    print(f"[JYKC] 去重后 {len(seen_api_keys)} 条，标准化后 {len(all_reports)} 条（含多板块拆分）")
     
     # 统计
     companies = defaultdict(int)

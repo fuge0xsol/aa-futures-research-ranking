@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>乙二醇（EG）｜期货研报回测榜</title>
+<meta name="description" content="乙二醇（EG）研报观点 1 日方向回测：能化板块机构排行、逐笔收益与累计曲线。">
+<link rel="canonical" href="https://yanbao.de/energy/EG.html">
+<meta property="og:type" content="website">
+<meta property="og:title" content="乙二醇（EG）研报回测｜期货研报回测榜">
+<meta property="og:description" content="乙二醇 品种机构排行、逐笔收益与累计策略曲线。">
+<link rel="icon" type="image/svg+xml" href="../assets/logo.svg">
+<link rel="stylesheet" href="../assets/site.css">
+<link rel="stylesheet" href="../assets/section.css">
+<style>
+.com-hero{padding:36px 0 28px;border-bottom:2px solid var(--ink)}
+.com-hero .crumb{color:var(--muted);font-size:12px;font-weight:600;text-decoration:none}
+.com-hero .crumb:hover{color:var(--red)}
+.com-hero h1{font-size:clamp(34px,5vw,54px);letter-spacing:-.05em;margin:12px 0 8px;font-weight:800}
+.com-hero h1 span{font-size:.42em;letter-spacing:-.02em;color:var(--muted);margin-left:12px;font-weight:600;font-family:monospace}
+.com-hero p{color:var(--muted);font-size:14px;line-height:1.7;margin:0}
+.chart-grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--line);border:1px solid var(--line)}
+.chart{height:340px;background:var(--panel)}
+@media(max-width:900px){.chart-grid{grid-template-columns:1fr}}
+.chart-wide{height:380px}
+</style>
+</head>
+<body>
+<header class="topbar"><a class="brand" href="../"><span class="brand-mark">AA</span><span>期货研报回测榜</span></a><nav><a href="../">首页</a><a href="../energy/">能化</a></nav></header>
+<main>
+<section class="com-hero container">
+  <a class="crumb" href="../energy/">← 返回能化板块</a>
+  <h1>乙二醇<span>EG</span></h1>
+  <p>该品种全部研报观点的 1 日方向回测：按机构排行、逐笔收益与累计曲线。整体板块排行仅用于评估机构在板块层面的准确率。</p>
+</section>
+<section class="container stat-grid" data-reveal>
+  <div><span>有效回测</span><strong id="stat-samples">—</strong></div>
+  <div><span>总体命中率</span><strong id="stat-accuracy">—</strong></div>
+  <div><span>覆盖机构</span><strong id="stat-companies">—</strong></div>
+  <div><span>研报观点</span><strong id="stat-reports">—</strong></div>
+</section>
+<section class="container panel" data-reveal>
+  <div class="panel-title"><div><span class="kicker">RANKING</span><h2>该品种机构排行</h2></div><span class="muted">样本 &lt;5 仅观察，不参与强度结论</span></div>
+  <div class="table-wrap"><table id="company-table">
+    <thead><tr><th>排名</th><th>期货公司</th><th>有效样本</th><th>命中数</th><th>准确率</th><th>平均策略收益</th><th>多/空观点数</th><th>状态</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+  <div class="commodity-summary" style="margin-top:14px"><span>最准机构<b id="stat-best">—</b></span></div>
+</section>
+<section class="container panel analytics" data-reveal>
+  <div class="panel-title"><div><span class="kicker">BACKTEST</span><h2>回测图</h2></div><span class="muted">1D 方向回测；样本不足仅供观察</span></div>
+  <div class="chart-grid"><div id="equity-chart" class="chart"></div><div id="scatter-chart" class="chart"></div></div>
+  <div id="trade-chart" class="chart chart-wide" style="margin-top:1px"></div>
+</section>
+<section class="container panel" data-reveal>
+  <div class="panel-title"><div><span class="kicker">REPORTS</span><h2>该品种研报观点</h2></div><span class="muted">乙二醇 相关研报与回测结果</span></div>
+  <div class="table-wrap"><table id="report-table">
+    <thead><tr><th>日期</th><th>机构</th><th>观点</th><th>标题</th><th>结果</th></tr></thead>
+    <tbody></tbody>
+  </table></div>
+</section>
+</main>
+<footer class="footer container"><span>AA Research Ranking</span><span>数据仅用于研究，不构成投资建议</span></footer>
+<script src="../assets/ui.js"></script>
+<script src="../assets/echarts.min.js"></script>
+<script>window.PAGE={dataUrl:'./EG.json'};</script>
+<script src="../assets/commodity.js"></script>
+</body>
+</html>
