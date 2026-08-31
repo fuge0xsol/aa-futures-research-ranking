@@ -71,7 +71,10 @@ def main():
    all_norm.append(nr)
    if d in ('bullish','bearish') and r.get('publish_date'):
     try:
-     bars=bar_cache.setdefault(v['code'],norm_bars(load_bars(v['code'])))
+     bars=bar_cache.get(v['code'])
+     if bars is None:
+      bars=norm_bars(load_bars(v['code']))
+      bar_cache[v['code']]=bars
     except Exception as e: print('market error',v['code'],e); continue
     for h in (1,5,20):
      bt=backtest_one(nr,bars,h)
