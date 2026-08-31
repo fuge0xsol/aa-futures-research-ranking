@@ -31,11 +31,11 @@
   },
   {
     "company_name": "银河期货",
-    "sample_count": 106,
+    "sample_count": 107,
     "hit_count": 62,
-    "accuracy": 58.49,
-    "avg_return_pct": 1.2173,
-    "score": 59.96,
+    "accuracy": 57.94,
+    "avg_return_pct": 1.1607,
+    "score": 59.41,
     "status": "正式排名",
     "rank": 4
   },
@@ -51,11 +51,11 @@
   },
   {
     "company_name": "中泰期货",
-    "sample_count": 167,
-    "hit_count": 89,
-    "accuracy": 53.29,
-    "avg_return_pct": 0.1099,
-    "score": 52.42,
+    "sample_count": 168,
+    "hit_count": 90,
+    "accuracy": 53.57,
+    "avg_return_pct": 0.112,
+    "score": 52.59,
     "status": "正式排名",
     "rank": 6
   },
