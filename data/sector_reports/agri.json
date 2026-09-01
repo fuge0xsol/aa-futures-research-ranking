@@ -71563,5 +71563,530 @@
     "main_varieties": [],
     "matched_keywords": "",
     "collection_status": "discovered"
+  },
+  {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "今日关注",
+    "title": "申万期货生猪策略日报-20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "生猪",
+        "code": "LH"
+      }
+    ],
+    "matched_keywords": "生猪",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "光大期货软商品日报（2026年9月1日）",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "光大期货农产品日报（2026年9月1日）",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品日报",
+    "title": "格林大华期市早班车---三油两粕（20260901）",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品日报",
+    "title": "格林大华期市早班车---白糖红枣橡胶（20260901）",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "白糖",
+        "code": "SR"
+      },
+      {
+        "name": "红枣",
+        "code": "CJ"
+      }
+    ],
+    "matched_keywords": "白糖、红枣",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品日报",
+    "title": "格林大华期货早班车——棉花苹果原木20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "棉花",
+        "code": "CF"
+      },
+      {
+        "name": "苹果",
+        "code": "AP"
+      }
+    ],
+    "matched_keywords": "棉花、苹果",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "全部",
+    "title": "五矿期货农产品早报20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品期货",
+    "title": "格林大华期市早班车-玉米生猪鸡蛋（20260901）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玉米",
+        "code": "C"
+      },
+      {
+        "name": "鸡蛋",
+        "code": "JD"
+      },
+      {
+        "name": "生猪",
+        "code": "LH"
+      }
+    ],
+    "matched_keywords": "玉米、鸡蛋、生猪",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】粕类日报-20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】生猪日报-20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "生猪",
+        "code": "LH"
+      }
+    ],
+    "matched_keywords": "生猪",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】新作生长分化加剧 全球供应博弈持续（2026年9月月报）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】蛋价有所支撑 盘面技术性走弱 （2026年9月月报）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】棉系日报（26-08-31）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】鸡蛋日报（26-08-31）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "鸡蛋",
+        "code": "JD"
+      }
+    ],
+    "matched_keywords": "鸡蛋",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】玉米和淀粉日报（26-8-31）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玉米",
+        "code": "C"
+      },
+      {
+        "name": "淀粉",
+        "code": "CS"
+      }
+    ],
+    "matched_keywords": "玉米、淀粉",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】花生日报（26-8-31）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "花生",
+        "code": "PK"
+      }
+    ],
+    "matched_keywords": "花生",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】苹果日报（26-08-31）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "苹果",
+        "code": "AP"
+      }
+    ],
+    "matched_keywords": "苹果",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】白糖日报（26-08-31）",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "白糖",
+        "code": "SR"
+      }
+    ],
+    "matched_keywords": "白糖",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "2026-08-31瑞达期货白糖产业日报20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "白糖",
+        "code": "SR"
+      }
+    ],
+    "matched_keywords": "白糖",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "2026-08-31瑞达期货红枣产业日报20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "红枣",
+        "code": "CJ"
+      }
+    ],
+    "matched_keywords": "红枣",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "2026-08-31瑞达期货棉花(纱)产业日报20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "棉花",
+        "code": "CF"
+      }
+    ],
+    "matched_keywords": "棉花",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "2026-08-31瑞达期货苹果产业日报20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "苹果",
+        "code": "AP"
+      }
+    ],
+    "matched_keywords": "苹果",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "2026-08-31瑞达期货菜籽系产业日报20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "2026-08-31瑞达期货鸡蛋产业日报20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "鸡蛋",
+        "code": "JD"
+      }
+    ],
+    "matched_keywords": "鸡蛋",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品",
+    "title": "2026-08-31瑞达期货玉米系产业日报20260831",
+    "publish_date": "2026-08-31",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玉米",
+        "code": "C"
+      }
+    ],
+    "matched_keywords": "玉米",
+    "collection_status": "discovered"
   }
 ]
