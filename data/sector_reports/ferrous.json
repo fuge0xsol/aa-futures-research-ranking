@@ -42194,5 +42194,335 @@
     "main_varieties": [],
     "matched_keywords": "",
     "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "光大期货黑色商品日报（2026年9月2日)",
+    "publish_date": "2026-09-02",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "光期黑色：铁矿石基差及价差监测日报 20260902",
+    "publish_date": "2026-09-02",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铁矿石",
+        "code": "I"
+      }
+    ],
+    "matched_keywords": "铁矿石",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "华泰期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色建材",
+    "title": "华泰期货黑色专题报告20260902：地产信贷新政对黑色商品价格影响分析",
+    "publish_date": "2026-09-02",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "全部",
+    "title": "【不锈钢专题20260902】：原料维持偏紧，成材下游传导不畅",
+    "publish_date": "2026-09-02",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "不锈钢",
+        "code": "SS"
+      }
+    ],
+    "matched_keywords": "不锈钢",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "全部",
+    "title": "五矿期货黑色建材早报20260902",
+    "publish_date": "2026-09-02",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河专题】焦炭期权上市首日策略前瞻-20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "焦炭",
+        "code": "J"
+      }
+    ],
+    "matched_keywords": "焦炭",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】双焦日报-20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】铁矿石日报-20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铁矿石",
+        "code": "I"
+      }
+    ],
+    "matched_keywords": "铁矿石",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】钢材日报-20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】铁合金日报-20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "金属",
+    "title": "2026-09-01瑞达期货焦煤焦炭产业日报20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "焦煤",
+        "code": "JM"
+      },
+      {
+        "name": "焦炭",
+        "code": "J"
+      }
+    ],
+    "matched_keywords": "焦煤、焦炭",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "金属",
+    "title": "2026-09-01瑞达期货螺纹钢产业日报20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "螺纹钢",
+        "code": "RB"
+      }
+    ],
+    "matched_keywords": "螺纹钢",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "金属",
+    "title": "2026-09-01瑞达期货锰硅硅铁产业日报20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "硅铁",
+        "code": "SF"
+      },
+      {
+        "name": "锰硅",
+        "code": "SM"
+      }
+    ],
+    "matched_keywords": "硅铁、锰硅",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "金属",
+    "title": "2026-09-01瑞达期货热卷产业日报20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "热卷",
+        "code": "HC"
+      }
+    ],
+    "matched_keywords": "热卷",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "金属",
+    "title": "2026-09-01瑞达期货铁矿石产业日报20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铁矿石",
+        "code": "I"
+      }
+    ],
+    "matched_keywords": "铁矿石",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "瑞达期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "金属",
+    "title": "2026-09-01瑞达期货不锈钢产业日报20260901",
+    "publish_date": "2026-09-01",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "不锈钢",
+        "code": "SS"
+      }
+    ],
+    "matched_keywords": "不锈钢",
+    "collection_status": "discovered"
   }
 ]

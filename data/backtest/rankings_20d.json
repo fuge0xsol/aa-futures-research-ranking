@@ -61,11 +61,11 @@
   },
   {
     "company_name": "南华期货",
-    "sample_count": 88,
-    "hit_count": 44,
-    "accuracy": 50.0,
-    "avg_return_pct": 0.2884,
-    "score": 51.15,
+    "sample_count": 89,
+    "hit_count": 45,
+    "accuracy": 50.56,
+    "avg_return_pct": 0.3123,
+    "score": 51.59,
     "status": "正式排名",
     "rank": 7
   },
