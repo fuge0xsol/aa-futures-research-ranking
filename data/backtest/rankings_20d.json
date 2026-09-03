@@ -21,11 +21,11 @@
   },
   {
     "company_name": "紫金天风",
-    "sample_count": 33,
+    "sample_count": 34,
     "hit_count": 17,
-    "accuracy": 51.52,
-    "avg_return_pct": 3.2715,
-    "score": 64.0,
+    "accuracy": 50.0,
+    "avg_return_pct": 3.0076,
+    "score": 62.03,
     "status": "正式排名",
     "rank": 3
   },
@@ -91,11 +91,11 @@
   },
   {
     "company_name": "长江期货",
-    "sample_count": 66,
-    "hit_count": 23,
-    "accuracy": 34.85,
-    "avg_return_pct": -1.7484,
-    "score": 33.92,
+    "sample_count": 67,
+    "hit_count": 24,
+    "accuracy": 35.82,
+    "avg_return_pct": -1.552,
+    "score": 35.28,
     "status": "正式排名",
     "rank": 10
   },

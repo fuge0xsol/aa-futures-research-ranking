@@ -1,11 +1,11 @@
 [
   {
     "company_name": "国信期货",
-    "sample_count": 1,
+    "sample_count": 2,
     "hit_count": 1,
-    "accuracy": 100.0,
-    "avg_return_pct": 7.3123,
-    "score": 100.0,
+    "accuracy": 50.0,
+    "avg_return_pct": 3.2433,
+    "score": 62.97,
     "status": "观察样本",
     "rank": 1
   },
