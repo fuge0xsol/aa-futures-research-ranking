@@ -1,6 +1,9 @@
 /* section.js — 板块页逻辑。数据改为异步加载 {sector}/data.json（精简字段） */
 const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const el = id => document.getElementById(id);
+/* 五级方向标签（构建期由标题规则生成 dir5：强多/多/中性/空/强空，无则不展示） */
+const DIR5_CLS = { '强多': 's-bull', '多': 'bull', '中性': 'neutral', '空': 'bear', '强空': 's-bear' };
+const dirBadge = r => { const c = DIR5_CLS[r.dir5]; return c ? ` <span class="dir-tag dt-${c}">${esc(r.dir5)}</span>` : ''; };
 
 let data = null;
 let selectedCommodity = '';
@@ -30,7 +33,7 @@ function reportMatches(report, name) {
 function renderReports(rows) {
   const sorted = rows.slice().sort((a, b) => String(b.publish_date || '').localeCompare(String(a.publish_date || '')));
   el('report-table').querySelector('tbody').innerHTML = sorted.slice(0, 300).map(r =>
-    `<tr><td>${esc(r.publish_date)}</td><td>${esc(r.company)}</td><td>${esc(r.report_type)}</td><td>${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}</td><td>${esc(r.source_type)}</td></tr>`
+    `<tr><td>${esc(r.publish_date)}</td><td>${esc(r.company)}</td><td>${esc(r.report_type)}</td><td>${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${dirBadge(r)}</td><td>${esc(r.source_type)}</td></tr>`
   ).join('') || '<tr><td colspan="5" class="muted">暂无研报数据</td></tr>';
 }
 function renderReportTabs() {
@@ -96,7 +99,7 @@ function renderProductView() {
   el('commodity-report-table').querySelector('tbody').innerHTML = reports.slice(0, 200).map(r => {
     const dir = r.dir || 'unknown', dc = r.dcn || '暂无';
     const result = r.bh === undefined ? '未回测' : (r.bh === true ? '命中' : r.bh === false ? '未命中' : '不评估');
-    return `<tr><td>${esc(r.publish_date)}</td><td>${esc(r.company)}</td><td class="opinion-${esc(dir)}">${esc(dc)}</td><td>${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}</td><td>${esc(r.dsrc || '标题/摘要')}</td><td class="${result === '命中' ? 'result-hit' : result === '未命中' ? 'result-miss' : 'muted'}">${result}</td></tr>`;
+    return `<tr><td>${esc(r.publish_date)}</td><td>${esc(r.company)}</td><td class="opinion-${esc(dir)}">${esc(dc)}</td><td>${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${dirBadge(r)}</td><td>${esc(r.dsrc || '标题/摘要')}</td><td class="${result === '命中' ? 'result-hit' : result === '未命中' ? 'result-miss' : 'muted'}">${result}</td></tr>`;
   }).join('') || '<tr><td colspan="6" class="muted">该品种暂无研报观点。</td></tr>';
 }
 

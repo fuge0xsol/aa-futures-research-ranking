@@ -1,5 +1,8 @@
 /* commodity.js — 品种详情页逻辑。数据异步加载 {sector}/{CODE}.json（精简字段） */
 const esc = v => String(v ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+/* 五级方向标签（构建期由标题规则生成 dir5：强多/多/中性/空/强空，无则不展示） */
+const DIR5_CLS = { '强多': 's-bull', '多': 'bull', '中性': 'neutral', '空': 'bear', '强空': 's-bear' };
+const dirBadge = r => { const c = DIR5_CLS[r.dir5]; return c ? ` <span class="dir-tag dt-${c}">${esc(r.dir5)}</span>` : ''; };
 const el = id => document.getElementById(id);
 
 let bt = [], ranking = [], reports = [];
@@ -38,7 +41,7 @@ function renderReports() {
       : r.bh === true ? '<span class="result-hit">命中</span>'
       : r.bh === false ? '<span class="result-miss">未命中</span>'
       : '不评估';
-    return `<tr><td>${esc(r.publish_date)}</td><td><b>${esc(r.company)}</b></td><td class="opinion-${esc(dir)}">${esc(dc)}</td><td>${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}</td><td>${result}</td></tr>`;
+    return `<tr><td>${esc(r.publish_date)}</td><td><b>${esc(r.company)}</b></td><td class="opinion-${esc(dir)}">${esc(dc)}</td><td>${r.detail_url ? `<a href="${esc(r.detail_url)}" target="_blank" rel="noopener">${esc(r.title)}</a>` : esc(r.title)}${dirBadge(r)}</td><td>${result}</td></tr>`;
   }).join('') || '<tr><td colspan="5" class="muted">暂无研报数据</td></tr>';
 }
 

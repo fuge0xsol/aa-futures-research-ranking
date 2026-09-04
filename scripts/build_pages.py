@@ -40,6 +40,39 @@ SECTORS = {
 }
 NOTE = '回测结果基于已接入的历史研报与行情数据；样本不足时仅供观察。'
 
+# ---------- 标题五级方向标签（仅展示用，不影响回测方向判定口径） ----------
+BULL_STRONG = ['强势', '大涨', '大幅上涨', '飙升', '暴涨', '创新高', '刷新高', '加速上涨', '加速上行',
+               '强烈看涨', '坚定看多', '大幅上行', '快速拉升', '放量上涨', '突破上行', '放量突破']
+BEAR_STRONG = ['大跌', '大幅下跌', '暴跌', '重挫', '创新低', '刷新低', '加速下跌', '加速下行',
+               '强烈看跌', '坚定看空', '大幅下行', '崩盘', '跌停', '破位']
+BULL_MILD = ['看涨', '偏强', '偏多', '做多', '上涨', '上行', '反弹', '逢低买入', '震荡偏强',
+             '有望走强', '回暖', '企稳', '走强', '收涨', '拉涨']
+BEAR_MILD = ['看跌', '偏弱', '偏空', '做空', '下跌', '下行', '回落', '逢高卖出', '震荡偏弱',
+             '压制', '承压', '走弱', '收跌']
+NEUTRAL_KW = ['震荡', '区间', '观望', '等待', '横盘', '整理', '盘整', '僵持', '拉锯']
+
+
+def direction5(title):
+    """标题五级方向标签：强多/多/中性/空/强空；无方向词返回 None（不展示标签）。
+    强词权重 2，弱词权重 1；强弱对冲且差值<=1 判中性。"""
+    t = str(title or '')
+    bs = sum(t.count(x) for x in BULL_STRONG)
+    ss = sum(t.count(x) for x in BEAR_STRONG)
+    b = sum(t.count(x) for x in BULL_MILD)
+    s = sum(t.count(x) for x in BEAR_MILD)
+    n = sum(t.count(x) for x in NEUTRAL_KW)
+    bull = bs * 2 + b
+    bear = ss * 2 + s
+    if not bull and not bear:
+        return '中性' if n else None
+    if bull and bear and abs(bull - bear) <= 1:
+        return '中性'
+    if bull > bear:
+        return '强多' if (bs >= 1 and bull - bear >= 2) or bull >= 3 else '多'
+    if bear > bull:
+        return '强空' if (ss >= 1 and bear - bull >= 2) or bear >= 3 else '空'
+    return '中性'
+
 
 def load_json(path):
     if not os.path.exists(path):
@@ -66,6 +99,7 @@ def trim_report(r):
         'dir': r.get('direction'),
         'dcn': r.get('direction_cn'),
         'dsrc': r.get('direction_source'),
+        'dir5': direction5(r.get('title')),
     }
     return out
 
