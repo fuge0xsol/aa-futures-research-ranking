@@ -50,12 +50,16 @@ def load_json(path):
 
 def trim_report(r):
     """研报字段裁剪：只保留前端实际使用的字段，matched_keywords 拆成数组 kw"""
+    detail_url = r.get('detail_url')
+    if not detail_url and r.get('source_type') == 'jykc':
+        # JYKC API 不提供单篇直链，退回来源聚合页（交易可查研报频道），保证标题可点击
+        detail_url = r.get('source_url')
     out = {
         'company': r.get('company'),
         'report_type': r.get('report_type'),
         'title': r.get('title'),
         'publish_date': r.get('publish_date'),
-        'detail_url': r.get('detail_url'),
+        'detail_url': detail_url,
         'source_type': r.get('source_type'),
         'cn': r.get('commodity_name'),
         'kw': [k.strip() for k in re.split(r'[、,， ]', str(r.get('matched_keywords') or '')) if k.strip()],
