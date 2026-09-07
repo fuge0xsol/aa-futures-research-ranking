@@ -21,10 +21,10 @@
   },
   {
     "company_name": "银河期货",
-    "sample_count": 122,
-    "hit_count": 68,
-    "accuracy": 55.74,
-    "avg_return_pct": 0.5193,
+    "sample_count": 124,
+    "hit_count": 69,
+    "accuracy": 55.65,
+    "avg_return_pct": 0.5333,
     "score": 55.52,
     "status": "正式排名",
     "rank": 3
@@ -71,11 +71,11 @@
   },
   {
     "company_name": "长江期货",
-    "sample_count": 72,
-    "hit_count": 30,
-    "accuracy": 41.67,
-    "avg_return_pct": -1.165,
-    "score": 40.34,
+    "sample_count": 74,
+    "hit_count": 32,
+    "accuracy": 43.24,
+    "avg_return_pct": -1.0919,
+    "score": 41.58,
     "status": "正式排名",
     "rank": 8
   },
