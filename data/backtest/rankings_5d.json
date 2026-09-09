@@ -40,6 +40,16 @@
     "rank": 4
   },
   {
+    "company_name": "国信期货",
+    "sample_count": 2,
+    "hit_count": 1,
+    "accuracy": 50.0,
+    "avg_return_pct": -0.1464,
+    "score": 49.41,
+    "status": "观察样本",
+    "rank": 5
+  },
+  {
     "company_name": "南华期货",
     "sample_count": 89,
     "hit_count": 44,
@@ -47,7 +57,7 @@
     "avg_return_pct": -0.2437,
     "score": 48.69,
     "status": "正式排名",
-    "rank": 5
+    "rank": 6
   },
   {
     "company_name": "五矿期货",
@@ -57,7 +67,7 @@
     "avg_return_pct": -0.7983,
     "score": 44.73,
     "status": "正式排名",
-    "rank": 6
+    "rank": 7
   },
   {
     "company_name": "长江期货",
@@ -67,7 +77,7 @@
     "avg_return_pct": -0.9645,
     "score": 43.41,
     "status": "正式排名",
-    "rank": 7
+    "rank": 8
   },
   {
     "company_name": "国联期货",
@@ -77,7 +87,7 @@
     "avg_return_pct": -0.4653,
     "score": 42.14,
     "status": "正式排名",
-    "rank": 8
+    "rank": 9
   },
   {
     "company_name": "格林大华",
@@ -87,7 +97,7 @@
     "avg_return_pct": -1.2206,
     "score": 35.12,
     "status": "正式排名",
-    "rank": 9
+    "rank": 10
   },
   {
     "company_name": "华泰期货",
@@ -97,7 +107,7 @@
     "avg_return_pct": -1.2115,
     "score": 25.15,
     "status": "观察样本",
-    "rank": 10
+    "rank": 11
   },
   {
     "company_name": "东海期货",
@@ -106,16 +116,6 @@
     "accuracy": 33.33,
     "avg_return_pct": -5.4169,
     "score": 20.0,
-    "status": "观察样本",
-    "rank": 11
-  },
-  {
-    "company_name": "国信期货",
-    "sample_count": 1,
-    "hit_count": 0,
-    "accuracy": 0.0,
-    "avg_return_pct": -1.1183,
-    "score": 15.53,
     "status": "观察样本",
     "rank": 12
   }

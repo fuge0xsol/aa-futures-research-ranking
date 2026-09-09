@@ -61,11 +61,11 @@
   },
   {
     "company_name": "中泰期货",
-    "sample_count": 213,
-    "hit_count": 98,
-    "accuracy": 46.01,
-    "avg_return_pct": -0.0725,
-    "score": 47.32,
+    "sample_count": 219,
+    "hit_count": 102,
+    "accuracy": 46.58,
+    "avg_return_pct": -0.048,
+    "score": 47.75,
     "status": "正式排名",
     "rank": 7
   },
@@ -80,22 +80,22 @@
     "rank": 8
   },
   {
+    "company_name": "长江期货",
+    "sample_count": 81,
+    "hit_count": 33,
+    "accuracy": 40.74,
+    "avg_return_pct": -0.2049,
+    "score": 43.62,
+    "status": "正式排名",
+    "rank": 9
+  },
+  {
     "company_name": "五矿期货",
     "sample_count": 102,
     "hit_count": 44,
     "accuracy": 43.14,
     "avg_return_pct": -0.6554,
     "score": 43.26,
-    "status": "正式排名",
-    "rank": 9
-  },
-  {
-    "company_name": "长江期货",
-    "sample_count": 79,
-    "hit_count": 31,
-    "accuracy": 39.24,
-    "avg_return_pct": -0.214,
-    "score": 42.69,
     "status": "正式排名",
     "rank": 10
   },
