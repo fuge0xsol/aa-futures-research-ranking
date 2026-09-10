@@ -51,11 +51,11 @@
   },
   {
     "company_name": "银河期货",
-    "sample_count": 136,
-    "hit_count": 67,
-    "accuracy": 49.26,
-    "avg_return_pct": 0.1539,
-    "score": 50.17,
+    "sample_count": 137,
+    "hit_count": 68,
+    "accuracy": 49.64,
+    "avg_return_pct": 0.1589,
+    "score": 50.42,
     "status": "正式排名",
     "rank": 6
   },

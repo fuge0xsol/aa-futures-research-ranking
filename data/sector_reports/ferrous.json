@@ -43546,5 +43546,161 @@
     ],
     "matched_keywords": "硅铁、锰硅",
     "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "焦煤钢矿",
+    "title": "【铁矿】海运成本与下游利润博弈",
+    "publish_date": "2026-09-10",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "期权",
+    "title": "五矿期货黑色期权策略日报20260910",
+    "publish_date": "2026-09-10",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "光大期货黑色商品日报（2026年9月10日)",
+    "publish_date": "2026-09-10",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "光期黑色：铁矿石基差及价差监测日报 20260910",
+    "publish_date": "2026-09-10",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铁矿石",
+        "code": "I"
+      }
+    ],
+    "matched_keywords": "铁矿石",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "全部",
+    "title": "五矿期货黑色建材早报20260910",
+    "publish_date": "2026-09-10",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】铁矿石日报-20260909",
+    "publish_date": "2026-09-09",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铁矿石",
+        "code": "I"
+      }
+    ],
+    "matched_keywords": "铁矿石",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "有色金属",
+    "title": "【银河专题】不锈钢期权上市首日策略前瞻-20260909",
+    "publish_date": "2026-09-09",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "不锈钢",
+        "code": "SS"
+      }
+    ],
+    "matched_keywords": "不锈钢",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】铁矿石日报-20260907",
+    "publish_date": "2026-09-07",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铁矿石",
+        "code": "I"
+      }
+    ],
+    "matched_keywords": "铁矿石",
+    "collection_status": "discovered"
   }
 ]
