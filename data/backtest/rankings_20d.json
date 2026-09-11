@@ -21,11 +21,11 @@
   },
   {
     "company_name": "紫金天风",
-    "sample_count": 36,
-    "hit_count": 19,
-    "accuracy": 52.78,
-    "avg_return_pct": 3.0709,
-    "score": 63.95,
+    "sample_count": 37,
+    "hit_count": 20,
+    "accuracy": 54.05,
+    "avg_return_pct": 3.2765,
+    "score": 65.54,
     "status": "正式排名",
     "rank": 3
   },
@@ -70,22 +70,22 @@
     "rank": 7
   },
   {
+    "company_name": "五矿期货",
+    "sample_count": 92,
+    "hit_count": 41,
+    "accuracy": 44.57,
+    "avg_return_pct": -0.7261,
+    "score": 43.83,
+    "status": "正式排名",
+    "rank": 8
+  },
+  {
     "company_name": "国联期货",
     "sample_count": 24,
     "hit_count": 11,
     "accuracy": 45.83,
     "avg_return_pct": -0.9254,
     "score": 43.8,
-    "status": "正式排名",
-    "rank": 8
-  },
-  {
-    "company_name": "五矿期货",
-    "sample_count": 91,
-    "hit_count": 40,
-    "accuracy": 43.96,
-    "avg_return_pct": -0.7499,
-    "score": 43.37,
     "status": "正式排名",
     "rank": 9
   },

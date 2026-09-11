@@ -21,11 +21,11 @@
   },
   {
     "company_name": "紫金天风",
-    "sample_count": 44,
+    "sample_count": 45,
     "hit_count": 26,
-    "accuracy": 59.09,
-    "avg_return_pct": 0.4757,
-    "score": 57.36,
+    "accuracy": 57.78,
+    "avg_return_pct": 0.4237,
+    "score": 56.36,
     "status": "正式排名",
     "rank": 3
   },
