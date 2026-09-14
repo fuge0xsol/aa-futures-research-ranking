@@ -1,15 +1,5 @@
 [
   {
-    "company_name": "紫金天风",
-    "sample_count": 43,
-    "hit_count": 28,
-    "accuracy": 65.12,
-    "avg_return_pct": 0.8184,
-    "score": 62.34,
-    "status": "正式排名",
-    "rank": 1
-  },
-  {
     "company_name": "国泰君安期货",
     "sample_count": 44,
     "hit_count": 27,
@@ -17,15 +7,25 @@
     "avg_return_pct": 1.3137,
     "score": 62.07,
     "status": "正式排名",
+    "rank": 1
+  },
+  {
+    "company_name": "紫金天风",
+    "sample_count": 44,
+    "hit_count": 28,
+    "accuracy": 63.64,
+    "avg_return_pct": 0.7772,
+    "score": 61.29,
+    "status": "正式排名",
     "rank": 2
   },
   {
     "company_name": "银河期货",
-    "sample_count": 128,
-    "hit_count": 70,
-    "accuracy": 54.69,
-    "avg_return_pct": 0.504,
-    "score": 54.83,
+    "sample_count": 136,
+    "hit_count": 72,
+    "accuracy": 52.94,
+    "avg_return_pct": 0.4152,
+    "score": 53.43,
     "status": "正式排名",
     "rank": 3
   },
@@ -61,11 +61,11 @@
   },
   {
     "company_name": "五矿期货",
-    "sample_count": 101,
-    "hit_count": 47,
-    "accuracy": 46.53,
-    "avg_return_pct": -0.7983,
-    "score": 44.73,
+    "sample_count": 102,
+    "hit_count": 48,
+    "accuracy": 47.06,
+    "avg_return_pct": -0.7783,
+    "score": 45.12,
     "status": "正式排名",
     "rank": 7
   },
