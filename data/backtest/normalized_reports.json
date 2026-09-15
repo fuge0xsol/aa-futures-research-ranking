@@ -84071,6 +84071,378 @@
     "needs_review": false
   },
   {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "今日关注",
+    "title": "申万期货生猪策略日报-20260915",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "生猪",
+        "code": "LH"
+      }
+    ],
+    "matched_keywords": "生猪",
+    "collection_status": "discovered",
+    "report_id": "申银万国|agri|2026-09-15|申万期货生猪策略日报-20260915",
+    "commodity": "LH",
+    "commodity_name": "生猪",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品期货",
+    "title": "格林大华期市早班车-白糖红枣橡胶（20260915）",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "白糖",
+        "code": "SR"
+      },
+      {
+        "name": "红枣",
+        "code": "CJ"
+      }
+    ],
+    "matched_keywords": "白糖、红枣",
+    "collection_status": "discovered",
+    "report_id": "格林大华|agri|2026-09-15|格林大华期市早班车-白糖红枣橡胶（20260915）",
+    "commodity": "SR",
+    "commodity_name": "白糖",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品日报",
+    "title": "格林大华期货早班车——棉花苹果原木20260915",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "棉花",
+        "code": "CF"
+      },
+      {
+        "name": "苹果",
+        "code": "AP"
+      }
+    ],
+    "matched_keywords": "棉花、苹果",
+    "collection_status": "discovered",
+    "report_id": "格林大华|agri|2026-09-15|格林大华期货早班车——棉花苹果原木20260915",
+    "commodity": "CF",
+    "commodity_name": "棉花",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品期货",
+    "title": "格林大华期市早班车-玉米生猪鸡蛋（20260915）",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玉米",
+        "code": "C"
+      },
+      {
+        "name": "鸡蛋",
+        "code": "JD"
+      },
+      {
+        "name": "生猪",
+        "code": "LH"
+      }
+    ],
+    "matched_keywords": "玉米、鸡蛋、生猪",
+    "collection_status": "discovered",
+    "report_id": "格林大华|agri|2026-09-15|格林大华期市早班车-玉米生猪鸡蛋（20260915）",
+    "commodity": "C",
+    "commodity_name": "玉米",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "今日关注",
+    "title": "申万期货生猪策略日报-20260914",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "生猪",
+        "code": "LH"
+      }
+    ],
+    "matched_keywords": "生猪",
+    "collection_status": "discovered",
+    "report_id": "申银万国|agri|2026-09-14|申万期货生猪策略日报-20260914",
+    "commodity": "LH",
+    "commodity_name": "生猪",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】鸡蛋日报（26-09-14）",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "鸡蛋",
+        "code": "JD"
+      }
+    ],
+    "matched_keywords": "鸡蛋",
+    "collection_status": "discovered",
+    "report_id": "银河期货|agri|2026-09-14|【银河期货】鸡蛋日报（26-09-14）",
+    "commodity": "JD",
+    "commodity_name": "鸡蛋",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】白糖日报（26-09-14）",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "白糖",
+        "code": "SR"
+      }
+    ],
+    "matched_keywords": "白糖",
+    "collection_status": "discovered",
+    "report_id": "银河期货|agri|2026-09-14|【银河期货】白糖日报（26-09-14）",
+    "commodity": "SR",
+    "commodity_name": "白糖",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】玉米和淀粉日报（26-9-14）",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "玉米",
+        "code": "C"
+      },
+      {
+        "name": "淀粉",
+        "code": "CS"
+      }
+    ],
+    "matched_keywords": "玉米、淀粉",
+    "collection_status": "discovered",
+    "report_id": "银河期货|agri|2026-09-14|【银河期货】玉米和淀粉日报（26-9-14）",
+    "commodity": "C",
+    "commodity_name": "玉米",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】花生日报（26-9-14）",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "花生",
+        "code": "PK"
+      }
+    ],
+    "matched_keywords": "花生",
+    "collection_status": "discovered",
+    "report_id": "银河期货|agri|2026-09-14|【银河期货】花生日报（26-9-14）",
+    "commodity": "PK",
+    "commodity_name": "花生",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】苹果日报（26-09-14）",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "苹果",
+        "code": "AP"
+      }
+    ],
+    "matched_keywords": "苹果",
+    "collection_status": "discovered",
+    "report_id": "银河期货|agri|2026-09-14|【银河期货】苹果日报（26-09-14）",
+    "commodity": "AP",
+    "commodity_name": "苹果",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河期货】棉系周报：郑棉价格走弱新年度棉花提前收获-20260911",
+    "publish_date": "2026-09-11",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "棉花",
+        "code": "CF"
+      }
+    ],
+    "matched_keywords": "棉花",
+    "collection_status": "discovered",
+    "report_id": "银河期货|agri|2026-09-11|【银河期货】棉系周报：郑棉价格走弱新年度棉花提前收获-20260911",
+    "commodity": "CF",
+    "commodity_name": "棉花",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
     "company": "国泰君安期货",
     "rating_level": "AA",
     "sector": "energy",
@@ -201103,6 +201475,362 @@
     "needs_review": true
   },
   {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "今日关注",
+    "title": "申万期货乙二醇策略日报-20260915",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "乙二醇",
+        "code": "EG"
+      }
+    ],
+    "matched_keywords": "乙二醇",
+    "collection_status": "discovered",
+    "report_id": "申银万国|energy|2026-09-15|申万期货乙二醇策略日报-20260915",
+    "commodity": "EG",
+    "commodity_name": "乙二醇",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "全部",
+    "title": "五矿期货橡胶及纸类期权策略日报20260915",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered",
+    "report_id": "五矿期货|energy|2026-09-15|五矿期货橡胶及纸类期权策略日报20260915",
+    "commodity": "RU",
+    "commodity_name": "橡胶",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "农产品期货",
+    "title": "格林大华期市早班车-白糖红枣橡胶（20260915）",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered",
+    "report_id": "格林大华|energy|2026-09-15|格林大华期市早班车-白糖红枣橡胶（20260915）",
+    "commodity": "RU",
+    "commodity_name": "橡胶",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "全部",
+    "title": "【橡胶专题20260915】：到底是厄尔尼诺干旱还是洪水？",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "橡胶",
+        "code": "RU"
+      }
+    ],
+    "matched_keywords": "橡胶",
+    "collection_status": "discovered",
+    "report_id": "五矿期货|energy|2026-09-15|【橡胶专题20260915】：到底是厄尔尼诺干旱还是洪水？",
+    "commodity": "RU",
+    "commodity_name": "橡胶",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "煤焦钢及化工品日报",
+    "title": "格林大华期市早班车-尿素260915",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "尿素",
+        "code": "UR"
+      }
+    ],
+    "matched_keywords": "尿素",
+    "collection_status": "discovered",
+    "report_id": "格林大华|energy|2026-09-15|格林大华期市早班车-尿素260915",
+    "commodity": "UR",
+    "commodity_name": "尿素",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "煤焦钢及化工品日报",
+    "title": "格林大华期市早班车-甲醇260915",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "甲醇",
+        "code": "MA"
+      }
+    ],
+    "matched_keywords": "甲醇",
+    "collection_status": "discovered",
+    "report_id": "格林大华|energy|2026-09-15|格林大华期市早班车-甲醇260915",
+    "commodity": "MA",
+    "commodity_name": "甲醇",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "今日关注",
+    "title": "申万期货乙二醇策略日报-20260914",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "乙二醇",
+        "code": "EG"
+      }
+    ],
+    "matched_keywords": "乙二醇",
+    "collection_status": "discovered",
+    "report_id": "申银万国|energy|2026-09-14|申万期货乙二醇策略日报-20260914",
+    "commodity": "EG",
+    "commodity_name": "乙二醇",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "今日关注",
+    "title": "申万期货原油甲醇策略日报-20260914",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "原油",
+        "code": "SC"
+      },
+      {
+        "name": "甲醇",
+        "code": "MA"
+      }
+    ],
+    "matched_keywords": "原油、甲醇",
+    "collection_status": "discovered",
+    "report_id": "申银万国|energy|2026-09-14|申万期货原油甲醇策略日报-20260914",
+    "commodity": "SC",
+    "commodity_name": "原油",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "【银河期货】燃料油日报-20260911",
+    "publish_date": "2026-09-11",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "燃料油",
+        "code": "FU"
+      }
+    ],
+    "matched_keywords": "燃料油",
+    "collection_status": "discovered",
+    "report_id": "银河期货|energy|2026-09-11|【银河期货】燃料油日报-20260911",
+    "commodity": "FU",
+    "commodity_name": "燃料油",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "【银河期货】燃料油周报：地缘主导市场-260911",
+    "publish_date": "2026-09-11",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "燃料油",
+        "code": "FU"
+      }
+    ],
+    "matched_keywords": "燃料油",
+    "collection_status": "discovered",
+    "report_id": "银河期货|energy|2026-09-11|【银河期货】燃料油周报：地缘主导市场-260911",
+    "commodity": "FU",
+    "commodity_name": "燃料油",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "energy",
+    "sector_name": "能化",
+    "report_type": "能源化工",
+    "title": "【银河期货】沥青周报：高成本低库存强现货-20260911",
+    "publish_date": "2026-09-11",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "沥青",
+        "code": "BU"
+      }
+    ],
+    "matched_keywords": "沥青",
+    "collection_status": "discovered",
+    "report_id": "银河期货|energy|2026-09-11|【银河期货】沥青周报：高成本低库存强现货-20260911",
+    "commodity": "BU",
+    "commodity_name": "沥青",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
     "company": "国泰君安期货",
     "rating_level": "AA",
     "sector": "ferrous",
@@ -238801,6 +239529,70 @@
     "direction_source": "标题规则",
     "holding_period": "1D/5D/20D",
     "needs_review": false
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "光期黑色：铁矿石基差及价差监测日报 20260915",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铁矿石",
+        "code": "I"
+      }
+    ],
+    "matched_keywords": "铁矿石",
+    "collection_status": "discovered",
+    "report_id": "光大期货|ferrous|2026-09-15|光期黑色：铁矿石基差及价差监测日报 20260915",
+    "commodity": "I",
+    "commodity_name": "铁矿石",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】铁矿石日报-20260914",
+    "publish_date": "2026-09-14",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铁矿石",
+        "code": "I"
+      }
+    ],
+    "matched_keywords": "铁矿石",
+    "collection_status": "discovered",
+    "report_id": "银河期货|ferrous|2026-09-14|【银河期货】铁矿石日报-20260914",
+    "commodity": "I",
+    "commodity_name": "铁矿石",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
   },
   {
     "company": "国泰君安期货",
@@ -320682,6 +321474,106 @@
     "report_id": "银河期货|metals|2026-09-11|【银河期货】铝系周报：铝价的宏观驱动权重增加 氧化铝成本存支撑-20260911",
     "commodity": "AL",
     "commodity_name": "铝",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "今日关注",
+    "title": "申万期货黄金白银策略日报-20260915",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "黄金",
+        "code": "AU"
+      },
+      {
+        "name": "白银",
+        "code": "AG"
+      }
+    ],
+    "matched_keywords": "黄金、白银",
+    "collection_status": "discovered",
+    "report_id": "申银万国|metals|2026-09-15|申万期货黄金白银策略日报-20260915",
+    "commodity": "AU",
+    "commodity_name": "黄金",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "光大期货工业硅、多晶硅日报（2026年9月15日）",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "工业硅",
+        "code": "SI"
+      }
+    ],
+    "matched_keywords": "工业硅",
+    "collection_status": "discovered",
+    "report_id": "光大期货|metals|2026-09-15|光大期货工业硅、多晶硅日报（2026年9月15日）",
+    "commodity": "SI",
+    "commodity_name": "工业硅",
+    "contract_reference": "主力连续",
+    "direction": "unknown",
+    "direction_cn": "暂无",
+    "direction_confidence": 0.0,
+    "direction_source": "未识别",
+    "holding_period": "1D/5D/20D",
+    "needs_review": true
+  },
+  {
+    "company": "光大期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "光大期货碳酸锂日报（2026年9月15日）",
+    "publish_date": "2026-09-15",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "碳酸锂",
+        "code": "LC"
+      }
+    ],
+    "matched_keywords": "碳酸锂",
+    "collection_status": "discovered",
+    "report_id": "光大期货|metals|2026-09-15|光大期货碳酸锂日报（2026年9月15日）",
+    "commodity": "LC",
+    "commodity_name": "碳酸锂",
     "contract_reference": "主力连续",
     "direction": "unknown",
     "direction_cn": "暂无",
