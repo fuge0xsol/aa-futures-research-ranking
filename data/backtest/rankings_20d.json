@@ -71,11 +71,11 @@
   },
   {
     "company_name": "五矿期货",
-    "sample_count": 94,
-    "hit_count": 42,
-    "accuracy": 44.68,
-    "avg_return_pct": -0.6654,
-    "score": 44.15,
+    "sample_count": 95,
+    "hit_count": 43,
+    "accuracy": 45.26,
+    "avg_return_pct": -0.6301,
+    "score": 44.64,
     "status": "正式排名",
     "rank": 8
   },
