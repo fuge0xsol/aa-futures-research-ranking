@@ -11740,6 +11740,26 @@
     "status": "valid"
   },
   {
+    "report_id": "紫金天风|agri|2026-09-09|【花生】为何现货触底反弹？",
+    "company": "紫金天风",
+    "sector": "agri",
+    "sector_name": "农产",
+    "commodity": "PK",
+    "commodity_name": "花生",
+    "direction": "bullish",
+    "direction_cn": "偏多",
+    "horizon_days": 5,
+    "entry_date": "2026-09-09",
+    "exit_date": "2026-09-16",
+    "entry_price": 8048.0,
+    "exit_price": 7840.0,
+    "market_return_pct": -2.5845,
+    "strategy_return_pct": -2.5845,
+    "hit": false,
+    "data_source": "AKShare futures_zh_daily_sina continuous symbol 0",
+    "status": "valid"
+  },
+  {
     "report_id": "中泰期货|agri|2026-09-13|中泰期货鸡蛋市场周度报告20260912——饲料成本小幅上涨，老鸡淘汰逐步放量",
     "company": "中泰期货",
     "sector": "agri",
