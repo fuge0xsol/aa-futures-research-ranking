@@ -10,6 +10,16 @@
     "rank": 1
   },
   {
+    "company_name": "紫金天风",
+    "sample_count": 40,
+    "hit_count": 23,
+    "accuracy": 57.5,
+    "avg_return_pct": 3.2013,
+    "score": 67.31,
+    "status": "正式排名",
+    "rank": 2
+  },
+  {
     "company_name": "华泰期货",
     "sample_count": 6,
     "hit_count": 4,
@@ -17,16 +27,6 @@
     "avg_return_pct": 1.5551,
     "score": 66.22,
     "status": "观察样本",
-    "rank": 2
-  },
-  {
-    "company_name": "紫金天风",
-    "sample_count": 37,
-    "hit_count": 20,
-    "accuracy": 54.05,
-    "avg_return_pct": 3.2765,
-    "score": 65.54,
-    "status": "正式排名",
     "rank": 3
   },
   {
