@@ -31,11 +31,11 @@
   },
   {
     "company_name": "银河期货",
-    "sample_count": 152,
-    "hit_count": 81,
-    "accuracy": 53.29,
-    "avg_return_pct": 0.2023,
-    "score": 52.78,
+    "sample_count": 153,
+    "hit_count": 82,
+    "accuracy": 53.59,
+    "avg_return_pct": 0.21,
+    "score": 53.0,
     "status": "正式排名",
     "rank": 4
   },
@@ -61,11 +61,11 @@
   },
   {
     "company_name": "中泰期货",
-    "sample_count": 239,
-    "hit_count": 113,
-    "accuracy": 47.28,
-    "avg_return_pct": -0.0728,
-    "score": 48.08,
+    "sample_count": 250,
+    "hit_count": 120,
+    "accuracy": 48.0,
+    "avg_return_pct": -0.0599,
+    "score": 48.56,
     "status": "正式排名",
     "rank": 7
   },
@@ -80,22 +80,22 @@
     "rank": 8
   },
   {
+    "company_name": "长江期货",
+    "sample_count": 86,
+    "hit_count": 36,
+    "accuracy": 41.86,
+    "avg_return_pct": -0.1481,
+    "score": 44.52,
+    "status": "正式排名",
+    "rank": 9
+  },
+  {
     "company_name": "五矿期货",
     "sample_count": 106,
     "hit_count": 47,
     "accuracy": 44.34,
     "avg_return_pct": -0.6101,
     "score": 44.16,
-    "status": "正式排名",
-    "rank": 9
-  },
-  {
-    "company_name": "长江期货",
-    "sample_count": 84,
-    "hit_count": 34,
-    "accuracy": 40.48,
-    "avg_return_pct": -0.1875,
-    "score": 43.54,
     "status": "正式排名",
     "rank": 10
   },
