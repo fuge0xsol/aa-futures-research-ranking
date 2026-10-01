@@ -46273,5 +46273,39 @@
     "main_varieties": [],
     "matched_keywords": "",
     "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】铁合金日报-20260929",
+    "publish_date": "2026-09-29",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "ferrous",
+    "sector_name": "黑色",
+    "report_type": "黑色金属",
+    "title": "【银河期货】铁合金日报-20260928",
+    "publish_date": "2026-09-28",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
   }
 ]

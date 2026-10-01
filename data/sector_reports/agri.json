@@ -80025,5 +80025,22 @@
     ],
     "matched_keywords": "花生",
     "collection_status": "discovered"
+  },
+  {
+    "company": "银河期货",
+    "rating_level": "AA",
+    "sector": "agri",
+    "sector_name": "农产",
+    "report_type": "农产品类",
+    "title": "【银河专题】食糖：全球减产VS中国增产",
+    "publish_date": "2026-09-30",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
   }
 ]
