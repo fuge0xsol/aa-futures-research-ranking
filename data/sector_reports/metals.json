@@ -107178,5 +107178,400 @@
     "main_varieties": [],
     "matched_keywords": "",
     "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【镍四季报】低谷蓄力",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "镍",
+        "code": "NI"
+      }
+    ],
+    "matched_keywords": "镍",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【锌四季报】需于沙，静候其变",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "锌",
+        "code": "ZN"
+      }
+    ],
+    "matched_keywords": "锌",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【氧化铝四季报】阿斗靠什么扶？",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铝",
+        "code": "AL"
+      },
+      {
+        "name": "氧化铝",
+        "code": "AO"
+      }
+    ],
+    "matched_keywords": "铝、氧化铝",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【铜四季报】羝羊触藩，壮而有厉",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铜",
+        "code": "CU"
+      }
+    ],
+    "matched_keywords": "铜",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【黄金四季报】黄金白银行情展望",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "黄金",
+        "code": "AU"
+      },
+      {
+        "name": "白银",
+        "code": "AG"
+      }
+    ],
+    "matched_keywords": "黄金、白银",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【铝四季报】强弩之末",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铝",
+        "code": "AL"
+      }
+    ],
+    "matched_keywords": "铝",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "紫金天风",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "有色金属",
+    "title": "【碳酸锂四季报】左右互搏",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "碳酸锂",
+        "code": "LC"
+      }
+    ],
+    "matched_keywords": "碳酸锂",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "全部",
+    "title": "五矿期货有色期权策略日报20261008",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "今日关注",
+    "title": "申万期货黄金白银策略日报-20261008",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "黄金",
+        "code": "AU"
+      },
+      {
+        "name": "白银",
+        "code": "AG"
+      }
+    ],
+    "matched_keywords": "黄金、白银",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "全部",
+    "title": "五矿期货贵金属期权策略日报20261008",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "申银万国",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "今日关注",
+    "title": "申万期货有色金属产业基差日报-20261008",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "全部",
+    "title": "五矿期货有色金属早报20261008",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "格林大华",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "金属日报",
+    "title": "格林大华期市早班车-贵金属（20261008）",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "五矿期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "全部",
+    "title": "五矿期货贵金属早报20261008",
+    "publish_date": "2026-10-08",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "周度评论",
+    "title": "国联期货沪铜假期事件盘点及前瞻20261007：美核心PCE和非农低于预期；国内电解铜产量下滑.pdf",
+    "publish_date": "2026-10-07",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铜",
+        "code": "CU"
+      }
+    ],
+    "matched_keywords": "铜",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "周度评论",
+    "title": "国联期货沪铝假期事件盘点及前瞻20261007：铝材表现有所分化；海外电解铝产量同比减量收窄.pdf",
+    "publish_date": "2026-10-07",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "铝",
+        "code": "AL"
+      }
+    ],
+    "matched_keywords": "铝",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "周度评论",
+    "title": "国联期货贵金属假期事件盘点及品种前瞻20261007.pdf",
+    "publish_date": "2026-10-07",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [],
+    "matched_keywords": "",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "周度评论",
+    "title": "国联期货工业硅-多晶硅国庆假期期间盘点及品种前瞻.pdf",
+    "publish_date": "2026-10-06",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "工业硅",
+        "code": "SI"
+      }
+    ],
+    "matched_keywords": "工业硅",
+    "collection_status": "discovered"
+  },
+  {
+    "company": "国联期货",
+    "rating_level": "AA",
+    "sector": "metals",
+    "sector_name": "金属",
+    "report_type": "周度评论",
+    "title": "碳酸锂周报20261006.pdf",
+    "publish_date": "2026-10-06",
+    "author": "",
+    "source_type": "jykc",
+    "source_url": "https://www.jiaoyikecha.com/#/reports/ai",
+    "detail_url": "",
+    "pdf_url": "",
+    "main_varieties": [
+      {
+        "name": "碳酸锂",
+        "code": "LC"
+      }
+    ],
+    "matched_keywords": "碳酸锂",
+    "collection_status": "discovered"
   }
 ]
