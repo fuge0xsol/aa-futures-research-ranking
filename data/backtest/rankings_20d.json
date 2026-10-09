@@ -91,11 +91,11 @@
   },
   {
     "company_name": "长江期货",
-    "sample_count": 77,
-    "hit_count": 27,
-    "accuracy": 35.06,
-    "avg_return_pct": -1.6229,
-    "score": 34.55,
+    "sample_count": 79,
+    "hit_count": 28,
+    "accuracy": 35.44,
+    "avg_return_pct": -1.4831,
+    "score": 35.33,
     "status": "正式排名",
     "rank": 10
   },
