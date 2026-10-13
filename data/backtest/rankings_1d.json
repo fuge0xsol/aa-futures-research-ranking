@@ -70,22 +70,22 @@
     "rank": 7
   },
   {
+    "company_name": "长江期货",
+    "sample_count": 88,
+    "hit_count": 38,
+    "accuracy": 43.18,
+    "avg_return_pct": -0.1255,
+    "score": 45.41,
+    "status": "正式排名",
+    "rank": 8
+  },
+  {
     "company_name": "格林大华",
     "sample_count": 15,
     "hit_count": 6,
     "accuracy": 40.0,
     "avg_return_pct": 0.182,
     "score": 44.73,
-    "status": "正式排名",
-    "rank": 8
-  },
-  {
-    "company_name": "长江期货",
-    "sample_count": 86,
-    "hit_count": 36,
-    "accuracy": 41.86,
-    "avg_return_pct": -0.1481,
-    "score": 44.52,
     "status": "正式排名",
     "rank": 9
   },
