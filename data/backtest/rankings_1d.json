@@ -91,11 +91,11 @@
   },
   {
     "company_name": "五矿期货",
-    "sample_count": 106,
-    "hit_count": 47,
-    "accuracy": 44.34,
-    "avg_return_pct": -0.6101,
-    "score": 44.16,
+    "sample_count": 107,
+    "hit_count": 48,
+    "accuracy": 44.86,
+    "avg_return_pct": -0.5957,
+    "score": 44.53,
     "status": "正式排名",
     "rank": 10
   },
@@ -111,11 +111,11 @@
   },
   {
     "company_name": "东海期货",
-    "sample_count": 4,
+    "sample_count": 5,
     "hit_count": 1,
-    "accuracy": 25.0,
-    "avg_return_pct": -4.5643,
-    "score": 16.74,
+    "accuracy": 20.0,
+    "avg_return_pct": -3.8619,
+    "score": 16.55,
     "status": "观察样本",
     "rank": 12
   }
