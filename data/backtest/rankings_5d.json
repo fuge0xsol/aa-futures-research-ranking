@@ -1,21 +1,21 @@
 [
   {
-    "company_name": "国泰君安期货",
-    "sample_count": 44,
-    "hit_count": 27,
-    "accuracy": 61.36,
-    "avg_return_pct": 1.3137,
-    "score": 62.07,
-    "status": "正式排名",
-    "rank": 1
-  },
-  {
     "company_name": "紫金天风",
     "sample_count": 48,
     "hit_count": 30,
     "accuracy": 62.5,
     "avg_return_pct": 1.1134,
     "score": 61.95,
+    "status": "正式排名",
+    "rank": 1
+  },
+  {
+    "company_name": "国泰君安期货",
+    "sample_count": 43,
+    "hit_count": 26,
+    "accuracy": 60.47,
+    "avg_return_pct": 1.2623,
+    "score": 61.33,
     "status": "正式排名",
     "rank": 2
   },

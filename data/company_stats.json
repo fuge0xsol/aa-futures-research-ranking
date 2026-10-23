@@ -50,7 +50,7 @@
   },
   {
     "company": "五矿期货",
-    "total_reports": 1772,
+    "total_reports": 1779,
     "sectors": [
       "agri",
       "energy",
@@ -63,7 +63,7 @@
   },
   {
     "company": "光大期货",
-    "total_reports": 2172,
+    "total_reports": 2183,
     "sectors": [
       "agri",
       "energy",
@@ -76,7 +76,7 @@
   },
   {
     "company": "华泰期货",
-    "total_reports": 106,
+    "total_reports": 108,
     "sectors": [
       "agri",
       "energy",
@@ -168,7 +168,7 @@
   },
   {
     "company": "格林大华",
-    "total_reports": 1364,
+    "total_reports": 1370,
     "sectors": [
       "agri",
       "energy",
@@ -194,7 +194,7 @@
   },
   {
     "company": "申银万国",
-    "total_reports": 556,
+    "total_reports": 561,
     "sectors": [
       "agri",
       "energy",
@@ -207,7 +207,7 @@
   },
   {
     "company": "紫金天风",
-    "total_reports": 757,
+    "total_reports": 762,
     "sectors": [
       "agri",
       "energy",
@@ -220,7 +220,7 @@
   },
   {
     "company": "银河期货",
-    "total_reports": 3278,
+    "total_reports": 3299,
     "sectors": [
       "agri",
       "energy",
